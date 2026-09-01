@@ -1,4 +1,4 @@
-# Korean Samjho — 한사티
+# Korean Samjho · کورین سمجھو · कोरियन समझो
 
 [![Android CI](https://github.com/Xubair001/KoreanSamjho/actions/workflows/android.yml/badge.svg)](https://github.com/Xubair001/KoreanSamjho/actions/workflows/android.yml)
 
