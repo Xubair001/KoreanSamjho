@@ -1,0 +1,794 @@
+{
+ "content_version": 1,
+ "courses": [
+  {
+   "id": "course.hangul",
+   "track": "ALL",
+   "level": 0,
+   "order": 1,
+   "title": {
+    "en": "Level 0 — Getting Started",
+    "ur": "سطح ۰ — آغاز",
+    "hi": "स्तर 0 — शुरुआत"
+   },
+   "subtitle": {
+    "en": "Read Korean from zero",
+    "ur": "صفر سے کوریائی پڑھنا سیکھیں",
+    "hi": "शून्य से कोरियाई पढ़ना सीखें"
+   }
+  },
+  {
+   "id": "course.beginner",
+   "track": "ALL",
+   "level": 1,
+   "order": 2,
+   "title": {
+    "en": "Beginner",
+    "ur": "ابتدائی",
+    "hi": "प्रारंभिक"
+   },
+   "subtitle": {
+    "en": "Greetings, numbers, family, everyday words",
+    "ur": "سلام، گنتی، خاندان، روزمرہ الفاظ",
+    "hi": "अभिवादन, गिनती, परिवार, रोज़मर्रा शब्द"
+   }
+  },
+  {
+   "id": "course.elementary",
+   "track": "ALL",
+   "level": 2,
+   "order": 3,
+   "title": {
+    "en": "Elementary",
+    "ur": "بنیادی",
+    "hi": "बुनियादी"
+   },
+   "subtitle": {
+    "en": "Sentences you can use today",
+    "ur": "ایسے جملے جو آج ہی کام آئیں",
+    "hi": "ऐसे वाक्य जो आज ही काम आएँ"
+   }
+  },
+  {
+   "id": "course.work",
+   "track": "EPS_EMPLOYMENT",
+   "level": 3,
+   "order": 4,
+   "title": {
+    "en": "Korean for Work",
+    "ur": "کام کے لیے کوریائی",
+    "hi": "काम के लिए कोरियाई"
+   },
+   "subtitle": {
+    "en": "Factory, site, safety and your manager",
+    "ur": "فیکٹری، سائٹ، حفاظت اور نگران",
+    "hi": "फ़ैक्ट्री, साइट, सुरक्षा और पर्यवेक्षक"
+   }
+  },
+  {
+   "id": "course.academic",
+   "track": "TOPIK_ACADEMIC",
+   "level": 3,
+   "order": 4,
+   "title": {
+    "en": "Korean for TOPIK",
+    "ur": "ٹوپک کے لیے کوریائی",
+    "hi": "टॉपिक के लिए कोरियाई"
+   },
+   "subtitle": {
+    "en": "Grammar and reading for the exam",
+    "ur": "امتحان کے لیے گرامر اور مطالعہ",
+    "hi": "परीक्षा के लिए व्याकरण और पठन"
+   }
+  },
+  {
+   "id": "course.life",
+   "track": "ALL",
+   "level": 3,
+   "order": 5,
+   "title": {
+    "en": "Everyday Life in Korea",
+    "ur": "کوریا میں روزمرہ زندگی",
+    "hi": "कोरिया में रोज़मर्रा जीवन"
+   },
+   "subtitle": {
+    "en": "Hospital, bank, shops, offices",
+    "ur": "ہسپتال، بینک، دکانیں، دفاتر",
+    "hi": "अस्पताल, बैंक, दुकानें, कार्यालय"
+   }
+  }
+ ],
+ "lessons": [
+  {
+   "id": "lesson.hangul.01",
+   "course_id": "course.hangul",
+   "order": 1,
+   "title": {
+    "en": "Basic vowels",
+    "ur": "بنیادی حروفِ علت",
+    "hi": "बुनियादी स्वर"
+   },
+   "kind": "hangul",
+   "selector": {
+    "kind": "vowel"
+   },
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.02",
+   "course_id": "course.hangul",
+   "order": 2,
+   "title": {
+    "en": "Basic consonants",
+    "ur": "بنیادی حروفِ صحیح",
+    "hi": "बुनियादी व्यंजन"
+   },
+   "kind": "hangul",
+   "selector": {
+    "kind": "consonant"
+   },
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.03",
+   "course_id": "course.hangul",
+   "order": 3,
+   "title": {
+    "en": "Building syllables",
+    "ur": "حرف جوڑ کر لفظ بنانا",
+    "hi": "अक्षर जोड़कर शब्द बनाना"
+   },
+   "kind": "syllable",
+   "selector": {},
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.04",
+   "course_id": "course.hangul",
+   "order": 4,
+   "title": {
+    "en": "Double consonants",
+    "ur": "دوہرے حروفِ صحیح",
+    "hi": "द्विगुण व्यंजन"
+   },
+   "kind": "hangul",
+   "selector": {
+    "kind": "double_consonant"
+   },
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.05",
+   "course_id": "course.hangul",
+   "order": 5,
+   "title": {
+    "en": "Compound vowels",
+    "ur": "مرکب حروفِ علت",
+    "hi": "संयुक्त स्वर"
+   },
+   "kind": "hangul",
+   "selector": {
+    "kind": "compound_vowel"
+   },
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.06",
+   "course_id": "course.hangul",
+   "order": 6,
+   "title": {
+    "en": "Batchim — final consonants",
+    "ur": "بتچھم — آخری حروف",
+    "hi": "बतचिम — अंतिम व्यंजन"
+   },
+   "kind": "batchim",
+   "selector": {},
+   "level": 0
+  },
+  {
+   "id": "lesson.hangul.07",
+   "course_id": "course.hangul",
+   "order": 7,
+   "title": {
+    "en": "Reading your first words",
+    "ur": "اپنے پہلے الفاظ پڑھنا",
+    "hi": "अपने पहले शब्द पढ़ना"
+   },
+   "kind": "vocab",
+   "selector": {
+    "level": 1,
+    "limit": 12
+   },
+   "level": 0
+  },
+  {
+   "id": "lesson.beginner.01",
+   "course_id": "course.beginner",
+   "order": 1,
+   "title": {
+    "en": "Greetings",
+    "ur": "سلام دعا",
+    "hi": "अभिवादन"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "greetings"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.02",
+   "course_id": "course.beginner",
+   "order": 2,
+   "title": {
+    "en": "Family",
+    "ur": "خاندان",
+    "hi": "परिवार"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "family"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.03",
+   "course_id": "course.beginner",
+   "order": 3,
+   "title": {
+    "en": "Numbers",
+    "ur": "گنتی",
+    "hi": "गिनती"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "numbers"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.04",
+   "course_id": "course.beginner",
+   "order": 4,
+   "title": {
+    "en": "Time and days",
+    "ur": "وقت اور دن",
+    "hi": "समय और दिन"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "time"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.05",
+   "course_id": "course.beginner",
+   "order": 5,
+   "title": {
+    "en": "Everyday verbs",
+    "ur": "روزمرہ افعال",
+    "hi": "रोज़मर्रा क्रियाएँ"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "daily"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.06",
+   "course_id": "course.beginner",
+   "order": 6,
+   "title": {
+    "en": "Food and drink",
+    "ur": "کھانا پینا",
+    "hi": "खान-पान"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "food"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.beginner.07",
+   "course_id": "course.beginner",
+   "order": 7,
+   "title": {
+    "en": "Saying who you are",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "self_intro"
+   },
+   "level": 1
+  },
+  {
+   "id": "lesson.elementary.01",
+   "course_id": "course.elementary",
+   "order": 1,
+   "title": {
+    "en": "Saying what something is",
+    "ur": "کچھ بتانا",
+    "hi": "कुछ बताना"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.be_formal",
+     "grammar.be_polite"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.02",
+   "course_id": "course.elementary",
+   "order": 2,
+   "title": {
+    "en": "Topic and subject particles",
+    "ur": "موضوع اور فاعل کے نشان",
+    "hi": "विषय और कर्ता चिह्न"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.topic",
+     "grammar.subject"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.03",
+   "course_id": "course.elementary",
+   "order": 3,
+   "title": {
+    "en": "Objects and places",
+    "ur": "مفعول اور مقام",
+    "hi": "कर्म और स्थान"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.object",
+     "grammar.loc_e"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.04",
+   "course_id": "course.elementary",
+   "order": 4,
+   "title": {
+    "en": "Where you work",
+    "ur": "آپ کہاں کام کرتے ہیں",
+    "hi": "आप कहाँ काम करते हैं"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.loc_eseo",
+     "grammar.formal_present"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.05",
+   "course_id": "course.elementary",
+   "order": 5,
+   "title": {
+    "en": "Present and past",
+    "ur": "حال اور ماضی",
+    "hi": "वर्तमान और भूत"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.polite_present",
+     "grammar.past"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.06",
+   "course_id": "course.elementary",
+   "order": 6,
+   "title": {
+    "en": "Saying no",
+    "ur": "نفی کرنا",
+    "hi": "निषेध करना"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.neg_an",
+     "grammar.neg_ji_anta"
+    ]
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.07",
+   "course_id": "course.elementary",
+   "order": 7,
+   "title": {
+    "en": "Shopping and eating",
+    "ur": "خریداری اور کھانا",
+    "hi": "खरीदारी और भोजन"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "shopping"
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.elementary.08",
+   "course_id": "course.elementary",
+   "order": 8,
+   "title": {
+    "en": "Getting around",
+    "ur": "آنا جانا",
+    "hi": "आना-जाना"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "transport"
+   },
+   "level": 2
+  },
+  {
+   "id": "lesson.work.01",
+   "course_id": "course.work",
+   "order": 1,
+   "title": {
+    "en": "At the company",
+    "ur": "کمپنی میں",
+    "hi": "कंपनी में"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "work"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.02",
+   "course_id": "course.work",
+   "order": 2,
+   "title": {
+    "en": "In the factory",
+    "ur": "فیکٹری میں",
+    "hi": "फ़ैक्ट्री में"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "factory"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.03",
+   "course_id": "course.work",
+   "order": 3,
+   "title": {
+    "en": "On the construction site",
+    "ur": "تعمیراتی سائٹ پر",
+    "hi": "निर्माण साइट पर"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "construction"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.04",
+   "course_id": "course.work",
+   "order": 4,
+   "title": {
+    "en": "Safety words that keep you safe",
+    "ur": "حفاظتی الفاظ",
+    "hi": "सुरक्षा शब्द"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "safety"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.05",
+   "course_id": "course.work",
+   "order": 5,
+   "title": {
+    "en": "Safety instructions",
+    "ur": "حفاظتی ہدایات",
+    "hi": "सुरक्षा निर्देश"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "workplace_safety"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.06",
+   "course_id": "course.work",
+   "order": 6,
+   "title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات",
+    "hi": "पर्यवेक्षक से बात"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "workplace_manager"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.07",
+   "course_id": "course.work",
+   "order": 7,
+   "title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھیوں سے بات",
+    "hi": "सहकर्मियों से बात"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "coworkers"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.08",
+   "course_id": "course.work",
+   "order": 8,
+   "title": {
+    "en": "Must and must not",
+    "ur": "کرنا ہوگا اور نہ کریں",
+    "hi": "करना होगा और न करें"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.must",
+     "grammar.dont"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.work.09",
+   "course_id": "course.work",
+   "order": 9,
+   "title": {
+    "en": "Interview practice",
+    "ur": "انٹرویو کی مشق",
+    "hi": "साक्षात्कार अभ्यास"
+   },
+   "kind": "interview",
+   "selector": {},
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.01",
+   "course_id": "course.academic",
+   "order": 1,
+   "title": {
+    "en": "Giving reasons",
+    "ur": "سبب بتانا",
+    "hi": "कारण बताना"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.because_aseo",
+     "grammar.because_nikka"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.02",
+   "course_id": "course.academic",
+   "order": 2,
+   "title": {
+    "en": "Conditions and contrast",
+    "ur": "شرط اور تقابل",
+    "hi": "शर्त और तुलना"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.if",
+     "grammar.but"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.03",
+   "course_id": "course.academic",
+   "order": 3,
+   "title": {
+    "en": "Ability and desire",
+    "ur": "صلاحیت اور خواہش",
+    "hi": "क्षमता और इच्छा"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.can",
+     "grammar.want"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.04",
+   "course_id": "course.academic",
+   "order": 4,
+   "title": {
+    "en": "Respect and requests",
+    "ur": "احترام اور درخواست",
+    "hi": "आदर और अनुरोध"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.honorific_si",
+     "grammar.request"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.05",
+   "course_id": "course.academic",
+   "order": 5,
+   "title": {
+    "en": "Joining ideas",
+    "ur": "خیالات جوڑنا",
+    "hi": "विचार जोड़ना"
+   },
+   "kind": "grammar",
+   "selector": {
+    "ids": [
+     "grammar.and_go",
+     "grammar.also_do"
+    ]
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.academic.06",
+   "course_id": "course.academic",
+   "order": 6,
+   "title": {
+    "en": "Intermediate vocabulary",
+    "ur": "درمیانی ذخیرۂ الفاظ",
+    "hi": "मध्यम शब्दावली"
+   },
+   "kind": "vocab",
+   "selector": {
+    "level": 3
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.01",
+   "course_id": "course.life",
+   "order": 1,
+   "title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "hospital"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.02",
+   "course_id": "course.life",
+   "order": 2,
+   "title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "bank"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.03",
+   "course_id": "course.life",
+   "order": 3,
+   "title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "directions"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.04",
+   "course_id": "course.life",
+   "order": 4,
+   "title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "restaurant"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.05",
+   "course_id": "course.life",
+   "order": 5,
+   "title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "kind": "sentence",
+   "selector": {
+    "scenario": "immigration"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.06",
+   "course_id": "course.life",
+   "order": 6,
+   "title": {
+    "en": "Health and the body",
+    "ur": "صحت اور جسم",
+    "hi": "स्वास्थ्य और शरीर"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "health"
+   },
+   "level": 3
+  },
+  {
+   "id": "lesson.life.07",
+   "course_id": "course.life",
+   "order": 7,
+   "title": {
+    "en": "Emergencies",
+    "ur": "ہنگامی حالات",
+    "hi": "आपात स्थिति"
+   },
+   "kind": "vocab",
+   "selector": {
+    "category": "emergency"
+   },
+   "level": 3
+  }
+ ]
+}

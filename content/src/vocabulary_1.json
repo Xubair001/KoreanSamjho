@@ -1,0 +1,973 @@
+{
+ "content_version": 1,
+ "vocabulary": [
+  {
+   "id": "vocab.greetings.annyeonghaseyo",
+   "korean": "안녕하세요",
+   "romanization": "annyeonghaseyo",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "hello (polite)",
+    "ur": "السلام علیکم / ہیلو (بااحترام)",
+    "hi": "नमस्ते / हैलो (आदरसूचक)"
+   },
+   "example": {
+    "korean": "안녕하세요, 저는 빌랄입니다.",
+    "romanization": "annyeonghaseyo, jeoneun billal-imnida.",
+    "en": "Hello, I am Bilal.",
+    "ur": "السلام علیکم، میں بلال ہوں۔",
+    "hi": "नमस्ते, मैं बिलाल हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.annyeonghi_gaseyo",
+   "korean": "안녕히 가세요",
+   "romanization": "annyeonghi gaseyo",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "goodbye (to someone leaving)",
+    "ur": "خدا حافظ (جانے والے سے)",
+    "hi": "अलविदा (जाने वाले से)"
+   },
+   "example": {
+    "korean": "안녕히 가세요, 내일 봐요.",
+    "romanization": "annyeonghi gaseyo, naeil bwayo.",
+    "en": "Goodbye, see you tomorrow.",
+    "ur": "خدا حافظ، کل ملتے ہیں۔",
+    "hi": "अलविदा, कल मिलते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.annyeonghi_gyeseyo",
+   "korean": "안녕히 계세요",
+   "romanization": "annyeonghi gyeseyo",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "goodbye (to someone staying)",
+    "ur": "خدا حافظ (رہنے والے سے)",
+    "hi": "अलविदा (रुकने वाले से)"
+   },
+   "example": {
+    "korean": "먼저 갑니다. 안녕히 계세요.",
+    "romanization": "meonjeo gamnida. annyeonghi gyeseyo.",
+    "en": "I am leaving first. Goodbye.",
+    "ur": "میں پہلے جا رہا ہوں۔ خدا حافظ۔",
+    "hi": "मैं पहले जा रहा हूँ। अलविदा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.gamsahamnida",
+   "korean": "감사합니다",
+   "romanization": "gamsahamnida",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "thank you (formal)",
+    "ur": "شکریہ (رسمی)",
+    "hi": "धन्यवाद (औपचारिक)"
+   },
+   "example": {
+    "korean": "도와주셔서 감사합니다.",
+    "romanization": "dowajusyeoseo gamsahamnida.",
+    "en": "Thank you for helping me.",
+    "ur": "مدد کرنے کا شکریہ۔",
+    "hi": "मदद करने के लिए धन्यवाद।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.gomapseumnida",
+   "korean": "고맙습니다",
+   "romanization": "gomapseumnida",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "thank you",
+    "ur": "شکریہ",
+    "hi": "धन्यवाद"
+   },
+   "example": {
+    "korean": "정말 고맙습니다.",
+    "romanization": "jeongmal gomapseumnida.",
+    "en": "Thank you very much.",
+    "ur": "بہت بہت شکریہ۔",
+    "hi": "बहुत बहुत धन्यवाद।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.joesonghamnida",
+   "korean": "죄송합니다",
+   "romanization": "joesonghamnida",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "I am sorry (formal apology)",
+    "ur": "معذرت چاہتا ہوں (رسمی)",
+    "hi": "क्षमा कीजिए (औपचारिक)"
+   },
+   "example": {
+    "korean": "늦어서 죄송합니다.",
+    "romanization": "neujeoseo joesonghamnida.",
+    "en": "I am sorry for being late.",
+    "ur": "دیر ہونے پر معذرت۔",
+    "hi": "देर होने के लिए क्षमा कीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.sillyehamnida",
+   "korean": "실례합니다",
+   "romanization": "sillyehamnida",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "excuse me",
+    "ur": "معاف کیجیے / سنیے",
+    "hi": "माफ़ कीजिए / सुनिए"
+   },
+   "example": {
+    "korean": "실례합니다, 잠깐만요.",
+    "romanization": "sillyehamnida, jamkkanmanyo.",
+    "en": "Excuse me, just a moment.",
+    "ur": "معاف کیجیے، ذرا ٹھہریں۔",
+    "hi": "माफ़ कीजिए, ज़रा रुकिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.bangapseumnida",
+   "korean": "반갑습니다",
+   "romanization": "bangapseumnida",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "nice to meet you",
+    "ur": "مل کر خوشی ہوئی",
+    "hi": "आपसे मिलकर खुशी हुई"
+   },
+   "example": {
+    "korean": "만나서 반갑습니다.",
+    "romanization": "mannaseo bangapseumnida.",
+    "en": "Nice to meet you.",
+    "ur": "آپ سے مل کر خوشی ہوئی۔",
+    "hi": "आपसे मिलकर खुशी हुई।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.ne",
+   "korean": "네",
+   "romanization": "ne",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "yes",
+    "ur": "جی ہاں",
+    "hi": "जी हाँ"
+   },
+   "example": {
+    "korean": "네, 알겠습니다.",
+    "romanization": "ne, algetseumnida.",
+    "en": "Yes, I understand.",
+    "ur": "جی ہاں، سمجھ گیا۔",
+    "hi": "जी हाँ, समझ गया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.aniyo",
+   "korean": "아니요",
+   "romanization": "aniyo",
+   "pos": "expression",
+   "level": 1,
+   "category": "greetings",
+   "meaning": {
+    "en": "no",
+    "ur": "جی نہیں",
+    "hi": "जी नहीं"
+   },
+   "example": {
+    "korean": "아니요, 괜찮습니다.",
+    "romanization": "aniyo, gwaenchanseumnida.",
+    "en": "No, it is all right.",
+    "ur": "جی نہیں، ٹھیک ہے۔",
+    "hi": "जी नहीं, ठीक है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.joesonghajiman",
+   "korean": "죄송하지만",
+   "romanization": "joesonghajiman",
+   "pos": "expression",
+   "level": 2,
+   "category": "greetings",
+   "meaning": {
+    "en": "excuse me, but... (polite opener)",
+    "ur": "معذرت کے ساتھ...",
+    "hi": "क्षमा करें, लेकिन..."
+   },
+   "example": {
+    "korean": "죄송하지만 다시 말씀해 주세요.",
+    "romanization": "joesonghajiman dasi malsseumhae juseyo.",
+    "en": "Excuse me, but please say that again.",
+    "ur": "معذرت، براہِ کرم دوبارہ کہیے۔",
+    "hi": "क्षमा करें, कृपया फिर से कहिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.greetings.jal_butakdeurimnida",
+   "korean": "잘 부탁드립니다",
+   "romanization": "jal butakdeurimnida",
+   "pos": "expression",
+   "level": 2,
+   "category": "greetings",
+   "meaning": {
+    "en": "I look forward to working with you",
+    "ur": "آپ کے تعاون کا منتظر ہوں",
+    "hi": "आपके सहयोग की आशा है"
+   },
+   "example": {
+    "korean": "앞으로 잘 부탁드립니다.",
+    "romanization": "apeuro jal butakdeurimnida.",
+    "en": "I look forward to working with you.",
+    "ur": "آگے آپ کے تعاون کا منتظر ہوں۔",
+    "hi": "आगे आपके सहयोग की आशा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.gajok",
+   "korean": "가족",
+   "romanization": "gajok",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "family",
+    "ur": "خاندان",
+    "hi": "परिवार"
+   },
+   "example": {
+    "korean": "우리 가족은 다섯 명입니다.",
+    "romanization": "uri gajogeun daseot myeong-imnida.",
+    "en": "My family has five people.",
+    "ur": "میرا خاندان پانچ افراد پر مشتمل ہے۔",
+    "hi": "मेरे परिवार में पाँच लोग हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.abeoji",
+   "korean": "아버지",
+   "romanization": "abeoji",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "father",
+    "ur": "والد",
+    "hi": "पिता"
+   },
+   "example": {
+    "korean": "아버지는 농부입니다.",
+    "romanization": "abeojineun nongbu-imnida.",
+    "en": "My father is a farmer.",
+    "ur": "میرے والد کسان ہیں۔",
+    "hi": "मेरे पिता किसान हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.eomeoni",
+   "korean": "어머니",
+   "romanization": "eomeoni",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "mother",
+    "ur": "والدہ",
+    "hi": "माता"
+   },
+   "example": {
+    "korean": "어머니께 전화했습니다.",
+    "romanization": "eomeonikke jeonhwahaetseumnida.",
+    "en": "I called my mother.",
+    "ur": "میں نے والدہ کو فون کیا۔",
+    "hi": "मैंने माँ को फ़ोन किया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.hyeong",
+   "korean": "형",
+   "romanization": "hyeong",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "older brother (male speaker)",
+    "ur": "بڑا بھائی (مرد بولنے والا)",
+    "hi": "बड़ा भाई (पुरुष वक्ता)"
+   },
+   "example": {
+    "korean": "형은 한국에 있습니다.",
+    "romanization": "hyeong-eun hangug-e itseumnida.",
+    "en": "My older brother is in Korea.",
+    "ur": "میرا بڑا بھائی کوریا میں ہے۔",
+    "hi": "मेरा बड़ा भाई कोरिया में है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.oppa",
+   "korean": "오빠",
+   "romanization": "oppa",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "older brother (female speaker)",
+    "ur": "بڑا بھائی (عورت بولنے والی)",
+    "hi": "बड़ा भाई (महिला वक्ता)"
+   },
+   "example": {
+    "korean": "오빠가 도와줬어요.",
+    "romanization": "oppaga dowajwosseoyo.",
+    "en": "My older brother helped me.",
+    "ur": "میرے بھائی نے میری مدد کی۔",
+    "hi": "मेरे भाई ने मेरी मदद की।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.nuna",
+   "korean": "누나",
+   "romanization": "nuna",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "older sister (male speaker)",
+    "ur": "بڑی بہن (مرد بولنے والا)",
+    "hi": "बड़ी बहन (पुरुष वक्ता)"
+   },
+   "example": {
+    "korean": "누나는 선생님입니다.",
+    "romanization": "nunaneun seonsaengnim-imnida.",
+    "en": "My older sister is a teacher.",
+    "ur": "میری بڑی بہن استانی ہیں۔",
+    "hi": "मेरी बड़ी बहन शिक्षिका हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.eonni",
+   "korean": "언니",
+   "romanization": "eonni",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "older sister (female speaker)",
+    "ur": "بڑی بہن (عورت بولنے والی)",
+    "hi": "बड़ी बहन (महिला वक्ता)"
+   },
+   "example": {
+    "korean": "언니와 같이 갔어요.",
+    "romanization": "eonniwa gachi gasseoyo.",
+    "en": "I went together with my older sister.",
+    "ur": "میں اپنی بہن کے ساتھ گئی۔",
+    "hi": "मैं अपनी बहन के साथ गई।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.dongsaeng",
+   "korean": "동생",
+   "romanization": "dongsaeng",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "younger sibling",
+    "ur": "چھوٹا بھائی یا بہن",
+    "hi": "छोटा भाई या बहन"
+   },
+   "example": {
+    "korean": "동생이 학교에 갑니다.",
+    "romanization": "dongsaeng-i hakgyo-e gamnida.",
+    "en": "My younger sibling goes to school.",
+    "ur": "میرا چھوٹا بھائی اسکول جاتا ہے۔",
+    "hi": "मेरा छोटा भाई स्कूल जाता है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.adeul",
+   "korean": "아들",
+   "romanization": "adeul",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "son",
+    "ur": "بیٹا",
+    "hi": "बेटा"
+   },
+   "example": {
+    "korean": "아들이 두 명 있습니다.",
+    "romanization": "adeuri du myeong itseumnida.",
+    "en": "I have two sons.",
+    "ur": "میرے دو بیٹے ہیں۔",
+    "hi": "मेरे दो बेटे हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.ttal",
+   "korean": "딸",
+   "romanization": "ttal",
+   "pos": "noun",
+   "level": 1,
+   "category": "family",
+   "meaning": {
+    "en": "daughter",
+    "ur": "بیٹی",
+    "hi": "बेटी"
+   },
+   "example": {
+    "korean": "딸은 세 살입니다.",
+    "romanization": "ttareun se sal-imnida.",
+    "en": "My daughter is three years old.",
+    "ur": "میری بیٹی تین سال کی ہے۔",
+    "hi": "मेरी बेटी तीन साल की है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.anae",
+   "korean": "아내",
+   "romanization": "anae",
+   "pos": "noun",
+   "level": 2,
+   "category": "family",
+   "meaning": {
+    "en": "wife",
+    "ur": "بیوی",
+    "hi": "पत्नी"
+   },
+   "example": {
+    "korean": "아내는 파키스탄에 있습니다.",
+    "romanization": "anaeneun pakiseutan-e itseumnida.",
+    "en": "My wife is in Pakistan.",
+    "ur": "میری بیوی پاکستان میں ہے۔",
+    "hi": "मेरी पत्नी पाकिस्तान में है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.nampyeon",
+   "korean": "남편",
+   "romanization": "nampyeon",
+   "pos": "noun",
+   "level": 2,
+   "category": "family",
+   "meaning": {
+    "en": "husband",
+    "ur": "شوہر",
+    "hi": "पति"
+   },
+   "example": {
+    "korean": "남편이 회사에 다닙니다.",
+    "romanization": "nampyeoni hoesa-e danimnida.",
+    "en": "My husband works at a company.",
+    "ur": "میرے شوہر کمپنی میں کام کرتے ہیں۔",
+    "hi": "मेरे पति कंपनी में काम करते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.bumonim",
+   "korean": "부모님",
+   "romanization": "bumonim",
+   "pos": "noun",
+   "level": 2,
+   "category": "family",
+   "meaning": {
+    "en": "parents (honorific)",
+    "ur": "والدین (بااحترام)",
+    "hi": "माता-पिता (आदरसूचक)"
+   },
+   "example": {
+    "korean": "부모님은 고향에 계십니다.",
+    "romanization": "bumonimeun gohyang-e gyesimnida.",
+    "en": "My parents are in my hometown.",
+    "ur": "میرے والدین آبائی شہر میں ہیں۔",
+    "hi": "मेरे माता-पिता गृहनगर में हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.harabeoji",
+   "korean": "할아버지",
+   "romanization": "harabeoji",
+   "pos": "noun",
+   "level": 2,
+   "category": "family",
+   "meaning": {
+    "en": "grandfather",
+    "ur": "دادا / نانا",
+    "hi": "दादा / नाना"
+   },
+   "example": {
+    "korean": "할아버지께서 오셨습니다.",
+    "romanization": "harabeojikkeseo osyeotseumnida.",
+    "en": "My grandfather came.",
+    "ur": "دادا جان تشریف لائے۔",
+    "hi": "दादाजी आए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.family.halmeoni",
+   "korean": "할머니",
+   "romanization": "halmeoni",
+   "pos": "noun",
+   "level": 2,
+   "category": "family",
+   "meaning": {
+    "en": "grandmother",
+    "ur": "دادی / نانی",
+    "hi": "दादी / नानी"
+   },
+   "example": {
+    "korean": "할머니는 건강하십니다.",
+    "romanization": "halmeonineun geonganghasimnida.",
+    "en": "My grandmother is healthy.",
+    "ur": "دادی جان صحت مند ہیں۔",
+    "hi": "दादीजी स्वस्थ हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.oneul",
+   "korean": "오늘",
+   "romanization": "oneul",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "today",
+    "ur": "آج",
+    "hi": "आज"
+   },
+   "example": {
+    "korean": "오늘은 월요일입니다.",
+    "romanization": "oneureun woryoil-imnida.",
+    "en": "Today is Monday.",
+    "ur": "آج پیر ہے۔",
+    "hi": "आज सोमवार है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.naeil",
+   "korean": "내일",
+   "romanization": "naeil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "tomorrow",
+    "ur": "کل (آنے والا)",
+    "hi": "कल (आने वाला)"
+   },
+   "example": {
+    "korean": "내일 일합니다.",
+    "romanization": "naeil ilhamnida.",
+    "en": "I work tomorrow.",
+    "ur": "میں کل کام کروں گا۔",
+    "hi": "मैं कल काम करूँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.eoje",
+   "korean": "어제",
+   "romanization": "eoje",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "yesterday",
+    "ur": "کل (گزرا ہوا)",
+    "hi": "कल (बीता हुआ)"
+   },
+   "example": {
+    "korean": "어제 병원에 갔습니다.",
+    "romanization": "eoje byeongwon-e gatseumnida.",
+    "en": "I went to the hospital yesterday.",
+    "ur": "میں کل ہسپتال گیا تھا۔",
+    "hi": "मैं कल अस्पताल गया था।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.jigeum",
+   "korean": "지금",
+   "romanization": "jigeum",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "now",
+    "ur": "ابھی / اس وقت",
+    "hi": "अभी / इस समय"
+   },
+   "example": {
+    "korean": "지금 몇 시입니까?",
+    "romanization": "jigeum myeot si-imnikka?",
+    "en": "What time is it now?",
+    "ur": "اس وقت کتنے بجے ہیں؟",
+    "hi": "अभी कितने बजे हैं?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.achim",
+   "korean": "아침",
+   "romanization": "achim",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "morning; breakfast",
+    "ur": "صبح؛ ناشتہ",
+    "hi": "सुबह; नाश्ता"
+   },
+   "example": {
+    "korean": "아침 여섯 시에 일어납니다.",
+    "romanization": "achim yeoseot si-e ireonamnida.",
+    "en": "I get up at six in the morning.",
+    "ur": "میں صبح چھ بجے اٹھتا ہوں۔",
+    "hi": "मैं सुबह छह बजे उठता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.jeomsim",
+   "korean": "점심",
+   "romanization": "jeomsim",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "lunch; midday",
+    "ur": "دوپہر؛ دوپہر کا کھانا",
+    "hi": "दोपहर; दोपहर का भोजन"
+   },
+   "example": {
+    "korean": "점심시간은 한 시간입니다.",
+    "romanization": "jeomsimsiganeun han sigan-imnida.",
+    "en": "The lunch break is one hour.",
+    "ur": "دوپہر کے کھانے کا وقفہ ایک گھنٹہ ہے۔",
+    "hi": "दोपहर के भोजन का अवकाश एक घंटा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.jeonyeok",
+   "korean": "저녁",
+   "romanization": "jeonyeok",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "evening; dinner",
+    "ur": "شام؛ رات کا کھانا",
+    "hi": "शाम; रात का भोजन"
+   },
+   "example": {
+    "korean": "저녁에 쉽니다.",
+    "romanization": "jeonyeog-e swimnida.",
+    "en": "I rest in the evening.",
+    "ur": "میں شام کو آرام کرتا ہوں۔",
+    "hi": "मैं शाम को आराम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.sigan",
+   "korean": "시간",
+   "romanization": "sigan",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "time; hour",
+    "ur": "وقت؛ گھنٹہ",
+    "hi": "समय; घंटा"
+   },
+   "example": {
+    "korean": "시간이 없습니다.",
+    "romanization": "sigani eopseumnida.",
+    "en": "I do not have time.",
+    "ur": "میرے پاس وقت نہیں ہے۔",
+    "hi": "मेरे पास समय नहीं है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.jumal",
+   "korean": "주말",
+   "romanization": "jumal",
+   "pos": "noun",
+   "level": 2,
+   "category": "time",
+   "meaning": {
+    "en": "weekend",
+    "ur": "اختتامِ ہفتہ",
+    "hi": "सप्ताहांत"
+   },
+   "example": {
+    "korean": "주말에 쉽니다.",
+    "romanization": "jumar-e swimnida.",
+    "en": "I rest on the weekend.",
+    "ur": "میں اختتامِ ہفتہ پر آرام کرتا ہوں۔",
+    "hi": "मैं सप्ताहांत पर आराम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.yoil",
+   "korean": "요일",
+   "romanization": "yoil",
+   "pos": "noun",
+   "level": 2,
+   "category": "time",
+   "meaning": {
+    "en": "day of the week",
+    "ur": "ہفتے کا دن",
+    "hi": "सप्ताह का दिन"
+   },
+   "example": {
+    "korean": "오늘은 무슨 요일입니까?",
+    "romanization": "oneureun museun yoil-imnikka?",
+    "en": "What day of the week is it today?",
+    "ur": "آج ہفتے کا کون سا دن ہے؟",
+    "hi": "आज सप्ताह का कौन सा दिन है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.woryoil",
+   "korean": "월요일",
+   "romanization": "woryoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Monday",
+    "ur": "پیر",
+    "hi": "सोमवार"
+   },
+   "example": {
+    "korean": "월요일에 시작합니다.",
+    "romanization": "woryoir-e sijakhamnida.",
+    "en": "It starts on Monday.",
+    "ur": "یہ پیر کو شروع ہوتا ہے۔",
+    "hi": "यह सोमवार को शुरू होता है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.hwayoil",
+   "korean": "화요일",
+   "romanization": "hwayoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Tuesday",
+    "ur": "منگل",
+    "hi": "मंगलवार"
+   },
+   "example": {
+    "korean": "화요일에 만납시다.",
+    "romanization": "hwayoir-e mannapsida.",
+    "en": "Let us meet on Tuesday.",
+    "ur": "منگل کو ملتے ہیں۔",
+    "hi": "मंगलवार को मिलते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.suyoil",
+   "korean": "수요일",
+   "romanization": "suyoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Wednesday",
+    "ur": "بدھ",
+    "hi": "बुधवार"
+   },
+   "example": {
+    "korean": "수요일은 바쁩니다.",
+    "romanization": "suyoireun bappeumnida.",
+    "en": "Wednesday is busy.",
+    "ur": "بدھ کا دن مصروف ہوتا ہے۔",
+    "hi": "बुधवार व्यस्त रहता है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.mogyoil",
+   "korean": "목요일",
+   "romanization": "mogyoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Thursday",
+    "ur": "جمعرات",
+    "hi": "गुरुवार"
+   },
+   "example": {
+    "korean": "목요일에 월급을 받습니다.",
+    "romanization": "mogyoir-e wolgeubeul batseumnida.",
+    "en": "I receive my salary on Thursday.",
+    "ur": "مجھے جمعرات کو تنخواہ ملتی ہے۔",
+    "hi": "मुझे गुरुवार को वेतन मिलता है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.geumyoil",
+   "korean": "금요일",
+   "romanization": "geumyoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Friday",
+    "ur": "جمعہ",
+    "hi": "शुक्रवार"
+   },
+   "example": {
+    "korean": "금요일에 기도합니다.",
+    "romanization": "geumyoir-e gidohamnida.",
+    "en": "I pray on Friday.",
+    "ur": "میں جمعہ کو نماز پڑھتا ہوں۔",
+    "hi": "मैं शुक्रवार को नमाज़ पढ़ता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.toyoil",
+   "korean": "토요일",
+   "romanization": "toyoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Saturday",
+    "ur": "ہفتہ",
+    "hi": "शनिवार"
+   },
+   "example": {
+    "korean": "토요일에도 일합니까?",
+    "romanization": "toyoiredo ilhamnikka?",
+    "en": "Do you work on Saturday too?",
+    "ur": "کیا آپ ہفتے کو بھی کام کرتے ہیں؟",
+    "hi": "क्या आप शनिवार को भी काम करते हैं?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.time.iryoil",
+   "korean": "일요일",
+   "romanization": "iryoil",
+   "pos": "noun",
+   "level": 1,
+   "category": "time",
+   "meaning": {
+    "en": "Sunday",
+    "ur": "اتوار",
+    "hi": "रविवार"
+   },
+   "example": {
+    "korean": "일요일은 쉬는 날입니다.",
+    "romanization": "iryoireun swineun nar-imnida.",
+    "en": "Sunday is a rest day.",
+    "ur": "اتوار آرام کا دن ہے۔",
+    "hi": "रविवार आराम का दिन है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

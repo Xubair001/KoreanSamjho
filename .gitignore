@@ -1,0 +1,30 @@
+# --- Gradle / Android build output ---
+.gradle/
+build/
+app/build/
+.kotlin/
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- Machine-specific ---
+local.properties
+
+# --- Signing material: never commit these ---
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# --- Build artefacts ---
+*.apk
+*.aab
+
+# Generated from content/src by content/tools/build_db.py on every build.
+app/src/main/assets/content.db
+
+# --- OS noise ---
+.DS_Store
+Thumbs.db

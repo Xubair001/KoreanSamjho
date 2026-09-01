@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Korean Samjho</string>
+    <string name="app_tagline">Learn Korean in your language</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_practice">Practice</string>
+    <string name="nav_tests">Tests</string>
+    <string name="nav_progress">Progress</string>
+
+    <!-- Onboarding -->
+    <string name="onb_lang_title">Choose your language</string>
+    <string name="onb_lang_sub">Korean will be taught in this language. You can change it any time.</string>
+    <string name="onb_country_title">Where are you from?</string>
+    <string name="onb_country_sub">This helps us show the right exam information for you.</string>
+    <string name="onb_goal_title">What is your goal?</string>
+    <string name="onb_goal_sub">We will build your learning path around this.</string>
+    <string name="country_pakistan">Pakistan</string>
+    <string name="country_india">India</string>
+    <string name="country_other">Somewhere else</string>
+    <string name="goal_work">Work in Korea</string>
+    <string name="goal_work_sub">EPS-TOPIK, workplace and safety Korean</string>
+    <string name="goal_exam">Study or take TOPIK</string>
+    <string name="goal_exam_sub">Grammar, reading and TOPIK practice</string>
+    <string name="goal_general">Everyday Korean</string>
+    <string name="goal_general_sub">Conversation, travel and culture</string>
+    <string name="onb_eps_note">EPS is open to 17 partner countries. Pakistan is one of them; India is not. We will show you the exam that actually applies to you.</string>
+    <string name="continue_">Continue</string>
+    <string name="back">Back</string>
+    <string name="start_learning">Start learning</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Your Korean journey</string>
+    <string name="home_continue">Continue learning</string>
+    <string name="home_review_today">Review today</string>
+    <string name="home_review_count">%1$d items to review</string>
+    <string name="home_nothing_due">Nothing due — well done</string>
+    <string name="home_daily_word">Word of the day</string>
+    <string name="home_daily_sentence">Sentence of the day</string>
+    <string name="home_quick_practice">Quick practice</string>
+    <string name="home_mock_test">Mock test</string>
+    <string name="home_goal_today">Today\'s goal: %1$d minutes</string>
+    <string name="home_streak">%1$d day streak</string>
+    <string name="home_start_here">Start here</string>
+
+    <!-- Learn -->
+    <string name="learn_courses">Courses</string>
+    <string name="learn_vocabulary">Vocabulary</string>
+    <string name="learn_grammar">Grammar</string>
+    <string name="learn_sentences">Sentences</string>
+    <string name="learn_browse">Browse</string>
+    <string name="lessons_count">%1$d lessons</string>
+    <string name="words_count">%1$d words</string>
+    <string name="completed">Completed</string>
+    <string name="mark_complete">Mark as complete</string>
+    <string name="lesson_practice">Practise this lesson</string>
+
+    <!-- Vocabulary / detail -->
+    <string name="example">Example</string>
+    <string name="meaning">Meaning</string>
+    <string name="part_of_speech">Part of speech</string>
+    <string name="level">Level</string>
+    <string name="category">Category</string>
+    <string name="favourite_add">Add to favourites</string>
+    <string name="favourite_remove">Remove from favourites</string>
+    <string name="play_audio">Play audio</string>
+    <string name="play_slow">Play slowly</string>
+
+    <!-- Grammar -->
+    <string name="grammar_structure">Structure</string>
+    <string name="grammar_when">When to use it</string>
+    <string name="grammar_examples">Examples</string>
+    <string name="grammar_mistake">Common mistake</string>
+    <string name="formality">Register</string>
+
+    <!-- Practice -->
+    <string name="practice_review">Review due today</string>
+    <string name="practice_difficult">Difficult words</string>
+    <string name="practice_mistakes">My mistakes</string>
+    <string name="practice_recent">Recently learned</string>
+    <string name="practice_favourites">Favourites</string>
+    <string name="practice_flashcards">Flashcards</string>
+    <string name="practice_listening">Listening</string>
+    <string name="practice_interview">Interview practice</string>
+    <string name="practice_quick">Quick practice</string>
+    <string name="show_answer">Show answer</string>
+    <string name="knew_it">I knew it</string>
+    <string name="didnt_know">I did not know</string>
+
+    <!-- Tests -->
+    <string name="tests_quick">Quick quiz</string>
+    <string name="tests_quick_sub">10 questions, no timer</string>
+    <string name="tests_vocab">Vocabulary test</string>
+    <string name="tests_grammar">Grammar test</string>
+    <string name="tests_listening">Listening test</string>
+    <string name="tests_reading">Reading test</string>
+    <string name="tests_mock">Full mock exam</string>
+    <string name="tests_history">Past attempts</string>
+    <string name="tests_practice_notice">Practice test — not an official examination</string>
+    <string name="tests_practice_explain">These questions are written by Korean Samjho for practice. They are not real exam questions and your score here is not an official result.</string>
+    <string name="question_of">Question %1$d of %2$d</string>
+    <string name="mark_review">Mark for review</string>
+    <string name="marked_review">Marked</string>
+    <string name="submit_test">Submit test</string>
+    <string name="submit_confirm">Submit your answers?</string>
+    <string name="submit_unanswered">You have %1$d unanswered question(s).</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="finish">Finish</string>
+    <string name="your_score">Your score</string>
+    <string name="correct_answers">%1$d of %2$d correct</string>
+    <string name="review_answers">Review answers</string>
+    <string name="weak_areas">Areas to work on</string>
+    <string name="strong_areas">Your strong areas</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="your_answer">Your answer</string>
+    <string name="right_answer">Correct answer</string>
+    <string name="not_answered">Not answered</string>
+    <string name="explanation">Why</string>
+    <string name="time_taken">Time</string>
+    <string name="try_again">Try again</string>
+    <string name="no_attempts">No tests taken yet</string>
+
+    <!-- Exam info -->
+    <string name="exam_info">Exam information</string>
+    <string name="exam_who">Who it is for</string>
+    <string name="exam_structure">Structure</string>
+    <string name="exam_scoring">How it is scored</string>
+    <string name="exam_official">Official website</string>
+    <string name="exam_confidence_corroborated">Some details below could not be confirmed from an official source and may change. Always check the official notice.</string>
+    <string name="exam_sections">%1$d questions · %2$d points</string>
+
+    <!-- Progress -->
+    <string name="progress_title">Your progress</string>
+    <string name="progress_words_learned">Words learned</string>
+    <string name="progress_mastered">Mastered</string>
+    <string name="progress_lessons">Lessons done</string>
+    <string name="progress_tests">Tests taken</string>
+    <string name="progress_streak">Current streak</string>
+    <string name="progress_longest">Longest streak</string>
+    <string name="progress_time">Time studied</string>
+    <string name="progress_accuracy">Accuracy</string>
+    <string name="progress_level">Level %1$d</string>
+    <string name="progress_xp">%1$d / %2$d XP</string>
+    <string name="progress_skills">By skill</string>
+    <string name="progress_week">This week</string>
+    <string name="achievements">Achievements</string>
+    <string name="ach_first_day">First day</string>
+    <string name="ach_streak_7">7 day streak</string>
+    <string name="ach_streak_30">30 day streak</string>
+    <string name="ach_100_words">First 100 words</string>
+    <string name="ach_10_lessons">10 lessons completed</string>
+    <string name="ach_test_master">Mock test master</string>
+    <string name="locked">Locked</string>
+
+    <!-- Search -->
+    <string name="search">Search</string>
+    <string name="search_hint">Korean, English, Urdu or Hindi</string>
+    <string name="search_empty">Type to search words, sentences and grammar</string>
+    <string name="search_none">Nothing found for “%1$s”</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="settings_language">App language</string>
+    <string name="settings_goal">Learning goal</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="theme_system">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_text_size">Text size</string>
+    <string name="settings_romanization">Show romanization</string>
+    <string name="settings_romanization_sub">Latin spelling under Korean words</string>
+    <string name="settings_reduced_motion">Reduce motion</string>
+    <string name="settings_reduced_motion_sub">Fewer animations</string>
+    <string name="settings_audio">Audio</string>
+    <string name="settings_tts">Korean speech</string>
+    <string name="settings_daily_goal">Daily goal</string>
+    <string name="minutes">%1$d minutes</string>
+    <string name="settings_about">About</string>
+    <string name="about_sources">Content sources</string>
+    <string name="about_privacy">Privacy</string>
+    <string name="about_licences">Licences</string>
+    <string name="about_version">Version %1$s · content pack %2$s</string>
+
+    <!-- TTS -->
+    <string name="tts_missing_title">Korean voice not installed</string>
+    <string name="tts_missing_body">Your phone does not have the Korean voice yet, so pronunciation cannot be played. Tap below, then choose Korean and download it (about 30 MB, one time). Everything else in the app works without it.</string>
+    <string name="tts_install">Install Korean voice</string>
+    <string name="tts_none_body">No text-to-speech engine was found on this phone, so audio is unavailable. All reading and writing features still work.</string>
+
+    <!-- Privacy -->
+    <string name="privacy_body">Samjho does not collect your personal data. There is no account, no sign-in and no tracking. Your progress is stored only on this phone. The app requests no internet permission at all, so nothing you do here can leave your device.</string>
+
+    <!-- Generic -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading…</string>
+    <string name="empty_nothing_here">Nothing here yet</string>
+    <string name="review_pending">Urdu and Hindi translations are being reviewed by native speakers</string>
+    <string name="see_all">See all</string>
+    <string name="favourites">Favourites</string>
+    <string name="all">All</string>
+    <string name="tts_not_now">Not now</string>
+    <string name="tts_banner_short">Korean voice not installed — tap to install</string>
+    <string name="tts_needed_listening">Listening practice needs the Korean voice installed on your phone.</string>
+    <string name="tts_how_to">After tapping Install, find Korean in the list and download it. Then come back — audio will start working straight away.</string>
+    <string name="tts_none_title">Text-to-speech not available</string>
+</resources>

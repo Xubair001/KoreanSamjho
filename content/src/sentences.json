@@ -1,0 +1,1305 @@
+{
+ "content_version": 1,
+ "sentences": [
+  {
+   "id": "sent.self_intro.01",
+   "scenario": "self_intro",
+   "order": 1,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "안녕하세요. 처음 뵙겠습니다.",
+   "romanization": "annyeonghaseyo. cheoeum boepgetseumnida.",
+   "translation": {
+    "en": "Hello. It is my first time meeting you.",
+    "ur": "السلام علیکم۔ پہلی بار ملاقات ہو رہی ہے۔",
+    "hi": "नमस्ते। पहली बार मिल रहा हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.02",
+   "scenario": "self_intro",
+   "order": 2,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "저는 빌랄이라고 합니다.",
+   "romanization": "jeoneun billal-irago hamnida.",
+   "translation": {
+    "en": "My name is Bilal.",
+    "ur": "میرا نام بلال ہے۔",
+    "hi": "मेरा नाम बिलाल है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.03",
+   "scenario": "self_intro",
+   "order": 3,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "저는 파키스탄에서 왔습니다.",
+   "romanization": "jeoneun pakiseutan-eseo watseumnida.",
+   "translation": {
+    "en": "I came from Pakistan.",
+    "ur": "میں پاکستان سے آیا ہوں۔",
+    "hi": "मैं पाकिस्तान से आया हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.04",
+   "scenario": "self_intro",
+   "order": 4,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "저는 인도 사람입니다.",
+   "romanization": "jeoneun indo saram-imnida.",
+   "translation": {
+    "en": "I am Indian.",
+    "ur": "میں بھارتی ہوں۔",
+    "hi": "मैं भारतीय हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.05",
+   "scenario": "self_intro",
+   "order": 5,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "나이는 스물다섯 살입니다.",
+   "romanization": "naineun seumuldaseot sar-imnida.",
+   "translation": {
+    "en": "I am twenty-five years old.",
+    "ur": "میری عمر پچیس سال ہے۔",
+    "hi": "मेरी उम्र पच्चीस साल है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.06",
+   "scenario": "self_intro",
+   "order": 6,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "가족은 다섯 명입니다.",
+   "romanization": "gajogeun daseot myeong-imnida.",
+   "translation": {
+    "en": "There are five people in my family.",
+    "ur": "میرے خاندان میں پانچ افراد ہیں۔",
+    "hi": "मेरे परिवार में पाँच लोग हैं।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.07",
+   "scenario": "self_intro",
+   "order": 7,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "한국어를 열심히 공부하고 있습니다.",
+   "romanization": "hangugeoreul yeolsimhi gongbuhago itseumnida.",
+   "translation": {
+    "en": "I am studying Korean hard.",
+    "ur": "میں محنت سے کوریائی سیکھ رہا ہوں۔",
+    "hi": "मैं मेहनत से कोरियाई सीख रहा हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.self_intro.08",
+   "scenario": "self_intro",
+   "order": 8,
+   "level": 1,
+   "scenario_title": {
+    "en": "Introducing yourself",
+    "ur": "اپنا تعارف",
+    "hi": "अपना परिचय"
+   },
+   "korean": "만나서 반갑습니다. 잘 부탁드립니다.",
+   "romanization": "mannaseo bangapseumnida. jal butakdeurimnida.",
+   "translation": {
+    "en": "Nice to meet you. I look forward to working with you.",
+    "ur": "مل کر خوشی ہوئی۔ آپ کے تعاون کا منتظر ہوں۔",
+    "hi": "मिलकर खुशी हुई। आपके सहयोग की आशा है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.01",
+   "scenario": "workplace_manager",
+   "order": 1,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "과장님, 잠깐 시간 있으십니까?",
+   "romanization": "gwajangnim, jamkkan sigan isseusimnikka?",
+   "translation": {
+    "en": "Manager, do you have a moment?",
+    "ur": "جناب، کیا آپ کے پاس ایک لمحہ ہے؟",
+    "hi": "सर, क्या आपके पास एक क्षण है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.02",
+   "scenario": "workplace_manager",
+   "order": 2,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "죄송합니다. 제가 실수했습니다.",
+   "romanization": "joesonghamnida. jega silsuhaetseumnida.",
+   "translation": {
+    "en": "I am sorry. I made a mistake.",
+    "ur": "معذرت۔ مجھ سے غلطی ہوئی۔",
+    "hi": "क्षमा कीजिए। मुझसे गलती हुई।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.03",
+   "scenario": "workplace_manager",
+   "order": 3,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "이 일을 어떻게 해야 합니까?",
+   "romanization": "i ireul eotteoke haeya hamnikka?",
+   "translation": {
+    "en": "How should I do this work?",
+    "ur": "یہ کام کیسے کرنا چاہیے؟",
+    "hi": "यह काम कैसे करना चाहिए?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.04",
+   "scenario": "workplace_manager",
+   "order": 4,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "다시 한 번 설명해 주시겠습니까?",
+   "romanization": "dasi han beon seolmyeonghae jusigetseumnikka?",
+   "translation": {
+    "en": "Could you explain it once more?",
+    "ur": "کیا آپ ایک بار پھر سمجھا سکتے ہیں؟",
+    "hi": "क्या आप एक बार फिर समझा सकते हैं?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.05",
+   "scenario": "workplace_manager",
+   "order": 5,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "내일 휴가를 신청하고 싶습니다.",
+   "romanization": "naeil hyugareul sincheonghago sipseumnida.",
+   "translation": {
+    "en": "I would like to apply for leave tomorrow.",
+    "ur": "میں کل کی چھٹی کی درخواست دینا چاہتا ہوں۔",
+    "hi": "मैं कल की छुट्टी के लिए आवेदन करना चाहता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.06",
+   "scenario": "workplace_manager",
+   "order": 6,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "몸이 아파서 병원에 가야 합니다.",
+   "romanization": "momi apaseo byeongwon-e gaya hamnida.",
+   "translation": {
+    "en": "I am unwell, so I have to go to the hospital.",
+    "ur": "میں بیمار ہوں اس لیے ہسپتال جانا ہوگا۔",
+    "hi": "मैं अस्वस्थ हूँ इसलिए अस्पताल जाना होगा।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.07",
+   "scenario": "workplace_manager",
+   "order": 7,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "오늘 잔업을 할 수 있습니다.",
+   "romanization": "oneul janeobeul hal su itseumnida.",
+   "translation": {
+    "en": "I can do overtime today.",
+    "ur": "آج میں اوور ٹائم کر سکتا ہوں۔",
+    "hi": "आज मैं ओवरटाइम कर सकता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_manager.08",
+   "scenario": "workplace_manager",
+   "order": 8,
+   "level": 3,
+   "scenario_title": {
+    "en": "Talking to your manager",
+    "ur": "نگران سے بات چیت",
+    "hi": "पर्यवेक्षक से बातचीत"
+   },
+   "korean": "네, 알겠습니다. 바로 하겠습니다.",
+   "romanization": "ne, algetseumnida. baro hagetseumnida.",
+   "translation": {
+    "en": "Yes, I understand. I will do it right away.",
+    "ur": "جی، سمجھ گیا۔ ابھی کرتا ہوں۔",
+    "hi": "जी, समझ गया। अभी करता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.01",
+   "scenario": "workplace_safety",
+   "order": 1,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "안전모를 꼭 쓰십시오.",
+   "romanization": "anjeonmoreul kkok sseusipsio.",
+   "translation": {
+    "en": "Be sure to wear a safety helmet.",
+    "ur": "حفاظتی ہیلمٹ ضرور پہنیں۔",
+    "hi": "सुरक्षा हेलमेट ज़रूर पहनें।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.02",
+   "scenario": "workplace_safety",
+   "order": 2,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "여기는 위험하니까 들어가지 마세요.",
+   "romanization": "yeogineun wiheomhanikka deureogaji maseyo.",
+   "translation": {
+    "en": "It is dangerous here, so do not enter.",
+    "ur": "یہاں خطرہ ہے، اس لیے اندر نہ جائیں۔",
+    "hi": "यहाँ खतरा है, इसलिए अंदर न जाएँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.03",
+   "scenario": "workplace_safety",
+   "order": 3,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "기계를 멈춰 주세요!",
+   "romanization": "gigyereul meomchwo juseyo!",
+   "translation": {
+    "en": "Please stop the machine!",
+    "ur": "مشین بند کر دیں!",
+    "hi": "मशीन रोक दीजिए!"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.04",
+   "scenario": "workplace_safety",
+   "order": 4,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "사고가 났습니다. 빨리 오세요!",
+   "romanization": "sagoga natseumnida. ppalli oseyo!",
+   "translation": {
+    "en": "There has been an accident. Come quickly!",
+    "ur": "حادثہ ہو گیا ہے۔ جلدی آئیں!",
+    "hi": "दुर्घटना हो गई है। जल्दी आइए!"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.05",
+   "scenario": "workplace_safety",
+   "order": 5,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "사람이 다쳤습니다.",
+   "romanization": "sarami dachyeotseumnida.",
+   "translation": {
+    "en": "Someone is injured.",
+    "ur": "ایک آدمی زخمی ہو گیا ہے۔",
+    "hi": "एक व्यक्ति घायल हो गया है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.06",
+   "scenario": "workplace_safety",
+   "order": 6,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "구급차를 불러 주세요.",
+   "romanization": "gugeupchareul bulleo juseyo.",
+   "translation": {
+    "en": "Please call an ambulance.",
+    "ur": "ایمبولینس بلائیں۔",
+    "hi": "एम्बुलेंस बुलाइए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.07",
+   "scenario": "workplace_safety",
+   "order": 7,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "불이 났습니다. 밖으로 대피하십시오.",
+   "romanization": "buri natseumnida. bakkeuro daepihasipsio.",
+   "translation": {
+    "en": "There is a fire. Evacuate outside.",
+    "ur": "آگ لگ گئی ہے۔ باہر نکل جائیں۔",
+    "hi": "आग लग गई है। बाहर निकल जाइए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.workplace_safety.08",
+   "scenario": "workplace_safety",
+   "order": 8,
+   "level": 3,
+   "scenario_title": {
+    "en": "Workplace safety",
+    "ur": "کام کی جگہ پر حفاظت",
+    "hi": "कार्यस्थल सुरक्षा"
+   },
+   "korean": "작업 전에 안전 교육을 받았습니다.",
+   "romanization": "jageop jeone anjeon gyoyugeul badatseumnida.",
+   "translation": {
+    "en": "I received safety training before work.",
+    "ur": "کام سے پہلے حفاظتی تربیت لی تھی۔",
+    "hi": "काम से पहले सुरक्षा प्रशिक्षण लिया था।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.01",
+   "scenario": "hospital",
+   "order": 1,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "어디가 아프십니까?",
+   "romanization": "eodiga apeusimnikka?",
+   "translation": {
+    "en": "Where does it hurt?",
+    "ur": "آپ کو کہاں تکلیف ہے؟",
+    "hi": "आपको कहाँ दर्द है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.02",
+   "scenario": "hospital",
+   "order": 2,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "배가 많이 아픕니다.",
+   "romanization": "baega mani apeumnida.",
+   "translation": {
+    "en": "My stomach hurts a lot.",
+    "ur": "میرے پیٹ میں بہت درد ہے۔",
+    "hi": "मेरे पेट में बहुत दर्द है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.03",
+   "scenario": "hospital",
+   "order": 3,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "어제부터 열이 납니다.",
+   "romanization": "eojebuteo yeori namnida.",
+   "translation": {
+    "en": "I have had a fever since yesterday.",
+    "ur": "کل سے مجھے بخار ہے۔",
+    "hi": "कल से मुझे बुखार है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.04",
+   "scenario": "hospital",
+   "order": 4,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "일하다가 손을 다쳤습니다.",
+   "romanization": "ilhadaga soneul dachyeotseumnida.",
+   "translation": {
+    "en": "I hurt my hand while working.",
+    "ur": "کام کرتے ہوئے میرے ہاتھ پر چوٹ لگی۔",
+    "hi": "काम करते समय मेरे हाथ में चोट लगी।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.05",
+   "scenario": "hospital",
+   "order": 5,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "건강보험이 있습니다.",
+   "romanization": "geongangboheomi itseumnida.",
+   "translation": {
+    "en": "I have health insurance.",
+    "ur": "میرے پاس صحت کا بیمہ ہے۔",
+    "hi": "मेरे पास स्वास्थ्य बीमा है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.06",
+   "scenario": "hospital",
+   "order": 6,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "약을 처방해 주시겠습니까?",
+   "romanization": "yageul cheobanghae jusigetseumnikka?",
+   "translation": {
+    "en": "Could you prescribe medicine?",
+    "ur": "کیا آپ دوا تجویز کر سکتے ہیں؟",
+    "hi": "क्या आप दवा लिख सकते हैं?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.hospital.07",
+   "scenario": "hospital",
+   "order": 7,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the hospital",
+    "ur": "ہسپتال میں",
+    "hi": "अस्पताल में"
+   },
+   "korean": "하루에 몇 번 먹습니까?",
+   "romanization": "haru-e myeot beon meokseumnikka?",
+   "translation": {
+    "en": "How many times a day do I take it?",
+    "ur": "دن میں کتنی بار لینی ہے؟",
+    "hi": "दिन में कितनी बार लेनी है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.01",
+   "scenario": "directions",
+   "order": 1,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "실례합니다, 길 좀 묻겠습니다.",
+   "romanization": "sillyehamnida, gil jom mutgetseumnida.",
+   "translation": {
+    "en": "Excuse me, may I ask for directions?",
+    "ur": "معاف کیجیے، راستہ پوچھنا تھا۔",
+    "hi": "माफ़ कीजिए, रास्ता पूछना था।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.02",
+   "scenario": "directions",
+   "order": 2,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "지하철역이 어디에 있습니까?",
+   "romanization": "jihacheollyeogi eodie itseumnikka?",
+   "translation": {
+    "en": "Where is the subway station?",
+    "ur": "سب وے اسٹیشن کہاں ہے؟",
+    "hi": "मेट्रो स्टेशन कहाँ है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.03",
+   "scenario": "directions",
+   "order": 3,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "여기에서 멉니까?",
+   "romanization": "yeogieseo meomnikka?",
+   "translation": {
+    "en": "Is it far from here?",
+    "ur": "کیا یہ یہاں سے دور ہے؟",
+    "hi": "क्या यह यहाँ से दूर है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.04",
+   "scenario": "directions",
+   "order": 4,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "똑바로 가서 오른쪽으로 가세요.",
+   "romanization": "ttokbaro gaseo oreunjjogeuro gaseyo.",
+   "translation": {
+    "en": "Go straight, then turn right.",
+    "ur": "سیدھے جائیں پھر دائیں مڑیں۔",
+    "hi": "सीधे जाइए फिर दाएँ मुड़िए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.05",
+   "scenario": "directions",
+   "order": 5,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "걸어서 십 분쯤 걸립니다.",
+   "romanization": "georeoseo sip bunjjeum geollimnida.",
+   "translation": {
+    "en": "It takes about ten minutes on foot.",
+    "ur": "پیدل تقریباً دس منٹ لگتے ہیں۔",
+    "hi": "पैदल लगभग दस मिनट लगते हैं।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.directions.06",
+   "scenario": "directions",
+   "order": 6,
+   "level": 2,
+   "scenario_title": {
+    "en": "Asking for directions",
+    "ur": "راستہ پوچھنا",
+    "hi": "रास्ता पूछना"
+   },
+   "korean": "이 버스가 공장에 갑니까?",
+   "romanization": "i beoseuga gongjang-e gamnikka?",
+   "translation": {
+    "en": "Does this bus go to the factory?",
+    "ur": "کیا یہ بس فیکٹری جاتی ہے؟",
+    "hi": "क्या यह बस फ़ैक्ट्री जाती है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.01",
+   "scenario": "shopping",
+   "order": 1,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "이거 얼마입니까?",
+   "romanization": "igeo eolma-imnikka?",
+   "translation": {
+    "en": "How much is this?",
+    "ur": "یہ کتنے کا ہے؟",
+    "hi": "यह कितने का है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.02",
+   "scenario": "shopping",
+   "order": 2,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "좀 깎아 주세요.",
+   "romanization": "jom kkakka juseyo.",
+   "translation": {
+    "en": "Please give me a discount.",
+    "ur": "کچھ کم کر دیجیے۔",
+    "hi": "कुछ कम कर दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.03",
+   "scenario": "shopping",
+   "order": 3,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "카드로 계산할 수 있습니까?",
+   "romanization": "kadeuro gyesanhal su itseumnikka?",
+   "translation": {
+    "en": "Can I pay by card?",
+    "ur": "کیا میں کارڈ سے ادائیگی کر سکتا ہوں؟",
+    "hi": "क्या मैं कार्ड से भुगतान कर सकता हूँ?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.04",
+   "scenario": "shopping",
+   "order": 4,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "영수증 주세요.",
+   "romanization": "yeongsujeung juseyo.",
+   "translation": {
+    "en": "Please give me a receipt.",
+    "ur": "رسید دیجیے۔",
+    "hi": "रसीद दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.05",
+   "scenario": "shopping",
+   "order": 5,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "이것보다 싼 것이 있습니까?",
+   "romanization": "igeotboda ssan geosi itseumnikka?",
+   "translation": {
+    "en": "Is there something cheaper than this?",
+    "ur": "اس سے سستی کوئی چیز ہے؟",
+    "hi": "इससे सस्ता कुछ है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.shopping.06",
+   "scenario": "shopping",
+   "order": 6,
+   "level": 2,
+   "scenario_title": {
+    "en": "Shopping",
+    "ur": "خریداری",
+    "hi": "खरीदारी"
+   },
+   "korean": "좀 더 큰 사이즈 있어요?",
+   "romanization": "jom deo keun saijeu isseoyo?",
+   "translation": {
+    "en": "Do you have a bigger size?",
+    "ur": "کیا اس سے بڑا سائز ہے؟",
+    "hi": "क्या इससे बड़ा साइज़ है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.01",
+   "scenario": "restaurant",
+   "order": 1,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "주문하겠습니다.",
+   "romanization": "jumunhagetseumnida.",
+   "translation": {
+    "en": "I would like to order.",
+    "ur": "میں آرڈر دینا چاہتا ہوں۔",
+    "hi": "मैं ऑर्डर देना चाहता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.02",
+   "scenario": "restaurant",
+   "order": 2,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "이거 하나 주세요.",
+   "romanization": "igeo hana juseyo.",
+   "translation": {
+    "en": "Please give me one of these.",
+    "ur": "اس میں سے ایک دیجیے۔",
+    "hi": "इसमें से एक दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.03",
+   "scenario": "restaurant",
+   "order": 3,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "맵지 않게 해 주세요.",
+   "romanization": "maepji anke hae juseyo.",
+   "translation": {
+    "en": "Please make it not spicy.",
+    "ur": "براہِ کرم تیکھا نہ بنائیں۔",
+    "hi": "कृपया तीखा न बनाएँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.04",
+   "scenario": "restaurant",
+   "order": 4,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "저는 돼지고기를 안 먹습니다.",
+   "romanization": "jeoneun dwaejigogireul an meokseumnida.",
+   "translation": {
+    "en": "I do not eat pork.",
+    "ur": "میں سؤر کا گوشت نہیں کھاتا۔",
+    "hi": "मैं सूअर का माँस नहीं खाता।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.05",
+   "scenario": "restaurant",
+   "order": 5,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "물 좀 더 주세요.",
+   "romanization": "mul jom deo juseyo.",
+   "translation": {
+    "en": "Please give me some more water.",
+    "ur": "تھوڑا اور پانی دیجیے۔",
+    "hi": "थोड़ा और पानी दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.restaurant.06",
+   "scenario": "restaurant",
+   "order": 6,
+   "level": 2,
+   "scenario_title": {
+    "en": "Ordering food",
+    "ur": "کھانے کا آرڈر",
+    "hi": "भोजन का ऑर्डर"
+   },
+   "korean": "계산해 주세요.",
+   "romanization": "gyesanhae juseyo.",
+   "translation": {
+    "en": "The bill, please.",
+    "ur": "بل دیجیے۔",
+    "hi": "बिल दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.bank.01",
+   "scenario": "bank",
+   "order": 1,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "korean": "계좌를 만들고 싶습니다.",
+   "romanization": "gyejwareul mandeulgo sipseumnida.",
+   "translation": {
+    "en": "I would like to open an account.",
+    "ur": "میں کھاتہ کھلوانا چاہتا ہوں۔",
+    "hi": "मैं खाता खुलवाना चाहता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.bank.02",
+   "scenario": "bank",
+   "order": 2,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "korean": "외국인등록증을 가져왔습니다.",
+   "romanization": "oegugin deungnokjeung-eul gajyeowatseumnida.",
+   "translation": {
+    "en": "I brought my alien registration card.",
+    "ur": "میں غیر ملکی رجسٹریشن کارڈ لایا ہوں۔",
+    "hi": "मैं विदेशी पंजीकरण कार्ड लाया हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.bank.03",
+   "scenario": "bank",
+   "order": 3,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "korean": "고향에 송금하고 싶습니다.",
+   "romanization": "gohyang-e songgeumhago sipseumnida.",
+   "translation": {
+    "en": "I would like to send money home.",
+    "ur": "میں گھر پیسے بھیجنا چاہتا ہوں۔",
+    "hi": "मैं घर पैसे भेजना चाहता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.bank.04",
+   "scenario": "bank",
+   "order": 4,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "korean": "수수료가 얼마입니까?",
+   "romanization": "susuryoga eolma-imnikka?",
+   "translation": {
+    "en": "How much is the fee?",
+    "ur": "فیس کتنی ہے؟",
+    "hi": "शुल्क कितना है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.bank.05",
+   "scenario": "bank",
+   "order": 5,
+   "level": 3,
+   "scenario_title": {
+    "en": "At the bank",
+    "ur": "بینک میں",
+    "hi": "बैंक में"
+   },
+   "korean": "비밀번호를 잊어버렸습니다.",
+   "romanization": "bimilbeonhoreul ijeobeoryeotseumnida.",
+   "translation": {
+    "en": "I have forgotten my password.",
+    "ur": "میں پاس ورڈ بھول گیا ہوں۔",
+    "hi": "मैं पासवर्ड भूल गया हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.immigration.01",
+   "scenario": "immigration",
+   "order": 1,
+   "level": 4,
+   "scenario_title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "korean": "체류 기간을 연장하고 싶습니다.",
+   "romanization": "cheryu gigan-eul yeonjanghago sipseumnida.",
+   "translation": {
+    "en": "I would like to extend my stay.",
+    "ur": "میں قیام کی مدت بڑھانا چاہتا ہوں۔",
+    "hi": "मैं ठहरने की अवधि बढ़ाना चाहता हूँ।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.immigration.02",
+   "scenario": "immigration",
+   "order": 2,
+   "level": 4,
+   "scenario_title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "korean": "어떤 서류가 필요합니까?",
+   "romanization": "eotteon seoryuga piryohamnikka?",
+   "translation": {
+    "en": "What documents do I need?",
+    "ur": "کون سے کاغذات درکار ہیں؟",
+    "hi": "कौन से दस्तावेज़ चाहिए?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.immigration.03",
+   "scenario": "immigration",
+   "order": 3,
+   "level": 4,
+   "scenario_title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "korean": "여기에 서명하면 됩니까?",
+   "romanization": "yeogie seomyeonghamyeon doemnikka?",
+   "translation": {
+    "en": "Should I sign here?",
+    "ur": "کیا مجھے یہاں دستخط کرنے ہیں؟",
+    "hi": "क्या मुझे यहाँ हस्ताक्षर करने हैं?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.immigration.04",
+   "scenario": "immigration",
+   "order": 4,
+   "level": 4,
+   "scenario_title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "korean": "한국어를 잘 못합니다. 천천히 말씀해 주세요.",
+   "romanization": "hangugeoreul jal motamnida. cheoncheonhi malsseumhae juseyo.",
+   "translation": {
+    "en": "I do not speak Korean well. Please speak slowly.",
+    "ur": "میں کوریائی اچھی نہیں بولتا۔ براہِ کرم آہستہ بولیں۔",
+    "hi": "मैं कोरियाई अच्छी नहीं बोलता। कृपया धीरे बोलिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.immigration.05",
+   "scenario": "immigration",
+   "order": 5,
+   "level": 4,
+   "scenario_title": {
+    "en": "At an official counter",
+    "ur": "سرکاری کاؤنٹر پر",
+    "hi": "सरकारी काउंटर पर"
+   },
+   "korean": "언제 다시 와야 합니까?",
+   "romanization": "eonje dasi waya hamnikka?",
+   "translation": {
+    "en": "When should I come again?",
+    "ur": "مجھے دوبارہ کب آنا ہے؟",
+    "hi": "मुझे दोबारा कब आना है?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.01",
+   "scenario": "coworkers",
+   "order": 1,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "식사하셨어요?",
+   "romanization": "siksahasyeosseoyo?",
+   "translation": {
+    "en": "Have you eaten?",
+    "ur": "کیا آپ نے کھانا کھایا؟",
+    "hi": "क्या आपने खाना खाया?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.02",
+   "scenario": "coworkers",
+   "order": 2,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "같이 점심 먹을까요?",
+   "romanization": "gachi jeomsim meogeulkkayo?",
+   "translation": {
+    "en": "Shall we eat lunch together?",
+    "ur": "کیا ہم ساتھ دوپہر کا کھانا کھائیں؟",
+    "hi": "क्या हम साथ में दोपहर का भोजन करें?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.03",
+   "scenario": "coworkers",
+   "order": 3,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "오늘 정말 수고하셨습니다.",
+   "romanization": "oneul jeongmal sugohasyeotseumnida.",
+   "translation": {
+    "en": "You worked hard today.",
+    "ur": "آج آپ نے واقعی محنت کی۔",
+    "hi": "आज आपने वाकई मेहनत की।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.04",
+   "scenario": "coworkers",
+   "order": 4,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "제가 도와드릴까요?",
+   "romanization": "jega dowadeurilkkayo?",
+   "translation": {
+    "en": "Shall I help you?",
+    "ur": "کیا میں آپ کی مدد کروں؟",
+    "hi": "क्या मैं आपकी मदद करूँ?"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.05",
+   "scenario": "coworkers",
+   "order": 5,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "이것 좀 가르쳐 주세요.",
+   "romanization": "igeot jom gareuchyeo juseyo.",
+   "translation": {
+    "en": "Please teach me this.",
+    "ur": "براہِ کرم مجھے یہ سکھا دیں۔",
+    "hi": "कृपया मुझे यह सिखा दीजिए।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "sent.coworkers.06",
+   "scenario": "coworkers",
+   "order": 6,
+   "level": 2,
+   "scenario_title": {
+    "en": "Talking with coworkers",
+    "ur": "ساتھی کارکنوں سے بات",
+    "hi": "सहकर्मियों से बातचीत"
+   },
+   "korean": "내일 봐요.",
+   "romanization": "naeil bwayo.",
+   "translation": {
+    "en": "See you tomorrow.",
+    "ur": "کل ملتے ہیں۔",
+    "hi": "कल मिलते हैं।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

@@ -1,0 +1,725 @@
+{
+ "content_version": 1,
+ "letters": [
+  {
+   "id": "hangul.consonant.g",
+   "char": "ㄱ",
+   "kind": "consonant",
+   "order": 1,
+   "romanization": "g",
+   "name_ko": "기역",
+   "name_rr": "giyeok",
+   "initial_sound": "g",
+   "final_sound": "k",
+   "sound": {
+    "en": "Like the 'g' in 'go', but softer — between g and k.",
+    "ur": "'گ' اور 'ک' کے درمیان کی آواز، جیسے 'گانا' کا 'گ' مگر ہلکا۔",
+    "hi": "'ग' और 'क' के बीच की ध्वनि — 'गाना' के 'ग' जैसी, पर हल्की।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.n",
+   "char": "ㄴ",
+   "kind": "consonant",
+   "order": 2,
+   "romanization": "n",
+   "name_ko": "니은",
+   "name_rr": "nieun",
+   "initial_sound": "n",
+   "final_sound": "n",
+   "sound": {
+    "en": "Like the 'n' in 'no'.",
+    "ur": "'ن' کی آواز، جیسے 'نام' کا 'ن'۔",
+    "hi": "'न' की ध्वनि, जैसे 'नाम' का 'न'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.d",
+   "char": "ㄷ",
+   "kind": "consonant",
+   "order": 3,
+   "romanization": "d",
+   "name_ko": "디귿",
+   "name_rr": "digeut",
+   "initial_sound": "d",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 'd' in 'do', but softer — between d and t.",
+    "ur": "'د' اور 'ت' کے درمیان کی آواز، جیسے 'دل' کا 'د' مگر ہلکا۔",
+    "hi": "'द' और 'त' के बीच की ध्वनि — 'दिल' के 'द' जैसी, पर हल्की।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.r",
+   "char": "ㄹ",
+   "kind": "consonant",
+   "order": 4,
+   "romanization": "r",
+   "name_ko": "리을",
+   "name_rr": "rieul",
+   "initial_sound": "r",
+   "final_sound": "l",
+   "sound": {
+    "en": "Between 'r' and 'l'. Tapped 'r' at the start, 'l' at the end of a syllable.",
+    "ur": "'ر' اور 'ل' کے درمیان۔ لفظ کے شروع میں 'ر'، آخر میں 'ل' جیسی۔",
+    "hi": "'र' और 'ल' के बीच। शब्द के शुरू में 'र', अंत में 'ल' जैसी।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.m",
+   "char": "ㅁ",
+   "kind": "consonant",
+   "order": 5,
+   "romanization": "m",
+   "name_ko": "미음",
+   "name_rr": "mieum",
+   "initial_sound": "m",
+   "final_sound": "m",
+   "sound": {
+    "en": "Like the 'm' in 'me'.",
+    "ur": "'م' کی آواز، جیسے 'ماں' کا 'م'۔",
+    "hi": "'म' की ध्वनि, जैसे 'माँ' का 'म'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.b",
+   "char": "ㅂ",
+   "kind": "consonant",
+   "order": 6,
+   "romanization": "b",
+   "name_ko": "비읍",
+   "name_rr": "bieup",
+   "initial_sound": "b",
+   "final_sound": "p",
+   "sound": {
+    "en": "Like the 'b' in 'boy', but softer — between b and p.",
+    "ur": "'ب' اور 'پ' کے درمیان کی آواز۔",
+    "hi": "'ब' और 'प' के बीच की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.s",
+   "char": "ㅅ",
+   "kind": "consonant",
+   "order": 7,
+   "romanization": "s",
+   "name_ko": "시옷",
+   "name_rr": "siot",
+   "initial_sound": "s",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 's' in 'see'. Before ㅣ or 'y' sounds it softens toward 'sh'.",
+    "ur": "'س' کی آواز۔ ㅣ سے پہلے 'ش' کی طرف مائل ہو جاتی ہے۔",
+    "hi": "'स' की ध्वनि। ㅣ से पहले 'श' की ओर झुक जाती है।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.ng",
+   "char": "ㅇ",
+   "kind": "consonant",
+   "order": 8,
+   "romanization": "(silent)",
+   "name_ko": "이응",
+   "name_rr": "ieung",
+   "initial_sound": "(silent)",
+   "final_sound": "ng",
+   "sound": {
+    "en": "Silent at the start of a syllable — it is a placeholder. At the end it is 'ng' as in 'sing'.",
+    "ur": "لفظ کے شروع میں خاموش — صرف جگہ بھرنے کے لیے۔ آخر میں 'نگ' کی آواز۔",
+    "hi": "शब्द के शुरू में मौन — केवल स्थान भरने के लिए। अंत में 'ङ्' (ng) की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.j",
+   "char": "ㅈ",
+   "kind": "consonant",
+   "order": 9,
+   "romanization": "j",
+   "name_ko": "지읒",
+   "name_rr": "jieut",
+   "initial_sound": "j",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 'j' in 'jam', but softer.",
+    "ur": "'ج' کی آواز مگر ہلکی، جیسے 'جان' کا 'ج'۔",
+    "hi": "'ज' की ध्वनि, पर हल्की — जैसे 'जान' का 'ज'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.ch",
+   "char": "ㅊ",
+   "kind": "consonant",
+   "order": 10,
+   "romanization": "ch",
+   "name_ko": "치읓",
+   "name_rr": "chieut",
+   "initial_sound": "ch",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 'ch' in 'church', with a puff of air.",
+    "ur": "'چ' کی آواز ہوا کے جھونکے کے ساتھ۔",
+    "hi": "'च' की ध्वनि, हवा के झोंके के साथ (महाप्राण)।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.k",
+   "char": "ㅋ",
+   "kind": "consonant",
+   "order": 11,
+   "romanization": "k",
+   "name_ko": "키읔",
+   "name_rr": "kieuk",
+   "initial_sound": "k",
+   "final_sound": "k",
+   "sound": {
+    "en": "Like the 'k' in 'kite', with a strong puff of air.",
+    "ur": "'کھ' کی آواز — ہوا کے تیز جھونکے کے ساتھ۔",
+    "hi": "'ख' की ध्वनि — तेज़ हवा के साथ (महाप्राण)।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.t",
+   "char": "ㅌ",
+   "kind": "consonant",
+   "order": 12,
+   "romanization": "t",
+   "name_ko": "티읕",
+   "name_rr": "tieut",
+   "initial_sound": "t",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 't' in 'top', with a strong puff of air.",
+    "ur": "'تھ' کی آواز — ہوا کے تیز جھونکے کے ساتھ۔",
+    "hi": "'थ' की ध्वनि — तेज़ हवा के साथ (महाप्राण)।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.p",
+   "char": "ㅍ",
+   "kind": "consonant",
+   "order": 13,
+   "romanization": "p",
+   "name_ko": "피읖",
+   "name_rr": "pieup",
+   "initial_sound": "p",
+   "final_sound": "p",
+   "sound": {
+    "en": "Like the 'p' in 'pen', with a strong puff of air.",
+    "ur": "'پھ' کی آواز — ہوا کے تیز جھونکے کے ساتھ۔",
+    "hi": "'फ' की ध्वनि — तेज़ हवा के साथ (महाप्राण)।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.consonant.h",
+   "char": "ㅎ",
+   "kind": "consonant",
+   "order": 14,
+   "romanization": "h",
+   "name_ko": "히읗",
+   "name_rr": "hieut",
+   "initial_sound": "h",
+   "final_sound": "t",
+   "sound": {
+    "en": "Like the 'h' in 'hat'.",
+    "ur": "'ہ' کی آواز، جیسے 'ہاتھ' کا 'ہ'۔",
+    "hi": "'ह' की ध्वनि, जैसे 'हाथ' का 'ह'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.double_consonant.kk",
+   "char": "ㄲ",
+   "kind": "double_consonant",
+   "order": 1,
+   "romanization": "kk",
+   "name_ko": "쌍기역",
+   "name_rr": "ssanggiyeok",
+   "initial_sound": "kk",
+   "final_sound": "k",
+   "sound": {
+    "en": "A tense 'k'. Throat tightens; no puff of air.",
+    "ur": "سخت 'ک' — گلا تنگ کر کے، بغیر ہوا نکالے۔",
+    "hi": "कठोर 'क' — गला कसकर, बिना हवा निकाले।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.double_consonant.tt",
+   "char": "ㄸ",
+   "kind": "double_consonant",
+   "order": 2,
+   "romanization": "tt",
+   "name_ko": "쌍디귿",
+   "name_rr": "ssangdigeut",
+   "initial_sound": "tt",
+   "final_sound": null,
+   "sound": {
+    "en": "A tense 't'. Throat tightens; no puff of air.",
+    "ur": "سخت 'ٹ/ت' — گلا تنگ کر کے، بغیر ہوا نکالے۔",
+    "hi": "कठोर 'त' — गला कसकर, बिना हवा निकाले।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.double_consonant.pp",
+   "char": "ㅃ",
+   "kind": "double_consonant",
+   "order": 3,
+   "romanization": "pp",
+   "name_ko": "쌍비읍",
+   "name_rr": "ssangbieup",
+   "initial_sound": "pp",
+   "final_sound": null,
+   "sound": {
+    "en": "A tense 'p'. Throat tightens; no puff of air.",
+    "ur": "سخت 'پ' — گلا تنگ کر کے، بغیر ہوا نکالے۔",
+    "hi": "कठोर 'प' — गला कसकर, बिना हवा निकाले।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.double_consonant.ss",
+   "char": "ㅆ",
+   "kind": "double_consonant",
+   "order": 4,
+   "romanization": "ss",
+   "name_ko": "쌍시옷",
+   "name_rr": "ssangsiot",
+   "initial_sound": "ss",
+   "final_sound": "t",
+   "sound": {
+    "en": "A tense 's', pushed harder than ㅅ.",
+    "ur": "سخت 'س' — ㅅ سے زیادہ زور کے ساتھ۔",
+    "hi": "कठोर 'स' — ㅅ से अधिक ज़ोर के साथ।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.double_consonant.jj",
+   "char": "ㅉ",
+   "kind": "double_consonant",
+   "order": 5,
+   "romanization": "jj",
+   "name_ko": "쌍지읒",
+   "name_rr": "ssangjieut",
+   "initial_sound": "jj",
+   "final_sound": null,
+   "sound": {
+    "en": "A tense 'j'. Throat tightens; no puff of air.",
+    "ur": "سخت 'ج' — گلا تنگ کر کے، بغیر ہوا نکالے۔",
+    "hi": "कठोर 'ज' — गला कसकर, बिना हवा निकाले।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.a",
+   "char": "ㅏ",
+   "kind": "vowel",
+   "order": 1,
+   "romanization": "a",
+   "name_ko": "아",
+   "name_rr": "a",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'a' in 'father'.",
+    "ur": "'آ' کی آواز، جیسے 'آم' کا 'آ'۔",
+    "hi": "'आ' की ध्वनि, जैसे 'आम' का 'आ'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.ya",
+   "char": "ㅑ",
+   "kind": "vowel",
+   "order": 2,
+   "romanization": "ya",
+   "name_ko": "야",
+   "name_rr": "ya",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like 'ya' in 'yard'.",
+    "ur": "'یا' کی آواز۔",
+    "hi": "'या' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.eo",
+   "char": "ㅓ",
+   "kind": "vowel",
+   "order": 3,
+   "romanization": "eo",
+   "name_ko": "어",
+   "name_rr": "eo",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'o' in 'son' — an open 'uh'. Not 'ay-o'.",
+    "ur": "'اَ' جیسی کھلی آواز، انگریزی 'son' کے 'o' کی طرح۔",
+    "hi": "'अ' जैसी खुली ध्वनि, अंग्रेज़ी 'son' के 'o' जैसी।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.yeo",
+   "char": "ㅕ",
+   "kind": "vowel",
+   "order": 4,
+   "romanization": "yeo",
+   "name_ko": "여",
+   "name_rr": "yeo",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "'y' + ㅓ, like 'yuh'.",
+    "ur": "'یَ' — 'ی' کے ساتھ ㅓ کی آواز۔",
+    "hi": "'य' + ㅓ — 'यअ' जैसी।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.o",
+   "char": "ㅗ",
+   "kind": "vowel",
+   "order": 5,
+   "romanization": "o",
+   "name_ko": "오",
+   "name_rr": "o",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'o' in 'more', lips rounded.",
+    "ur": "'او' کی آواز، ہونٹ گول کر کے۔",
+    "hi": "'ओ' की ध्वनि, होंठ गोल करके।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.yo",
+   "char": "ㅛ",
+   "kind": "vowel",
+   "order": 6,
+   "romanization": "yo",
+   "name_ko": "요",
+   "name_rr": "yo",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "'y' + ㅗ, like 'yo'.",
+    "ur": "'یو' کی آواز۔",
+    "hi": "'यो' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.u",
+   "char": "ㅜ",
+   "kind": "vowel",
+   "order": 7,
+   "romanization": "u",
+   "name_ko": "우",
+   "name_rr": "u",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'oo' in 'moon', lips rounded.",
+    "ur": "'اُو' کی آواز، ہونٹ گول کر کے۔",
+    "hi": "'ऊ' की ध्वनि, होंठ गोल करके।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.yu",
+   "char": "ㅠ",
+   "kind": "vowel",
+   "order": 8,
+   "romanization": "yu",
+   "name_ko": "유",
+   "name_rr": "yu",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "'y' + ㅜ, like 'you'.",
+    "ur": "'یُو' کی آواز۔",
+    "hi": "'यू' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.eu",
+   "char": "ㅡ",
+   "kind": "vowel",
+   "order": 9,
+   "romanization": "eu",
+   "name_ko": "으",
+   "name_rr": "eu",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Lips spread wide and flat, like the 'oo' in 'good' said with a smile. No English exact match.",
+    "ur": "ہونٹ چوڑے اور چپٹے رکھ کر 'اِ' اور 'اُ' کے درمیان کی آواز۔ اردو میں بالکل ایسی آواز نہیں۔",
+    "hi": "होंठ चौड़े और सपाट रखकर 'इ' और 'उ' के बीच की ध्वनि। हिंदी में ठीक ऐसी ध्वनि नहीं है।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.vowel.i",
+   "char": "ㅣ",
+   "kind": "vowel",
+   "order": 10,
+   "romanization": "i",
+   "name_ko": "이",
+   "name_rr": "i",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'ee' in 'see'.",
+    "ur": "'ای' کی آواز، جیسے 'دین' کا 'ی'۔",
+    "hi": "'ई' की ध्वनि, जैसे 'दीन' का 'ी'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.ae",
+   "char": "ㅐ",
+   "kind": "compound_vowel",
+   "order": 1,
+   "romanization": "ae",
+   "name_ko": "애",
+   "name_rr": "ae",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'e' in 'bed'.",
+    "ur": "'اَے' کی آواز، جیسے انگریزی 'bed' کا 'e'۔",
+    "hi": "'ऐ' की ध्वनि, जैसे अंग्रेज़ी 'bed' का 'e'।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.yae",
+   "char": "ㅒ",
+   "kind": "compound_vowel",
+   "order": 2,
+   "romanization": "yae",
+   "name_ko": "얘",
+   "name_rr": "yae",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "'y' + ㅐ.",
+    "ur": "'یَے' کی آواز۔",
+    "hi": "'य' + ㅐ की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.e",
+   "char": "ㅔ",
+   "kind": "compound_vowel",
+   "order": 3,
+   "romanization": "e",
+   "name_ko": "에",
+   "name_rr": "e",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "Like the 'e' in 'bed'. In modern speech ㅐ and ㅔ sound almost the same.",
+    "ur": "'اے' کی آواز۔ آج کل ㅐ اور ㅔ کی آواز تقریباً ایک جیسی ہے۔",
+    "hi": "'ए' की ध्वनि। आजकल ㅐ और ㅔ की ध्वनि लगभग एक जैसी है।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.ye",
+   "char": "ㅖ",
+   "kind": "compound_vowel",
+   "order": 4,
+   "romanization": "ye",
+   "name_ko": "예",
+   "name_rr": "ye",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "'y' + ㅔ.",
+    "ur": "'یے' کی آواز۔",
+    "hi": "'ये' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.wa",
+   "char": "ㅘ",
+   "kind": "compound_vowel",
+   "order": 5,
+   "romanization": "wa",
+   "name_ko": "와",
+   "name_rr": "wa",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅗ + ㅏ, like 'wa' in 'water'.",
+    "ur": "'وا' کی آواز۔",
+    "hi": "'वा' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.wae",
+   "char": "ㅙ",
+   "kind": "compound_vowel",
+   "order": 6,
+   "romanization": "wae",
+   "name_ko": "왜",
+   "name_rr": "wae",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅗ + ㅐ, like 'we' in 'wet'.",
+    "ur": "'وَے' کی آواز۔",
+    "hi": "'वै' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.oe",
+   "char": "ㅚ",
+   "kind": "compound_vowel",
+   "order": 7,
+   "romanization": "oe",
+   "name_ko": "외",
+   "name_rr": "oe",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅗ + ㅣ. In modern speech it sounds like ㅞ ('we').",
+    "ur": "آج کل اس کی آواز ㅞ یعنی 'وے' جیسی ہے۔",
+    "hi": "आजकल इसकी ध्वनि ㅞ यानी 'वे' जैसी है।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.wo",
+   "char": "ㅝ",
+   "kind": "compound_vowel",
+   "order": 8,
+   "romanization": "wo",
+   "name_ko": "워",
+   "name_rr": "wo",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅜ + ㅓ, like 'wo' in 'won'.",
+    "ur": "'وَ' کی آواز۔",
+    "hi": "'वअ' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.we",
+   "char": "ㅞ",
+   "kind": "compound_vowel",
+   "order": 9,
+   "romanization": "we",
+   "name_ko": "웨",
+   "name_rr": "we",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅜ + ㅔ, like 'we'.",
+    "ur": "'وے' کی آواز۔",
+    "hi": "'वे' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.wi",
+   "char": "ㅟ",
+   "kind": "compound_vowel",
+   "order": 10,
+   "romanization": "wi",
+   "name_ko": "위",
+   "name_rr": "wi",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅜ + ㅣ, like 'wee'.",
+    "ur": "'وی' کی آواز۔",
+    "hi": "'वी' की ध्वनि।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "hangul.compound_vowel.ui",
+   "char": "ㅢ",
+   "kind": "compound_vowel",
+   "order": 11,
+   "romanization": "ui",
+   "name_ko": "의",
+   "name_rr": "ui",
+   "initial_sound": null,
+   "final_sound": null,
+   "sound": {
+    "en": "ㅡ + ㅣ said quickly. As the possessive particle it is pronounced 에 (e).",
+    "ur": "ㅡ اور ㅣ کو تیزی سے ملا کر۔ اضافت کے طور پر اس کی آواز 에 ہوتی ہے۔",
+    "hi": "ㅡ और ㅣ को तेज़ी से मिलाकर। संबंध कारक के रूप में इसका उच्चारण 에 होता है।"
+   },
+   "source_ref": "src.rr2014",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Only user-generated data is backed up. The content database is regenerated
+  from the bundled asset on first launch, so backing it up would waste the
+  user's backup quota on a file we already ship.
+-->
+<full-backup-content>
+    <include domain="database" path="progress.db" />
+    <include domain="sharedpref" path="." />
+</full-backup-content>

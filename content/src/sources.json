@@ -1,0 +1,45 @@
+{
+ "content_version": 1,
+ "sources": [
+  {
+   "id": "src.krdict",
+   "title": "한국어기초사전 (Basic Korean Dictionary)",
+   "publisher": "National Institute of Korean Language (국립국어원)",
+   "url": "https://krdict.korean.go.kr/",
+   "licence": "CC BY-SA 2.0 KR",
+   "note": "Used to verify Korean headwords, parts of speech and senses. Example sentences in Korean Samjho are original; krdict examples sourced from publications are not openly licensed and are not reused."
+  },
+  {
+   "id": "src.rr2014",
+   "title": "Revised Romanization of Korean",
+   "publisher": "Ministry of Culture, Sports and Tourism, Republic of Korea",
+   "url": "https://www.korean.go.kr/",
+   "licence": "Government standard",
+   "note": "The romanization standard applied throughout the app."
+  },
+  {
+   "id": "src.topik",
+   "title": "TOPIK official site",
+   "publisher": "NIIED / KICE",
+   "url": "https://www.topik.go.kr/",
+   "licence": "Reference only",
+   "note": "Used to verify exam structure and scoring. No exam material is reproduced."
+  },
+  {
+   "id": "src.eps",
+   "title": "EPS official portal",
+   "publisher": "HRD Korea / Ministry of Employment and Labor",
+   "url": "https://www.eps.go.kr/",
+   "licence": "Reference only",
+   "note": "Used to verify EPS participation and process. No exam material is reproduced."
+  },
+  {
+   "id": "src.original",
+   "title": "Original Korean Samjho content",
+   "publisher": "Korean Samjho",
+   "url": "",
+   "licence": "CC BY-SA 4.0",
+   "note": "Sentences, explanations, practice questions and all Urdu and Hindi translations are written for this app."
+  }
+ ]
+}

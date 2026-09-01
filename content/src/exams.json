@@ -1,0 +1,130 @@
+{
+ "content_version": 1,
+ "exams": [
+  {
+   "id": "exam.eps_topik",
+   "code": "EPS-TOPIK",
+   "track": "EPS_EMPLOYMENT",
+   "name": {
+    "en": "EPS-TOPIK (Employment Permit System Korean test)",
+    "ur": "ای پی ایس ٹوپک (روزگار اجازت نامہ کوریائی امتحان)",
+    "hi": "ईपीएस-टॉपिक (रोज़गार परमिट प्रणाली कोरियाई परीक्षा)"
+   },
+   "who": {
+    "en": "For people applying to work in Korea on an E-9 visa from one of the 17 EPS partner countries. Pakistan is one of these countries. India is not — Indian applicants cannot apply through EPS.",
+    "ur": "ان لوگوں کے لیے جو ای پی ایس کے 17 شراکت دار ممالک میں سے کسی ایک سے E-9 ویزے پر کوریا میں کام کے لیے درخواست دیتے ہیں۔ پاکستان ان ممالک میں شامل ہے۔ بھارت شامل نہیں — بھارتی درخواست گزار ای پی ایس کے ذریعے درخواست نہیں دے سکتے۔",
+    "hi": "उन लोगों के लिए जो ईपीएस के 17 साझेदार देशों में से किसी एक से E-9 वीज़ा पर कोरिया में काम के लिए आवेदन करते हैं। पाकिस्तान इनमें शामिल है। भारत शामिल नहीं — भारतीय आवेदक ईपीएस के माध्यम से आवेदन नहीं कर सकते।"
+   },
+   "sections": [
+    {
+     "name": "Reading (읽기)",
+     "questions": 20,
+     "points": 100
+    },
+    {
+     "name": "Listening (듣기)",
+     "questions": 20,
+     "points": 100
+    }
+   ],
+   "total_questions": 40,
+   "total_points": 200,
+   "delivery": "CBT / UBT (computer or tablet based)",
+   "scoring": {
+    "en": "There is no fixed pass mark. Selection is competitive: candidates are ranked by score, and a sector minimum only makes you eligible to be ranked. Scoring high enough to be ranked is not the same as being selected.",
+    "ur": "کوئی مقررہ پاسنگ نمبر نہیں ہے۔ انتخاب مسابقتی ہے: امیدواروں کی درجہ بندی نمبروں کے مطابق ہوتی ہے، اور شعبے کی کم از کم حد صرف درجہ بندی کے قابل بناتی ہے۔ درجہ بندی میں آ جانا انتخاب ہو جانے کے برابر نہیں۔",
+    "hi": "कोई निश्चित उत्तीर्ण अंक नहीं है। चयन प्रतिस्पर्धी है: उम्मीदवारों की रैंकिंग अंकों के अनुसार होती है, और क्षेत्र की न्यूनतम सीमा केवल रैंकिंग के योग्य बनाती है। रैंकिंग में आना चयनित होने के बराबर नहीं है।"
+   },
+   "confidence": "corroborated",
+   "official_url": "https://www.eps.go.kr/",
+   "caution": {
+    "en": "Many websites and apps claim a fixed EPS-TOPIK pass mark such as 110 out of 200. That is not how selection works. Always check the official notice for your round.",
+    "ur": "بہت سی ویب سائٹس اور ایپس ای پی ایس ٹوپک کا مقررہ پاسنگ نمبر مثلاً 200 میں سے 110 بتاتی ہیں۔ انتخاب اس طرح نہیں ہوتا۔ ہمیشہ اپنے راؤنڈ کا سرکاری نوٹس دیکھیں۔",
+    "hi": "कई वेबसाइटें और ऐप्स ईपीएस-टॉपिक का निश्चित उत्तीर्ण अंक जैसे 200 में से 110 बताते हैं। चयन इस तरह नहीं होता। हमेशा अपने राउंड की आधिकारिक सूचना देखें।"
+   }
+  },
+  {
+   "id": "exam.topik_i",
+   "code": "TOPIK I",
+   "track": "TOPIK_ACADEMIC",
+   "name": {
+    "en": "TOPIK I (Levels 1-2)",
+    "ur": "ٹوپک I (سطح ۱ اور ۲)",
+    "hi": "टॉपिक I (स्तर 1-2)"
+   },
+   "who": {
+    "en": "The standard Korean proficiency test, used for university admission, scholarships and many visa and job applications. Held in India at Korean Cultural Centre partner centres, and internationally.",
+    "ur": "کوریائی زبان کی معیاری استعداد کا امتحان، جو یونیورسٹی داخلے، وظائف اور کئی ویزا و ملازمت کی درخواستوں کے لیے استعمال ہوتا ہے۔ بھارت میں کوریائی ثقافتی مرکز کے شراکت دار مراکز پر منعقد ہوتا ہے۔",
+    "hi": "कोरियाई भाषा दक्षता की मानक परीक्षा, जो विश्वविद्यालय प्रवेश, छात्रवृत्ति और कई वीज़ा व नौकरी आवेदनों के लिए प्रयुक्त होती है। भारत में कोरियाई सांस्कृतिक केंद्र के साझेदार केंद्रों पर आयोजित होती है।"
+   },
+   "sections": [
+    {
+     "name": "Listening (듣기)",
+     "questions": 30,
+     "points": 100,
+     "minutes": 40
+    },
+    {
+     "name": "Reading (읽기)",
+     "questions": 40,
+     "points": 100,
+     "minutes": 60
+    }
+   ],
+   "total_questions": 70,
+   "total_points": 200,
+   "delivery": "Paper-based, multiple choice",
+   "scoring": {
+    "en": "Level 1 requires 80 or more out of 200. Level 2 requires 140 or more. There are no per-section minimums, so a weak section can be balanced by a strong one.",
+    "ur": "سطح ۱ کے لیے 200 میں سے کم از کم 80 نمبر درکار ہیں۔ سطح ۲ کے لیے 140۔ کسی حصے کی الگ کم از کم حد نہیں، اس لیے کمزور حصے کی تلافی مضبوط حصے سے ہو سکتی ہے۔",
+    "hi": "स्तर 1 के लिए 200 में से कम से कम 80 अंक चाहिए। स्तर 2 के लिए 140। किसी अनुभाग की अलग न्यूनतम सीमा नहीं, इसलिए कमज़ोर अनुभाग की भरपाई मज़बूत अनुभाग से हो सकती है।"
+   },
+   "confidence": "verified",
+   "official_url": "https://www.topik.go.kr/",
+   "caution": null
+  },
+  {
+   "id": "exam.topik_ii",
+   "code": "TOPIK II",
+   "track": "TOPIK_ACADEMIC",
+   "name": {
+    "en": "TOPIK II (Levels 3-6)",
+    "ur": "ٹوپک II (سطح ۳ تا ۶)",
+    "hi": "टॉपिक II (स्तर 3-6)"
+   },
+   "who": {
+    "en": "The intermediate to advanced Korean proficiency test. Level 4 and above is commonly required for undergraduate admission at Korean universities.",
+    "ur": "درمیانی سے اعلیٰ درجے کا کوریائی استعداد کا امتحان۔ کوریائی یونیورسٹیوں میں انڈر گریجویٹ داخلے کے لیے عام طور پر سطح ۴ یا اس سے اوپر درکار ہوتی ہے۔",
+    "hi": "मध्यम से उन्नत स्तर की कोरियाई दक्षता परीक्षा। कोरियाई विश्वविद्यालयों में स्नातक प्रवेश के लिए आमतौर पर स्तर 4 या उससे ऊपर आवश्यक होता है।"
+   },
+   "sections": [
+    {
+     "name": "Listening (듣기)",
+     "questions": 50,
+     "points": 100
+    },
+    {
+     "name": "Writing (쓰기)",
+     "questions": 4,
+     "points": 100
+    },
+    {
+     "name": "Reading (읽기)",
+     "questions": 50,
+     "points": 100
+    }
+   ],
+   "total_questions": 104,
+   "total_points": 300,
+   "delivery": "Paper-based; writing is hand-written",
+   "scoring": {
+    "en": "Level 3 needs 120, Level 4 needs 150, Level 5 needs 190 and Level 6 needs 230, out of 300. There are no per-section minimums.",
+    "ur": "سطح ۳ کے لیے 120، سطح ۴ کے لیے 150، سطح ۵ کے لیے 190 اور سطح ۶ کے لیے 230 نمبر، 300 میں سے۔ کسی حصے کی الگ کم از کم حد نہیں۔",
+    "hi": "स्तर 3 के लिए 120, स्तर 4 के लिए 150, स्तर 5 के लिए 190 और स्तर 6 के लिए 230 अंक, 300 में से। किसी अनुभाग की अलग न्यूनतम सीमा नहीं।"
+   },
+   "confidence": "verified",
+   "official_url": "https://www.topik.go.kr/",
+   "caution": null
+  }
+ ]
+}

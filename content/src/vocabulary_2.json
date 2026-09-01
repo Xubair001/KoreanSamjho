@@ -1,0 +1,1215 @@
+{
+ "content_version": 1,
+ "vocabulary": [
+  {
+   "id": "vocab.work.ilhada",
+   "korean": "일하다",
+   "romanization": "ilhada",
+   "pos": "verb",
+   "level": 1,
+   "category": "work",
+   "meaning": {
+    "en": "to work",
+    "ur": "کام کرنا",
+    "hi": "काम करना"
+   },
+   "example": {
+    "korean": "저는 공장에서 일합니다.",
+    "romanization": "jeoneun gongjang-eseo ilhamnida.",
+    "en": "I work at a factory.",
+    "ur": "میں فیکٹری میں کام کرتا ہوں۔",
+    "hi": "मैं फ़ैक्ट्री में काम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.hoesa",
+   "korean": "회사",
+   "romanization": "hoesa",
+   "pos": "noun",
+   "level": 1,
+   "category": "work",
+   "meaning": {
+    "en": "company",
+    "ur": "کمپنی",
+    "hi": "कंपनी"
+   },
+   "example": {
+    "korean": "우리 회사는 부산에 있습니다.",
+    "romanization": "uri hoesaneun busan-e itseumnida.",
+    "en": "Our company is in Busan.",
+    "ur": "ہماری کمپنی بوسان میں ہے۔",
+    "hi": "हमारी कंपनी बुसान में है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.sajangnim",
+   "korean": "사장님",
+   "romanization": "sajangnim",
+   "pos": "noun",
+   "level": 1,
+   "category": "work",
+   "meaning": {
+    "en": "boss, company president (honorific)",
+    "ur": "مالک / سربراہ (بااحترام)",
+    "hi": "मालिक / अध्यक्ष (आदरसूचक)"
+   },
+   "example": {
+    "korean": "사장님께 말씀드리겠습니다.",
+    "romanization": "sajangnimkke malsseumdeurigetseumnida.",
+    "en": "I will speak to the boss.",
+    "ur": "میں مالک صاحب سے بات کروں گا۔",
+    "hi": "मैं मालिक से बात करूँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.dongnyo",
+   "korean": "동료",
+   "romanization": "dongnyo",
+   "pos": "noun",
+   "level": 2,
+   "category": "work",
+   "meaning": {
+    "en": "colleague, co-worker",
+    "ur": "ساتھی کارکن",
+    "hi": "सहकर्मी"
+   },
+   "example": {
+    "korean": "동료와 같이 일합니다.",
+    "romanization": "dongnyowa gachi ilhamnida.",
+    "en": "I work together with my colleague.",
+    "ur": "میں اپنے ساتھی کے ساتھ کام کرتا ہوں۔",
+    "hi": "मैं अपने सहकर्मी के साथ काम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.wolgeup",
+   "korean": "월급",
+   "romanization": "wolgeup",
+   "pos": "noun",
+   "level": 2,
+   "category": "work",
+   "meaning": {
+    "en": "monthly salary",
+    "ur": "ماہانہ تنخواہ",
+    "hi": "मासिक वेतन"
+   },
+   "example": {
+    "korean": "월급은 매달 십오 일에 나옵니다.",
+    "romanization": "wolgeubeun maedal sibo ir-e naomnida.",
+    "en": "The salary comes out on the fifteenth of every month.",
+    "ur": "تنخواہ ہر ماہ پندرہ تاریخ کو ملتی ہے۔",
+    "hi": "वेतन हर महीने पंद्रह तारीख़ को मिलता है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.chulgeun",
+   "korean": "출근",
+   "romanization": "chulgeun",
+   "pos": "noun",
+   "level": 2,
+   "category": "work",
+   "meaning": {
+    "en": "going to work, clocking in",
+    "ur": "کام پر آنا",
+    "hi": "काम पर आना"
+   },
+   "example": {
+    "korean": "여덟 시까지 출근합니다.",
+    "romanization": "yeodeol sikkaji chulgeunhamnida.",
+    "en": "I go to work by eight o'clock.",
+    "ur": "میں آٹھ بجے تک کام پر پہنچتا ہوں۔",
+    "hi": "मैं आठ बजे तक काम पर पहुँचता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.toegeun",
+   "korean": "퇴근",
+   "romanization": "toegeun",
+   "pos": "noun",
+   "level": 2,
+   "category": "work",
+   "meaning": {
+    "en": "leaving work, clocking out",
+    "ur": "کام سے چھٹی",
+    "hi": "काम से छुट्टी"
+   },
+   "example": {
+    "korean": "보통 여섯 시에 퇴근합니다.",
+    "romanization": "botong yeoseot si-e toegeunhamnida.",
+    "en": "I usually leave work at six.",
+    "ur": "میں عام طور پر چھ بجے چھٹی کرتا ہوں۔",
+    "hi": "मैं आमतौर पर छह बजे छुट्टी करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.janeop",
+   "korean": "잔업",
+   "romanization": "janeop",
+   "pos": "noun",
+   "level": 3,
+   "category": "work",
+   "meaning": {
+    "en": "overtime work",
+    "ur": "اوور ٹائم",
+    "hi": "ओवरटाइम"
+   },
+   "example": {
+    "korean": "오늘 잔업이 있습니까?",
+    "romanization": "oneul janeobi itseumnikka?",
+    "en": "Is there overtime today?",
+    "ur": "کیا آج اوور ٹائم ہے؟",
+    "hi": "क्या आज ओवरटाइम है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.hyuga",
+   "korean": "휴가",
+   "romanization": "hyuga",
+   "pos": "noun",
+   "level": 2,
+   "category": "work",
+   "meaning": {
+    "en": "leave, vacation",
+    "ur": "چھٹی",
+    "hi": "अवकाश"
+   },
+   "example": {
+    "korean": "다음 주에 휴가를 신청하고 싶습니다.",
+    "romanization": "daeum ju-e hyugareul sincheonghago sipseumnida.",
+    "en": "I would like to apply for leave next week.",
+    "ur": "میں اگلے ہفتے چھٹی کی درخواست دینا چاہتا ہوں۔",
+    "hi": "मैं अगले हफ़्ते छुट्टी के लिए आवेदन करना चाहता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.gyeyak",
+   "korean": "계약",
+   "romanization": "gyeyak",
+   "pos": "noun",
+   "level": 3,
+   "category": "work",
+   "meaning": {
+    "en": "contract",
+    "ur": "معاہدہ",
+    "hi": "अनुबंध"
+   },
+   "example": {
+    "korean": "계약 기간은 삼 년입니다.",
+    "romanization": "gyeyak gigan-eun sam nyeon-imnida.",
+    "en": "The contract period is three years.",
+    "ur": "معاہدے کی مدت تین سال ہے۔",
+    "hi": "अनुबंध की अवधि तीन साल है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.geunmu",
+   "korean": "근무",
+   "romanization": "geunmu",
+   "pos": "noun",
+   "level": 3,
+   "category": "work",
+   "meaning": {
+    "en": "duty, service, working",
+    "ur": "ڈیوٹی / کام",
+    "hi": "ड्यूटी / कार्य"
+   },
+   "example": {
+    "korean": "야간 근무를 합니다.",
+    "romanization": "yagan geunmureul hamnida.",
+    "en": "I do night duty.",
+    "ur": "میں رات کی ڈیوٹی کرتا ہوں۔",
+    "hi": "मैं रात की ड्यूटी करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.work.swida",
+   "korean": "쉬다",
+   "romanization": "swida",
+   "pos": "verb",
+   "level": 1,
+   "category": "work",
+   "meaning": {
+    "en": "to rest",
+    "ur": "آرام کرنا",
+    "hi": "आराम करना"
+   },
+   "example": {
+    "korean": "일요일에는 쉽니다.",
+    "romanization": "iryoireneun swimnida.",
+    "en": "I rest on Sundays.",
+    "ur": "میں اتوار کو آرام کرتا ہوں۔",
+    "hi": "मैं रविवार को आराम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.gongjang",
+   "korean": "공장",
+   "romanization": "gongjang",
+   "pos": "noun",
+   "level": 1,
+   "category": "factory",
+   "meaning": {
+    "en": "factory",
+    "ur": "فیکٹری / کارخانہ",
+    "hi": "फ़ैक्ट्री / कारखाना"
+   },
+   "example": {
+    "korean": "공장이 아주 큽니다.",
+    "romanization": "gongjang-i aju keumnida.",
+    "en": "The factory is very big.",
+    "ur": "فیکٹری بہت بڑی ہے۔",
+    "hi": "फ़ैक्ट्री बहुत बड़ी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.gigye",
+   "korean": "기계",
+   "romanization": "gigye",
+   "pos": "noun",
+   "level": 2,
+   "category": "factory",
+   "meaning": {
+    "en": "machine",
+    "ur": "مشین",
+    "hi": "मशीन"
+   },
+   "example": {
+    "korean": "기계를 조심해서 사용하세요.",
+    "romanization": "gigyereul josimhaeseo sayonghaseyo.",
+    "en": "Please use the machine carefully.",
+    "ur": "مشین احتیاط سے استعمال کریں۔",
+    "hi": "मशीन सावधानी से इस्तेमाल करें।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.jageop",
+   "korean": "작업",
+   "romanization": "jageop",
+   "pos": "noun",
+   "level": 2,
+   "category": "factory",
+   "meaning": {
+    "en": "work, operation, task",
+    "ur": "کام / آپریشن",
+    "hi": "कार्य / संचालन"
+   },
+   "example": {
+    "korean": "작업을 시작하겠습니다.",
+    "romanization": "jageobeul sijakhagetseumnida.",
+    "en": "I will start the work.",
+    "ur": "میں کام شروع کروں گا۔",
+    "hi": "मैं काम शुरू करूँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.bupum",
+   "korean": "부품",
+   "romanization": "bupum",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "part, component",
+    "ur": "پرزہ",
+    "hi": "पुर्ज़ा"
+   },
+   "example": {
+    "korean": "이 부품을 교체해 주세요.",
+    "romanization": "i bupumeul gyochehae juseyo.",
+    "en": "Please replace this part.",
+    "ur": "یہ پرزہ تبدیل کر دیں۔",
+    "hi": "यह पुर्ज़ा बदल दीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.jepum",
+   "korean": "제품",
+   "romanization": "jepum",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "product",
+    "ur": "مصنوعات / پروڈکٹ",
+    "hi": "उत्पाद"
+   },
+   "example": {
+    "korean": "제품을 검사합니다.",
+    "romanization": "jepumeul geomsahamnida.",
+    "en": "I inspect the products.",
+    "ur": "میں مصنوعات کا معائنہ کرتا ہوں۔",
+    "hi": "मैं उत्पादों का निरीक्षण करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.gojang",
+   "korean": "고장",
+   "romanization": "gojang",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "breakdown, malfunction",
+    "ur": "خرابی",
+    "hi": "खराबी"
+   },
+   "example": {
+    "korean": "기계가 고장 났습니다.",
+    "romanization": "gigyega gojang natseumnida.",
+    "en": "The machine has broken down.",
+    "ur": "مشین خراب ہو گئی ہے۔",
+    "hi": "मशीन खराब हो गई है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.suri",
+   "korean": "수리",
+   "romanization": "suri",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "repair",
+    "ur": "مرمت",
+    "hi": "मरम्मत"
+   },
+   "example": {
+    "korean": "수리가 필요합니다.",
+    "romanization": "suriga piryohamnida.",
+    "en": "It needs repair.",
+    "ur": "اس کی مرمت ضروری ہے۔",
+    "hi": "इसकी मरम्मत ज़रूरी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.changgo",
+   "korean": "창고",
+   "romanization": "changgo",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "warehouse",
+    "ur": "گودام",
+    "hi": "गोदाम"
+   },
+   "example": {
+    "korean": "창고에 물건이 많습니다.",
+    "romanization": "changgo-e mulgeoni manseumnida.",
+    "en": "There are many goods in the warehouse.",
+    "ur": "گودام میں بہت سا سامان ہے۔",
+    "hi": "गोदाम में बहुत सामान है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.jigecha",
+   "korean": "지게차",
+   "romanization": "jigecha",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "forklift",
+    "ur": "فورک لفٹ",
+    "hi": "फोर्कलिफ्ट"
+   },
+   "example": {
+    "korean": "지게차 면허가 있습니까?",
+    "romanization": "jigecha myeonheoga itseumnikka?",
+    "en": "Do you have a forklift licence?",
+    "ur": "کیا آپ کے پاس فورک لفٹ کا لائسنس ہے؟",
+    "hi": "क्या आपके पास फोर्कलिफ्ट का लाइसेंस है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.yongjeop",
+   "korean": "용접",
+   "romanization": "yongjeop",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "welding",
+    "ur": "ویلڈنگ",
+    "hi": "वेल्डिंग"
+   },
+   "example": {
+    "korean": "용접 일을 해 봤습니다.",
+    "romanization": "yongjeop ireul hae bwatseumnida.",
+    "en": "I have done welding work before.",
+    "ur": "میں نے ویلڈنگ کا کام کیا ہے۔",
+    "hi": "मैंने वेल्डिंग का काम किया है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.factory.gyodae",
+   "korean": "교대",
+   "romanization": "gyodae",
+   "pos": "noun",
+   "level": 3,
+   "category": "factory",
+   "meaning": {
+    "en": "shift, rotation",
+    "ur": "شفٹ",
+    "hi": "पाली / शिफ्ट"
+   },
+   "example": {
+    "korean": "교대 근무를 합니다.",
+    "romanization": "gyodae geunmureul hamnida.",
+    "en": "I work shifts.",
+    "ur": "میں شفٹوں میں کام کرتا ہوں۔",
+    "hi": "मैं शिफ्ट में काम करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.geonseol",
+   "korean": "건설",
+   "romanization": "geonseol",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "construction",
+    "ur": "تعمیرات",
+    "hi": "निर्माण"
+   },
+   "example": {
+    "korean": "건설 회사에서 일했습니다.",
+    "romanization": "geonseol hoesa-eseo ilhaetseumnida.",
+    "en": "I worked at a construction company.",
+    "ur": "میں نے تعمیراتی کمپنی میں کام کیا۔",
+    "hi": "मैंने निर्माण कंपनी में काम किया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.hyeonjang",
+   "korean": "현장",
+   "romanization": "hyeonjang",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "site, field",
+    "ur": "سائٹ / موقع",
+    "hi": "साइट / स्थल"
+   },
+   "example": {
+    "korean": "현장에 일찍 도착했습니다.",
+    "romanization": "hyeonjang-e iljjik dochakhaetseumnida.",
+    "en": "I arrived at the site early.",
+    "ur": "میں سائٹ پر جلدی پہنچا۔",
+    "hi": "मैं साइट पर जल्दी पहुँचा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.gongsa",
+   "korean": "공사",
+   "romanization": "gongsa",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "construction work",
+    "ur": "تعمیراتی کام",
+    "hi": "निर्माण कार्य"
+   },
+   "example": {
+    "korean": "공사가 언제 끝납니까?",
+    "romanization": "gongsaga eonje kkeutnamnikka?",
+    "en": "When does the construction finish?",
+    "ur": "تعمیراتی کام کب مکمل ہوگا؟",
+    "hi": "निर्माण कार्य कब पूरा होगा?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.byeokdol",
+   "korean": "벽돌",
+   "romanization": "byeokdol",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "brick",
+    "ur": "اینٹ",
+    "hi": "ईंट"
+   },
+   "example": {
+    "korean": "벽돌을 옮깁니다.",
+    "romanization": "byeokdoreul omgimnida.",
+    "en": "I move bricks.",
+    "ur": "میں اینٹیں اٹھاتا ہوں۔",
+    "hi": "मैं ईंटें ढोता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.simenteu",
+   "korean": "시멘트",
+   "romanization": "simenteu",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "cement",
+    "ur": "سیمنٹ",
+    "hi": "सीमेंट"
+   },
+   "example": {
+    "korean": "시멘트를 섞습니다.",
+    "romanization": "simenteureul seokkseumnida.",
+    "en": "I mix cement.",
+    "ur": "میں سیمنٹ ملاتا ہوں۔",
+    "hi": "मैं सीमेंट मिलाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.sadari",
+   "korean": "사다리",
+   "romanization": "sadari",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "ladder",
+    "ur": "سیڑھی",
+    "hi": "सीढ़ी"
+   },
+   "example": {
+    "korean": "사다리를 잡아 주세요.",
+    "romanization": "sadarireul jaba juseyo.",
+    "en": "Please hold the ladder.",
+    "ur": "براہِ کرم سیڑھی پکڑیں۔",
+    "hi": "कृपया सीढ़ी पकड़िए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.construction.dogu",
+   "korean": "도구",
+   "romanization": "dogu",
+   "pos": "noun",
+   "level": 3,
+   "category": "construction",
+   "meaning": {
+    "en": "tool",
+    "ur": "اوزار",
+    "hi": "औज़ार"
+   },
+   "example": {
+    "korean": "도구를 정리했습니다.",
+    "romanization": "dogureul jeongnihaetseumnida.",
+    "en": "I tidied up the tools.",
+    "ur": "میں نے اوزار ترتیب سے رکھے۔",
+    "hi": "मैंने औज़ार व्यवस्थित किए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.anjeon",
+   "korean": "안전",
+   "romanization": "anjeon",
+   "pos": "noun",
+   "level": 2,
+   "category": "safety",
+   "meaning": {
+    "en": "safety",
+    "ur": "حفاظت",
+    "hi": "सुरक्षा"
+   },
+   "example": {
+    "korean": "안전이 제일 중요합니다.",
+    "romanization": "anjeoni jeil jungyohamnida.",
+    "en": "Safety is the most important thing.",
+    "ur": "حفاظت سب سے اہم ہے۔",
+    "hi": "सुरक्षा सबसे महत्वपूर्ण है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.anjeonmo",
+   "korean": "안전모",
+   "romanization": "anjeonmo",
+   "pos": "noun",
+   "level": 3,
+   "category": "safety",
+   "meaning": {
+    "en": "safety helmet",
+    "ur": "حفاظتی ہیلمٹ",
+    "hi": "सुरक्षा हेलमेट"
+   },
+   "example": {
+    "korean": "안전모를 꼭 쓰세요.",
+    "romanization": "anjeonmoreul kkok sseuseyo.",
+    "en": "Be sure to wear a safety helmet.",
+    "ur": "حفاظتی ہیلمٹ ضرور پہنیں۔",
+    "hi": "सुरक्षा हेलमेट ज़रूर पहनें।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.anjeonhwa",
+   "korean": "안전화",
+   "romanization": "anjeonhwa",
+   "pos": "noun",
+   "level": 3,
+   "category": "safety",
+   "meaning": {
+    "en": "safety shoes",
+    "ur": "حفاظتی جوتے",
+    "hi": "सुरक्षा जूते"
+   },
+   "example": {
+    "korean": "작업장에서는 안전화를 신습니다.",
+    "romanization": "jageopjang-eseoneun anjeonhwareul sinseumnida.",
+    "en": "We wear safety shoes at the worksite.",
+    "ur": "کام کی جگہ پر حفاظتی جوتے پہنے جاتے ہیں۔",
+    "hi": "कार्यस्थल पर सुरक्षा जूते पहने जाते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.janggap",
+   "korean": "장갑",
+   "romanization": "janggap",
+   "pos": "noun",
+   "level": 2,
+   "category": "safety",
+   "meaning": {
+    "en": "gloves",
+    "ur": "دستانے",
+    "hi": "दस्ताने"
+   },
+   "example": {
+    "korean": "장갑을 끼고 일하세요.",
+    "romanization": "janggabeul kkigo ilhaseyo.",
+    "en": "Please work wearing gloves.",
+    "ur": "دستانے پہن کر کام کریں۔",
+    "hi": "दस्ताने पहनकर काम कीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.wiheom",
+   "korean": "위험",
+   "romanization": "wiheom",
+   "pos": "noun",
+   "level": 2,
+   "category": "safety",
+   "meaning": {
+    "en": "danger",
+    "ur": "خطرہ",
+    "hi": "खतरा"
+   },
+   "example": {
+    "korean": "위험하니까 들어가지 마세요.",
+    "romanization": "wiheomhanikka deureogaji maseyo.",
+    "en": "It is dangerous, so please do not enter.",
+    "ur": "خطرناک ہے، اس لیے اندر نہ جائیں۔",
+    "hi": "खतरनाक है, इसलिए अंदर न जाएँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.josim",
+   "korean": "조심",
+   "romanization": "josim",
+   "pos": "noun",
+   "level": 2,
+   "category": "safety",
+   "meaning": {
+    "en": "caution, care",
+    "ur": "احتیاط",
+    "hi": "सावधानी"
+   },
+   "example": {
+    "korean": "조심하세요!",
+    "romanization": "josimhaseyo!",
+    "en": "Be careful!",
+    "ur": "احتیاط کریں!",
+    "hi": "सावधान रहें!"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.sago",
+   "korean": "사고",
+   "romanization": "sago",
+   "pos": "noun",
+   "level": 3,
+   "category": "safety",
+   "meaning": {
+    "en": "accident",
+    "ur": "حادثہ",
+    "hi": "दुर्घटना"
+   },
+   "example": {
+    "korean": "작업 중에 사고가 났습니다.",
+    "romanization": "jageop jung-e sagoga natseumnida.",
+    "en": "An accident happened during work.",
+    "ur": "کام کے دوران حادثہ پیش آیا۔",
+    "hi": "काम के दौरान दुर्घटना हुई।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.dachida",
+   "korean": "다치다",
+   "romanization": "dachida",
+   "pos": "verb",
+   "level": 2,
+   "category": "safety",
+   "meaning": {
+    "en": "to get hurt, be injured",
+    "ur": "زخمی ہونا",
+    "hi": "चोट लगना"
+   },
+   "example": {
+    "korean": "손을 다쳤습니다.",
+    "romanization": "soneul dachyeotseumnida.",
+    "en": "I hurt my hand.",
+    "ur": "میرے ہاتھ پر چوٹ لگی ہے۔",
+    "hi": "मेरे हाथ में चोट लगी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.geumji",
+   "korean": "금지",
+   "romanization": "geumji",
+   "pos": "noun",
+   "level": 3,
+   "category": "safety",
+   "meaning": {
+    "en": "prohibition, forbidden",
+    "ur": "ممانعت",
+    "hi": "निषेध"
+   },
+   "example": {
+    "korean": "이곳은 출입 금지입니다.",
+    "romanization": "igoseun churip geumji-imnida.",
+    "en": "Entry is prohibited here.",
+    "ur": "یہاں داخلہ ممنوع ہے۔",
+    "hi": "यहाँ प्रवेश निषेध है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.safety.daepi",
+   "korean": "대피",
+   "romanization": "daepi",
+   "pos": "noun",
+   "level": 4,
+   "category": "safety",
+   "meaning": {
+    "en": "evacuation",
+    "ur": "انخلا / پناہ لینا",
+    "hi": "निकासी"
+   },
+   "example": {
+    "korean": "화재 시 밖으로 대피하세요.",
+    "romanization": "hwajae si bakkeuro daepihaseyo.",
+    "en": "In case of fire, evacuate outside.",
+    "ur": "آگ لگنے کی صورت میں باہر نکل جائیں۔",
+    "hi": "आग लगने पर बाहर निकल जाएँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.byeongwon",
+   "korean": "병원",
+   "romanization": "byeongwon",
+   "pos": "noun",
+   "level": 1,
+   "category": "health",
+   "meaning": {
+    "en": "hospital",
+    "ur": "ہسپتال",
+    "hi": "अस्पताल"
+   },
+   "example": {
+    "korean": "병원에 가야 합니다.",
+    "romanization": "byeongwon-e gaya hamnida.",
+    "en": "I have to go to the hospital.",
+    "ur": "مجھے ہسپتال جانا ہے۔",
+    "hi": "मुझे अस्पताल जाना है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.yakguk",
+   "korean": "약국",
+   "romanization": "yakguk",
+   "pos": "noun",
+   "level": 2,
+   "category": "health",
+   "meaning": {
+    "en": "pharmacy",
+    "ur": "دواخانہ / فارمیسی",
+    "hi": "दवाख़ाना"
+   },
+   "example": {
+    "korean": "약국이 어디에 있습니까?",
+    "romanization": "yakgugi eodie itseumnikka?",
+    "en": "Where is the pharmacy?",
+    "ur": "فارمیسی کہاں ہے؟",
+    "hi": "दवाख़ाना कहाँ है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.uisa",
+   "korean": "의사",
+   "romanization": "uisa",
+   "pos": "noun",
+   "level": 1,
+   "category": "health",
+   "meaning": {
+    "en": "doctor",
+    "ur": "ڈاکٹر",
+    "hi": "डॉक्टर"
+   },
+   "example": {
+    "korean": "의사를 만나고 싶습니다.",
+    "romanization": "uisareul mannago sipseumnida.",
+    "en": "I want to see a doctor.",
+    "ur": "میں ڈاکٹر سے ملنا چاہتا ہوں۔",
+    "hi": "मैं डॉक्टर से मिलना चाहता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.ganhosa",
+   "korean": "간호사",
+   "romanization": "ganhosa",
+   "pos": "noun",
+   "level": 2,
+   "category": "health",
+   "meaning": {
+    "en": "nurse",
+    "ur": "نرس",
+    "hi": "नर्स"
+   },
+   "example": {
+    "korean": "간호사가 도와줬습니다.",
+    "romanization": "ganhosaga dowajwotseumnida.",
+    "en": "The nurse helped me.",
+    "ur": "نرس نے میری مدد کی۔",
+    "hi": "नर्स ने मेरी मदद की।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.apeuda",
+   "korean": "아프다",
+   "romanization": "apeuda",
+   "pos": "adjective",
+   "level": 1,
+   "category": "health",
+   "meaning": {
+    "en": "to be sick, to hurt",
+    "ur": "درد ہونا / بیمار ہونا",
+    "hi": "दर्द होना / बीमार होना"
+   },
+   "example": {
+    "korean": "머리가 아픕니다.",
+    "romanization": "meoriga apeumnida.",
+    "en": "I have a headache.",
+    "ur": "میرے سر میں درد ہے۔",
+    "hi": "मेरे सिर में दर्द है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.yak",
+   "korean": "약",
+   "romanization": "yak",
+   "pos": "noun",
+   "level": 1,
+   "category": "health",
+   "meaning": {
+    "en": "medicine",
+    "ur": "دوا",
+    "hi": "दवा"
+   },
+   "example": {
+    "korean": "약을 먹었습니까?",
+    "romanization": "yageul meogeotseumnikka?",
+    "en": "Did you take the medicine?",
+    "ur": "کیا آپ نے دوا کھائی؟",
+    "hi": "क्या आपने दवा ली?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.yeol",
+   "korean": "열",
+   "romanization": "yeol",
+   "pos": "noun",
+   "level": 2,
+   "category": "health",
+   "meaning": {
+    "en": "fever",
+    "ur": "بخار",
+    "hi": "बुखार"
+   },
+   "example": {
+    "korean": "열이 많이 납니다.",
+    "romanization": "yeori mani namnida.",
+    "en": "I have a high fever.",
+    "ur": "مجھے تیز بخار ہے۔",
+    "hi": "मुझे तेज़ बुखार है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.gamgi",
+   "korean": "감기",
+   "romanization": "gamgi",
+   "pos": "noun",
+   "level": 2,
+   "category": "health",
+   "meaning": {
+    "en": "a cold",
+    "ur": "نزلہ زکام",
+    "hi": "सर्दी-ज़ुकाम"
+   },
+   "example": {
+    "korean": "감기에 걸렸습니다.",
+    "romanization": "gamgi-e geollyeotseumnida.",
+    "en": "I have caught a cold.",
+    "ur": "مجھے زکام ہو گیا ہے۔",
+    "hi": "मुझे ज़ुकाम हो गया है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.eunggeupsil",
+   "korean": "응급실",
+   "romanization": "eunggeupsil",
+   "pos": "noun",
+   "level": 4,
+   "category": "health",
+   "meaning": {
+    "en": "emergency room",
+    "ur": "ایمرجنسی وارڈ",
+    "hi": "आपातकालीन कक्ष"
+   },
+   "example": {
+    "korean": "응급실로 가 주세요.",
+    "romanization": "eunggeupsillo ga juseyo.",
+    "en": "Please go to the emergency room.",
+    "ur": "براہِ کرم ایمرجنسی وارڈ لے چلیں۔",
+    "hi": "कृपया आपातकालीन कक्ष ले चलिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.health.gugeupcha",
+   "korean": "구급차",
+   "romanization": "gugeupcha",
+   "pos": "noun",
+   "level": 4,
+   "category": "health",
+   "meaning": {
+    "en": "ambulance",
+    "ur": "ایمبولینس",
+    "hi": "एम्बुलेंस"
+   },
+   "example": {
+    "korean": "구급차를 불러 주세요.",
+    "romanization": "gugeupchareul bulleo juseyo.",
+    "en": "Please call an ambulance.",
+    "ur": "براہِ کرم ایمبولینس بلائیں۔",
+    "hi": "कृपया एम्बुलेंस बुलाइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.emergency.dowajuseyo",
+   "korean": "도와주세요",
+   "romanization": "dowajuseyo",
+   "pos": "expression",
+   "level": 1,
+   "category": "emergency",
+   "meaning": {
+    "en": "please help me",
+    "ur": "میری مدد کریں",
+    "hi": "मेरी मदद कीजिए"
+   },
+   "example": {
+    "korean": "도와주세요! 사람이 다쳤습니다.",
+    "romanization": "dowajuseyo! sarami dachyeotseumnida.",
+    "en": "Help! Someone is hurt.",
+    "ur": "مدد کریں! ایک آدمی زخمی ہو گیا ہے۔",
+    "hi": "मदद कीजिए! एक व्यक्ति घायल हो गया है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.emergency.gyeongchal",
+   "korean": "경찰",
+   "romanization": "gyeongchal",
+   "pos": "noun",
+   "level": 2,
+   "category": "emergency",
+   "meaning": {
+    "en": "police",
+    "ur": "پولیس",
+    "hi": "पुलिस"
+   },
+   "example": {
+    "korean": "경찰에 신고했습니다.",
+    "romanization": "gyeongchar-e singohaetseumnida.",
+    "en": "I reported it to the police.",
+    "ur": "میں نے پولیس کو اطلاع دی۔",
+    "hi": "मैंने पुलिस को सूचना दी।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.emergency.hwajae",
+   "korean": "화재",
+   "romanization": "hwajae",
+   "pos": "noun",
+   "level": 4,
+   "category": "emergency",
+   "meaning": {
+    "en": "fire (disaster)",
+    "ur": "آتشزدگی",
+    "hi": "आगजनी"
+   },
+   "example": {
+    "korean": "화재가 발생했습니다.",
+    "romanization": "hwajaega balsaenghaetseumnida.",
+    "en": "A fire has broken out.",
+    "ur": "آگ لگ گئی ہے۔",
+    "hi": "आग लग गई है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.emergency.singo",
+   "korean": "신고",
+   "romanization": "singo",
+   "pos": "noun",
+   "level": 3,
+   "category": "emergency",
+   "meaning": {
+    "en": "report (to authorities)",
+    "ur": "اطلاع دینا / رپورٹ",
+    "hi": "सूचना देना / रिपोर्ट"
+   },
+   "example": {
+    "korean": "사고를 신고해야 합니다.",
+    "romanization": "sagoreul singohaeya hamnida.",
+    "en": "The accident must be reported.",
+    "ur": "حادثے کی اطلاع دینی ضروری ہے۔",
+    "hi": "दुर्घटना की सूचना देना ज़रूरी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.emergency.ppalli",
+   "korean": "빨리",
+   "romanization": "ppalli",
+   "pos": "adverb",
+   "level": 1,
+   "category": "emergency",
+   "meaning": {
+    "en": "quickly, fast",
+    "ur": "جلدی",
+    "hi": "जल्दी"
+   },
+   "example": {
+    "korean": "빨리 와 주세요.",
+    "romanization": "ppalli wa juseyo.",
+    "en": "Please come quickly.",
+    "ur": "براہِ کرم جلدی آئیں۔",
+    "hi": "कृपया जल्दी आइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

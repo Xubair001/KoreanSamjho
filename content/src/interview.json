@@ -1,0 +1,269 @@
+{
+ "content_version": 1,
+ "interview": [
+  {
+   "id": "interview.self_intro",
+   "order": 1,
+   "category": "self_intro",
+   "question": {
+    "korean": "자기소개를 해 주세요.",
+    "romanization": "jagisogaereul hae juseyo.",
+    "en": "Please introduce yourself.",
+    "ur": "اپنا تعارف کرائیں۔",
+    "hi": "अपना परिचय दीजिए।"
+   },
+   "model_answer": {
+    "korean": "안녕하세요. 저는 빌랄이라고 합니다. 파키스탄에서 왔고, 나이는 스물다섯 살입니다. 삼 년 동안 공장에서 일했습니다. 성실하게 일하겠습니다. 잘 부탁드립니다.",
+    "romanization": "annyeonghaseyo. jeoneun billal-irago hamnida. pakiseutan-eseo watgo, naineun seumuldaseot sar-imnida. sam nyeon dongan gongjang-eseo ilhaetseumnida. seongsilhage ilhagetseumnida. jal butakdeurimnida.",
+    "en": "Hello. My name is Bilal. I came from Pakistan and I am twenty-five years old. I worked in a factory for three years. I will work sincerely. I look forward to working with you.",
+    "ur": "السلام علیکم۔ میرا نام بلال ہے۔ میں پاکستان سے آیا ہوں اور میری عمر پچیس سال ہے۔ میں نے تین سال فیکٹری میں کام کیا ہے۔ میں دیانت داری سے کام کروں گا۔ آپ کے تعاون کا منتظر ہوں۔",
+    "hi": "नमस्ते। मेरा नाम बिलाल है। मैं पाकिस्तान से आया हूँ और मेरी उम्र पच्चीस साल है। मैंने तीन साल फ़ैक्ट्री में काम किया है। मैं ईमानदारी से काम करूँगा। आपके सहयोग की आशा है।"
+   },
+   "tip_en": "Keep it to 30-40 seconds: name, country, age, experience, one sentence of attitude. Do not list your whole life.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.family",
+   "order": 2,
+   "category": "family",
+   "question": {
+    "korean": "가족이 몇 명입니까?",
+    "romanization": "gajogi myeot myeong-imnikka?",
+    "en": "How many people are in your family?",
+    "ur": "آپ کے خاندان میں کتنے افراد ہیں؟",
+    "hi": "आपके परिवार में कितने लोग हैं?"
+   },
+   "model_answer": {
+    "korean": "우리 가족은 다섯 명입니다. 부모님과 동생 두 명이 있습니다.",
+    "romanization": "uri gajogeun daseot myeong-imnida. bumonimgwa dongsaeng du myeong-i itseumnida.",
+    "en": "There are five people in my family. My parents and two younger siblings.",
+    "ur": "میرے خاندان میں پانچ افراد ہیں۔ والدین اور دو چھوٹے بہن بھائی۔",
+    "hi": "मेरे परिवार में पाँच लोग हैं। माता-पिता और दो छोटे भाई-बहन।"
+   },
+   "tip_en": "Use counters correctly: 명 for people. 다섯 명, not 다섯 사람들.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.education",
+   "order": 3,
+   "category": "education",
+   "question": {
+    "korean": "학교는 어디까지 다녔습니까?",
+    "romanization": "hakgyoneun eodikkaji danyeotseumnikka?",
+    "en": "How far did you study?",
+    "ur": "آپ نے کہاں تک تعلیم حاصل کی؟",
+    "hi": "आपने कहाँ तक पढ़ाई की?"
+   },
+   "model_answer": {
+    "korean": "고등학교를 졸업했습니다. 그 후에 기술 학원에서 용접을 배웠습니다.",
+    "romanization": "godeunghakgyoreul joreophaetseumnida. geu hue gisul hagwon-eseo yongjeobeul baewotseumnida.",
+    "en": "I graduated from high school. After that I learned welding at a technical institute.",
+    "ur": "میں نے میٹرک مکمل کیا۔ اس کے بعد ٹیکنیکل ادارے سے ویلڈنگ سیکھی۔",
+    "hi": "मैंने हाई स्कूल पूरा किया। उसके बाद तकनीकी संस्थान से वेल्डिंग सीखी।"
+   },
+   "tip_en": "Link your education to a practical skill the employer needs.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.prev_work",
+   "order": 4,
+   "category": "prev_work",
+   "question": {
+    "korean": "전에 무슨 일을 했습니까?",
+    "romanization": "jeone museun ireul haetseumnikka?",
+    "en": "What work did you do before?",
+    "ur": "آپ پہلے کیا کام کرتے تھے؟",
+    "hi": "आप पहले क्या काम करते थे?"
+   },
+   "model_answer": {
+    "korean": "삼 년 동안 자동차 부품 공장에서 일했습니다. 기계를 조작하고 제품을 검사했습니다.",
+    "romanization": "sam nyeon dongan jadongcha bupum gongjang-eseo ilhaetseumnida. gigyereul jojakhago jepumeul geomsahaetseumnida.",
+    "en": "I worked at a car parts factory for three years. I operated machines and inspected products.",
+    "ur": "میں نے تین سال گاڑیوں کے پرزوں کی فیکٹری میں کام کیا۔ میں مشین چلاتا اور مصنوعات کا معائنہ کرتا تھا۔",
+    "hi": "मैंने तीन साल कार पुर्ज़ों की फ़ैक्ट्री में काम किया। मैं मशीन चलाता और उत्पादों का निरीक्षण करता था।"
+   },
+   "tip_en": "Name the industry and two concrete duties. Concrete beats general.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.why_korea",
+   "order": 5,
+   "category": "why_korea",
+   "question": {
+    "korean": "왜 한국에서 일하고 싶습니까?",
+    "romanization": "wae hangug-eseo ilhago sipseumnikka?",
+    "en": "Why do you want to work in Korea?",
+    "ur": "آپ کوریا میں کیوں کام کرنا چاہتے ہیں؟",
+    "hi": "आप कोरिया में क्यों काम करना चाहते हैं?"
+   },
+   "model_answer": {
+    "korean": "한국은 기술이 발전한 나라입니다. 좋은 기술을 배우고 싶습니다. 그리고 열심히 일해서 가족을 돕고 싶습니다.",
+    "romanization": "hangugeun gisuri baljeonhan nara-imnida. joeun gisureul baeugo sipseumnida. geurigo yeolsimhi ilhaeseo gajogeul dopgo sipseumnida.",
+    "en": "Korea is a technologically advanced country. I want to learn good skills. And I want to work hard and support my family.",
+    "ur": "کوریا ٹیکنالوجی میں ترقی یافتہ ملک ہے۔ میں اچھی مہارت سیکھنا چاہتا ہوں۔ اور محنت کر کے اپنے خاندان کی مدد کرنا چاہتا ہوں۔",
+    "hi": "कोरिया तकनीकी रूप से उन्नत देश है। मैं अच्छा कौशल सीखना चाहता हूँ। और मेहनत करके अपने परिवार की मदद करना चाहता हूँ।"
+   },
+   "tip_en": "Give a skills reason before a money reason. Both are honest; the order matters.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.strength",
+   "order": 6,
+   "category": "strength",
+   "question": {
+    "korean": "본인의 장점은 무엇입니까?",
+    "romanization": "boninui jangjeomeun mueos-imnikka?",
+    "en": "What is your strength?",
+    "ur": "آپ کی خوبی کیا ہے؟",
+    "hi": "आपकी खूबी क्या है?"
+   },
+   "model_answer": {
+    "korean": "저는 성실하고 시간을 잘 지킵니다. 한 번도 지각한 적이 없습니다.",
+    "romanization": "jeoneun seongsilhago siganeul jal jikimnida. han beondo jigakhan jeogi eopseumnida.",
+    "en": "I am sincere and punctual. I have never been late even once.",
+    "ur": "میں محنتی ہوں اور وقت کی پابندی کرتا ہوں۔ میں ایک بار بھی دیر سے نہیں آیا۔",
+    "hi": "मैं ईमानदार हूँ और समय का पाबंद हूँ। मैं एक बार भी देर से नहीं आया।"
+   },
+   "tip_en": "Name one strength and give one piece of evidence. Two strengths with no evidence is weaker.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.health",
+   "order": 7,
+   "category": "health",
+   "question": {
+    "korean": "건강은 어떻습니까?",
+    "romanization": "geongang-eun eotteoseumnikka?",
+    "en": "How is your health?",
+    "ur": "آپ کی صحت کیسی ہے؟",
+    "hi": "आपका स्वास्थ्य कैसा है?"
+   },
+   "model_answer": {
+    "korean": "건강합니다. 특별한 병은 없습니다. 무거운 것도 들 수 있습니다.",
+    "romanization": "geonganghamnida. teukbyeolhan byeong-eun eopseumnida. mugeoun geotdo deul su itseumnida.",
+    "en": "I am healthy. I have no particular illness. I can also lift heavy things.",
+    "ur": "میں صحت مند ہوں۔ کوئی خاص بیماری نہیں۔ میں بھاری چیزیں بھی اٹھا سکتا ہوں۔",
+    "hi": "मैं स्वस्थ हूँ। कोई विशेष बीमारी नहीं है। मैं भारी चीज़ें भी उठा सकता हूँ।"
+   },
+   "tip_en": "Answer directly and mention physical capability, which matters for manufacturing roles.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.overtime",
+   "order": 8,
+   "category": "overtime",
+   "question": {
+    "korean": "잔업을 할 수 있습니까?",
+    "romanization": "janeobeul hal su itseumnikka?",
+    "en": "Can you do overtime?",
+    "ur": "کیا آپ اوور ٹائم کر سکتے ہیں؟",
+    "hi": "क्या आप ओवरटाइम कर सकते हैं?"
+   },
+   "model_answer": {
+    "korean": "네, 할 수 있습니다. 회사에서 필요하면 열심히 하겠습니다.",
+    "romanization": "ne, hal su itseumnida. hoesa-eseo piryohamyeon yeolsimhi hagetseumnida.",
+    "en": "Yes, I can. If the company needs it, I will work hard.",
+    "ur": "جی ہاں، کر سکتا ہوں۔ اگر کمپنی کو ضرورت ہو تو محنت سے کروں گا۔",
+    "hi": "जी हाँ, कर सकता हूँ। अगर कंपनी को ज़रूरत हो तो मेहनत से करूँगा।"
+   },
+   "tip_en": "A short, clear yes is stronger than a long qualified answer.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.daily_routine",
+   "order": 9,
+   "category": "daily_routine",
+   "question": {
+    "korean": "하루 일과를 말해 보세요.",
+    "romanization": "haru ilgwareul malhae boseyo.",
+    "en": "Tell me about your daily routine.",
+    "ur": "اپنے روزمرہ معمول کے بارے میں بتائیں۔",
+    "hi": "अपनी दिनचर्या के बारे में बताइए।"
+   },
+   "model_answer": {
+    "korean": "아침 여섯 시에 일어납니다. 일곱 시에 아침을 먹고 여덟 시까지 출근합니다. 여섯 시에 퇴근하고 저녁에는 한국어를 공부합니다.",
+    "romanization": "achim yeoseot si-e ireonamnida. ilgop si-e achimeul meokgo yeodeol sikkaji chulgeunhamnida. yeoseot si-e toegeunhago jeonyeogeneun hangugeoreul gongbuhamnida.",
+    "en": "I get up at six in the morning. I eat breakfast at seven and go to work by eight. I finish at six and study Korean in the evening.",
+    "ur": "میں صبح چھ بجے اٹھتا ہوں۔ سات بجے ناشتہ کر کے آٹھ بجے تک کام پر پہنچتا ہوں۔ چھ بجے چھٹی کے بعد شام کو کوریائی پڑھتا ہوں۔",
+    "hi": "मैं सुबह छह बजे उठता हूँ। सात बजे नाश्ता करके आठ बजे तक काम पर पहुँचता हूँ। छह बजे छुट्टी के बाद शाम को कोरियाई पढ़ता हूँ।"
+   },
+   "tip_en": "Practise numbers and times — this question is really a test of your number fluency.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.future",
+   "order": 10,
+   "category": "future",
+   "question": {
+    "korean": "앞으로의 계획은 무엇입니까?",
+    "romanization": "apeuroui gyehoegeun mueos-imnikka?",
+    "en": "What are your future plans?",
+    "ur": "آپ کے مستقبل کے منصوبے کیا ہیں؟",
+    "hi": "आपकी भविष्य की योजनाएँ क्या हैं?"
+   },
+   "model_answer": {
+    "korean": "한국에서 기술을 배우고 열심히 일하겠습니다. 한국어도 더 잘하고 싶습니다.",
+    "romanization": "hangug-eseo gisureul baeugo yeolsimhi ilhagetseumnida. hangugeodo deo jalhago sipseumnida.",
+    "en": "I will learn skills in Korea and work hard. I also want to become better at Korean.",
+    "ur": "میں کوریا میں مہارت سیکھوں گا اور محنت سے کام کروں گا۔ میں کوریائی زبان بھی بہتر کرنا چاہتا ہوں۔",
+    "hi": "मैं कोरिया में कौशल सीखूँगा और मेहनत से काम करूँगा। मैं कोरियाई भाषा भी बेहतर करना चाहता हूँ।"
+   },
+   "tip_en": "Keep plans tied to the job and to learning, and keep them short.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.mistake",
+   "order": 11,
+   "category": "mistake",
+   "question": {
+    "korean": "일할 때 실수하면 어떻게 하겠습니까?",
+    "romanization": "ilhal ttae silsuhamyeon eotteoke hagetseumnikka?",
+    "en": "What will you do if you make a mistake at work?",
+    "ur": "اگر کام کے دوران غلطی ہو جائے تو کیا کریں گے؟",
+    "hi": "अगर काम में गलती हो जाए तो क्या करेंगे?"
+   },
+   "model_answer": {
+    "korean": "바로 과장님께 말씀드리겠습니다. 숨기지 않고 빨리 고치겠습니다.",
+    "romanization": "baro gwajangnimkke malsseumdeurigetseumnida. sumgiji ango ppalli gochigetseumnida.",
+    "en": "I will tell my manager immediately. I will not hide it and will fix it quickly.",
+    "ur": "میں فوراً اپنے نگران کو بتاؤں گا۔ چھپاؤں گا نہیں اور جلد ٹھیک کروں گا۔",
+    "hi": "मैं तुरंत अपने पर्यवेक्षक को बताऊँगा। छिपाऊँगा नहीं और जल्दी ठीक करूँगा।"
+   },
+   "tip_en": "Korean workplaces value immediate reporting. 'I will hide it and fix it myself' is the wrong answer.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "interview.korean_level",
+   "order": 12,
+   "category": "korean_level",
+   "question": {
+    "korean": "한국어를 얼마나 할 수 있습니까?",
+    "romanization": "hangugeoreul eolmana hal su itseumnikka?",
+    "en": "How much Korean can you speak?",
+    "ur": "آپ کتنی کوریائی بول سکتے ہیں؟",
+    "hi": "आप कितनी कोरियाई बोल सकते हैं?"
+   },
+   "model_answer": {
+    "korean": "아직 잘하지 못하지만 매일 공부하고 있습니다. 일에 필요한 말은 알아들을 수 있습니다.",
+    "romanization": "ajik jalhaji mothajiman maeil gongbuhago itseumnida. ir-e piryohan mareun aradeureul su itseumnida.",
+    "en": "I am not good yet, but I study every day. I can understand the words needed for work.",
+    "ur": "میں ابھی اچھی نہیں بولتا، مگر روزانہ پڑھتا ہوں۔ کام کے لیے ضروری باتیں سمجھ سکتا ہوں۔",
+    "hi": "मैं अभी अच्छी नहीं बोलता, पर रोज़ पढ़ता हूँ। काम के लिए ज़रूरी बातें समझ सकता हूँ।"
+   },
+   "tip_en": "Honesty plus effort is a strong answer. Do not claim fluency you cannot demonstrate.",
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

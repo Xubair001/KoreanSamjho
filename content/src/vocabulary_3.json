@@ -1,0 +1,1479 @@
+{
+ "content_version": 1,
+ "vocabulary": [
+  {
+   "id": "vocab.numbers.hana",
+   "korean": "하나",
+   "romanization": "hana",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "one (native Korean)",
+    "ur": "ایک (کوریائی گنتی)",
+    "hi": "एक (कोरियाई गिनती)"
+   },
+   "example": {
+    "korean": "사과 하나 주세요.",
+    "romanization": "sagwa hana juseyo.",
+    "en": "Please give me one apple.",
+    "ur": "ایک سیب دیجیے۔",
+    "hi": "एक सेब दीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.dul",
+   "korean": "둘",
+   "romanization": "dul",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "two (native Korean)",
+    "ur": "دو (کوریائی گنتی)",
+    "hi": "दो (कोरियाई गिनती)"
+   },
+   "example": {
+    "korean": "둘이 같이 갑니다.",
+    "romanization": "duri gachi gamnida.",
+    "en": "The two of us go together.",
+    "ur": "ہم دونوں ساتھ جاتے ہیں۔",
+    "hi": "हम दोनों साथ जाते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.set",
+   "korean": "셋",
+   "romanization": "set",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "three (native Korean)",
+    "ur": "تین (کوریائی گنتی)",
+    "hi": "तीन (कोरियाई गिनती)"
+   },
+   "example": {
+    "korean": "셋까지 세겠습니다.",
+    "romanization": "setkkaji segetseumnida.",
+    "en": "I will count to three.",
+    "ur": "میں تین تک گنوں گا۔",
+    "hi": "मैं तीन तक गिनूँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.net",
+   "korean": "넷",
+   "romanization": "net",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "four (native Korean)",
+    "ur": "چار (کوریائی گنتی)",
+    "hi": "चार (कोरियाई गिनती)"
+   },
+   "example": {
+    "korean": "의자가 넷 있습니다.",
+    "romanization": "uijaga net itseumnida.",
+    "en": "There are four chairs.",
+    "ur": "چار کرسیاں ہیں۔",
+    "hi": "चार कुर्सियाँ हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.daseot",
+   "korean": "다섯",
+   "romanization": "daseot",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "five (native Korean)",
+    "ur": "پانچ (کوریائی گنتی)",
+    "hi": "पाँच (कोरियाई गिनती)"
+   },
+   "example": {
+    "korean": "다섯 명이 일합니다.",
+    "romanization": "daseot myeong-i ilhamnida.",
+    "en": "Five people work.",
+    "ur": "پانچ لوگ کام کرتے ہیں۔",
+    "hi": "पाँच लोग काम करते हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.il",
+   "korean": "일",
+   "romanization": "il",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "one (Sino-Korean)",
+    "ur": "ایک (چینی نژاد گنتی)",
+    "hi": "एक (चीनी-मूल गिनती)"
+   },
+   "example": {
+    "korean": "일 번 기계입니다.",
+    "romanization": "il beon gigye-imnida.",
+    "en": "It is machine number one.",
+    "ur": "یہ نمبر ایک مشین ہے۔",
+    "hi": "यह नंबर एक मशीन है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.i",
+   "korean": "이",
+   "romanization": "i",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "two (Sino-Korean)",
+    "ur": "دو (چینی نژاد گنتی)",
+    "hi": "दो (चीनी-मूल गिनती)"
+   },
+   "example": {
+    "korean": "이 층으로 가세요.",
+    "romanization": "i cheung-euro gaseyo.",
+    "en": "Please go to the second floor.",
+    "ur": "دوسری منزل پر جائیں۔",
+    "hi": "दूसरी मंज़िल पर जाइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.sam",
+   "korean": "삼",
+   "romanization": "sam",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "three (Sino-Korean)",
+    "ur": "تین (چینی نژاد گنتی)",
+    "hi": "तीन (चीनी-मूल गिनती)"
+   },
+   "example": {
+    "korean": "삼 개월 후에 갑니다.",
+    "romanization": "sam gaewol hu-e gamnida.",
+    "en": "I go after three months.",
+    "ur": "میں تین ماہ بعد جاؤں گا۔",
+    "hi": "मैं तीन महीने बाद जाऊँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.sip",
+   "korean": "십",
+   "romanization": "sip",
+   "pos": "numeral",
+   "level": 1,
+   "category": "numbers",
+   "meaning": {
+    "en": "ten (Sino-Korean)",
+    "ur": "دس (چینی نژاد گنتی)",
+    "hi": "दस (चीनी-मूल गिनती)"
+   },
+   "example": {
+    "korean": "십 분만 기다리세요.",
+    "romanization": "sip bunman gidariseyo.",
+    "en": "Please wait just ten minutes.",
+    "ur": "صرف دس منٹ انتظار کریں۔",
+    "hi": "सिर्फ़ दस मिनट प्रतीक्षा कीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.baek",
+   "korean": "백",
+   "romanization": "baek",
+   "pos": "numeral",
+   "level": 2,
+   "category": "numbers",
+   "meaning": {
+    "en": "hundred",
+    "ur": "سو",
+    "hi": "सौ"
+   },
+   "example": {
+    "korean": "백 개가 필요합니다.",
+    "romanization": "baek gaega piryohamnida.",
+    "en": "I need one hundred pieces.",
+    "ur": "مجھے سو عدد چاہییں۔",
+    "hi": "मुझे सौ नग चाहिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.cheon",
+   "korean": "천",
+   "romanization": "cheon",
+   "pos": "numeral",
+   "level": 2,
+   "category": "numbers",
+   "meaning": {
+    "en": "thousand",
+    "ur": "ہزار",
+    "hi": "हज़ार"
+   },
+   "example": {
+    "korean": "천 원입니다.",
+    "romanization": "cheon won-imnida.",
+    "en": "It is one thousand won.",
+    "ur": "یہ ایک ہزار وون ہے۔",
+    "hi": "यह एक हज़ार वॉन है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.numbers.man",
+   "korean": "만",
+   "romanization": "man",
+   "pos": "numeral",
+   "level": 2,
+   "category": "numbers",
+   "meaning": {
+    "en": "ten thousand",
+    "ur": "دس ہزار",
+    "hi": "दस हज़ार"
+   },
+   "example": {
+    "korean": "만 원짜리 지폐입니다.",
+    "romanization": "man wonjjari jipye-imnida.",
+    "en": "It is a ten thousand won note.",
+    "ur": "یہ دس ہزار وون کا نوٹ ہے۔",
+    "hi": "यह दस हज़ार वॉन का नोट है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.bap",
+   "korean": "밥",
+   "romanization": "bap",
+   "pos": "noun",
+   "level": 1,
+   "category": "food",
+   "meaning": {
+    "en": "cooked rice; a meal",
+    "ur": "چاول؛ کھانا",
+    "hi": "चावल; भोजन"
+   },
+   "example": {
+    "korean": "밥을 먹었습니까?",
+    "romanization": "babeul meogeotseumnikka?",
+    "en": "Have you eaten?",
+    "ur": "کیا آپ نے کھانا کھایا؟",
+    "hi": "क्या आपने खाना खाया?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.mul",
+   "korean": "물",
+   "romanization": "mul",
+   "pos": "noun",
+   "level": 1,
+   "category": "food",
+   "meaning": {
+    "en": "water",
+    "ur": "پانی",
+    "hi": "पानी"
+   },
+   "example": {
+    "korean": "물 좀 주세요.",
+    "romanization": "mul jom juseyo.",
+    "en": "Please give me some water.",
+    "ur": "تھوڑا پانی دیجیے۔",
+    "hi": "थोड़ा पानी दीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.gogi",
+   "korean": "고기",
+   "romanization": "gogi",
+   "pos": "noun",
+   "level": 1,
+   "category": "food",
+   "meaning": {
+    "en": "meat",
+    "ur": "گوشت",
+    "hi": "माँस"
+   },
+   "example": {
+    "korean": "저는 고기를 안 먹습니다.",
+    "romanization": "jeoneun gogireul an meokseumnida.",
+    "en": "I do not eat meat.",
+    "ur": "میں گوشت نہیں کھاتا۔",
+    "hi": "मैं माँस नहीं खाता।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.dakgogi",
+   "korean": "닭고기",
+   "romanization": "dakgogi",
+   "pos": "noun",
+   "level": 2,
+   "category": "food",
+   "meaning": {
+    "en": "chicken (meat)",
+    "ur": "مرغی کا گوشت",
+    "hi": "चिकन"
+   },
+   "example": {
+    "korean": "닭고기를 좋아합니다.",
+    "romanization": "dakgogireul joahamnida.",
+    "en": "I like chicken.",
+    "ur": "مجھے مرغی کا گوشت پسند ہے۔",
+    "hi": "मुझे चिकन पसंद है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.chaeso",
+   "korean": "채소",
+   "romanization": "chaeso",
+   "pos": "noun",
+   "level": 2,
+   "category": "food",
+   "meaning": {
+    "en": "vegetables",
+    "ur": "سبزیاں",
+    "hi": "सब्ज़ियाँ"
+   },
+   "example": {
+    "korean": "채소를 많이 먹습니다.",
+    "romanization": "chaesoreul mani meokseumnida.",
+    "en": "I eat a lot of vegetables.",
+    "ur": "میں بہت سبزیاں کھاتا ہوں۔",
+    "hi": "मैं बहुत सब्ज़ियाँ खाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.maepda",
+   "korean": "맵다",
+   "romanization": "maepda",
+   "pos": "adjective",
+   "level": 2,
+   "category": "food",
+   "meaning": {
+    "en": "to be spicy",
+    "ur": "تیکھا ہونا",
+    "hi": "तीखा होना"
+   },
+   "example": {
+    "korean": "이 음식은 맵습니다.",
+    "romanization": "i eumsigeun maepseumnida.",
+    "en": "This food is spicy.",
+    "ur": "یہ کھانا تیکھا ہے۔",
+    "hi": "यह खाना तीखा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.eumsik",
+   "korean": "음식",
+   "romanization": "eumsik",
+   "pos": "noun",
+   "level": 1,
+   "category": "food",
+   "meaning": {
+    "en": "food",
+    "ur": "کھانا",
+    "hi": "खाना"
+   },
+   "example": {
+    "korean": "한국 음식이 맛있습니다.",
+    "romanization": "hanguk eumsigi masitseumnida.",
+    "en": "Korean food is delicious.",
+    "ur": "کوریائی کھانا مزیدار ہے۔",
+    "hi": "कोरियाई खाना स्वादिष्ट है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.food.sikdang",
+   "korean": "식당",
+   "romanization": "sikdang",
+   "pos": "noun",
+   "level": 1,
+   "category": "food",
+   "meaning": {
+    "en": "restaurant, cafeteria",
+    "ur": "ریستوران / کھانے کی جگہ",
+    "hi": "भोजनालय"
+   },
+   "example": {
+    "korean": "회사 식당에서 먹습니다.",
+    "romanization": "hoesa sikdang-eseo meokseumnida.",
+    "en": "I eat at the company cafeteria.",
+    "ur": "میں کمپنی کے کھانے کی جگہ پر کھاتا ہوں۔",
+    "hi": "मैं कंपनी के भोजनालय में खाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.beoseu",
+   "korean": "버스",
+   "romanization": "beoseu",
+   "pos": "noun",
+   "level": 1,
+   "category": "transport",
+   "meaning": {
+    "en": "bus",
+    "ur": "بس",
+    "hi": "बस"
+   },
+   "example": {
+    "korean": "버스를 탑니다.",
+    "romanization": "beoseureul tamnida.",
+    "en": "I take the bus.",
+    "ur": "میں بس لیتا ہوں۔",
+    "hi": "मैं बस लेता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.jihacheol",
+   "korean": "지하철",
+   "romanization": "jihacheol",
+   "pos": "noun",
+   "level": 1,
+   "category": "transport",
+   "meaning": {
+    "en": "subway",
+    "ur": "زیرِ زمین ٹرین / سب وے",
+    "hi": "मेट्रो / भूमिगत रेल"
+   },
+   "example": {
+    "korean": "지하철이 더 빠릅니다.",
+    "romanization": "jihacheori deo ppareumnida.",
+    "en": "The subway is faster.",
+    "ur": "سب وے زیادہ تیز ہے۔",
+    "hi": "मेट्रो ज़्यादा तेज़ है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.gicha",
+   "korean": "기차",
+   "romanization": "gicha",
+   "pos": "noun",
+   "level": 2,
+   "category": "transport",
+   "meaning": {
+    "en": "train",
+    "ur": "ٹرین",
+    "hi": "रेलगाड़ी"
+   },
+   "example": {
+    "korean": "기차로 서울에 갑니다.",
+    "romanization": "gicharo seour-e gamnida.",
+    "en": "I go to Seoul by train.",
+    "ur": "میں ٹرین سے سیئول جاتا ہوں۔",
+    "hi": "मैं ट्रेन से सियोल जाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.taeksi",
+   "korean": "택시",
+   "romanization": "taeksi",
+   "pos": "noun",
+   "level": 1,
+   "category": "transport",
+   "meaning": {
+    "en": "taxi",
+    "ur": "ٹیکسی",
+    "hi": "टैक्सी"
+   },
+   "example": {
+    "korean": "택시를 불러 주세요.",
+    "romanization": "taeksireul bulleo juseyo.",
+    "en": "Please call a taxi.",
+    "ur": "براہِ کرم ٹیکسی بلائیں۔",
+    "hi": "कृपया टैक्सी बुलाइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.yeok",
+   "korean": "역",
+   "romanization": "yeok",
+   "pos": "noun",
+   "level": 2,
+   "category": "transport",
+   "meaning": {
+    "en": "station",
+    "ur": "اسٹیشن",
+    "hi": "स्टेशन"
+   },
+   "example": {
+    "korean": "역까지 걸어갑니다.",
+    "romanization": "yeokkkaji georeogamnida.",
+    "en": "I walk to the station.",
+    "ur": "میں اسٹیشن تک پیدل جاتا ہوں۔",
+    "hi": "मैं स्टेशन तक पैदल जाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.tada",
+   "korean": "타다",
+   "romanization": "tada",
+   "pos": "verb",
+   "level": 1,
+   "category": "transport",
+   "meaning": {
+    "en": "to ride, to board",
+    "ur": "سوار ہونا",
+    "hi": "चढ़ना / सवार होना"
+   },
+   "example": {
+    "korean": "버스를 타고 갑니다.",
+    "romanization": "beoseureul tago gamnida.",
+    "en": "I go by bus.",
+    "ur": "میں بس پر سوار ہو کر جاتا ہوں۔",
+    "hi": "मैं बस से जाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.transport.naerida",
+   "korean": "내리다",
+   "romanization": "naerida",
+   "pos": "verb",
+   "level": 2,
+   "category": "transport",
+   "meaning": {
+    "en": "to get off",
+    "ur": "اترنا",
+    "hi": "उतरना"
+   },
+   "example": {
+    "korean": "다음 역에서 내립니다.",
+    "romanization": "daeum yeog-eseo naerimnida.",
+    "en": "I get off at the next station.",
+    "ur": "میں اگلے اسٹیشن پر اترتا ہوں۔",
+    "hi": "मैं अगले स्टेशन पर उतरता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.don",
+   "korean": "돈",
+   "romanization": "don",
+   "pos": "noun",
+   "level": 1,
+   "category": "money",
+   "meaning": {
+    "en": "money",
+    "ur": "پیسہ",
+    "hi": "पैसा"
+   },
+   "example": {
+    "korean": "돈을 보냈습니다.",
+    "romanization": "doneul bonaetseumnida.",
+    "en": "I sent money.",
+    "ur": "میں نے پیسے بھیجے۔",
+    "hi": "मैंने पैसे भेजे।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.won",
+   "korean": "원",
+   "romanization": "won",
+   "pos": "noun",
+   "level": 1,
+   "category": "money",
+   "meaning": {
+    "en": "won (Korean currency)",
+    "ur": "وون (کوریائی کرنسی)",
+    "hi": "वॉन (कोरियाई मुद्रा)"
+   },
+   "example": {
+    "korean": "오천 원입니다.",
+    "romanization": "ocheon won-imnida.",
+    "en": "It is five thousand won.",
+    "ur": "یہ پانچ ہزار وون ہے۔",
+    "hi": "यह पाँच हज़ार वॉन है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.eunhaeng",
+   "korean": "은행",
+   "romanization": "eunhaeng",
+   "pos": "noun",
+   "level": 2,
+   "category": "money",
+   "meaning": {
+    "en": "bank",
+    "ur": "بینک",
+    "hi": "बैंक"
+   },
+   "example": {
+    "korean": "은행에서 계좌를 만들었습니다.",
+    "romanization": "eunhaeng-eseo gyejwareul mandeureotseumnida.",
+    "en": "I opened an account at the bank.",
+    "ur": "میں نے بینک میں کھاتا کھلوایا۔",
+    "hi": "मैंने बैंक में खाता खुलवाया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.gyejwa",
+   "korean": "계좌",
+   "romanization": "gyejwa",
+   "pos": "noun",
+   "level": 3,
+   "category": "money",
+   "meaning": {
+    "en": "bank account",
+    "ur": "بینک کھاتا",
+    "hi": "बैंक खाता"
+   },
+   "example": {
+    "korean": "계좌 번호를 알려 주세요.",
+    "romanization": "gyejwa beonhoreul allyeo juseyo.",
+    "en": "Please tell me the account number.",
+    "ur": "براہِ کرم کھاتہ نمبر بتائیں۔",
+    "hi": "कृपया खाता संख्या बताइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.songgeum",
+   "korean": "송금",
+   "romanization": "songgeum",
+   "pos": "noun",
+   "level": 4,
+   "category": "money",
+   "meaning": {
+    "en": "remittance, money transfer",
+    "ur": "رقم بھیجنا",
+    "hi": "धन प्रेषण"
+   },
+   "example": {
+    "korean": "고향에 송금합니다.",
+    "romanization": "gohyang-e songgeumhamnida.",
+    "en": "I send money home.",
+    "ur": "میں گھر پیسے بھیجتا ہوں۔",
+    "hi": "मैं घर पैसे भेजता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.money.eolma",
+   "korean": "얼마",
+   "romanization": "eolma",
+   "pos": "noun",
+   "level": 1,
+   "category": "money",
+   "meaning": {
+    "en": "how much",
+    "ur": "کتنے کا",
+    "hi": "कितने का"
+   },
+   "example": {
+    "korean": "이거 얼마입니까?",
+    "romanization": "igeo eolma-imnikka?",
+    "en": "How much is this?",
+    "ur": "یہ کتنے کا ہے؟",
+    "hi": "यह कितने का है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.yeogwon",
+   "korean": "여권",
+   "romanization": "yeogwon",
+   "pos": "noun",
+   "level": 3,
+   "category": "immigration",
+   "meaning": {
+    "en": "passport",
+    "ur": "پاسپورٹ",
+    "hi": "पासपोर्ट"
+   },
+   "example": {
+    "korean": "여권을 보여 주세요.",
+    "romanization": "yeogwoneul boyeo juseyo.",
+    "en": "Please show your passport.",
+    "ur": "براہِ کرم اپنا پاسپورٹ دکھائیں۔",
+    "hi": "कृपया अपना पासपोर्ट दिखाइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.bija",
+   "korean": "비자",
+   "romanization": "bija",
+   "pos": "noun",
+   "level": 3,
+   "category": "immigration",
+   "meaning": {
+    "en": "visa",
+    "ur": "ویزا",
+    "hi": "वीज़ा"
+   },
+   "example": {
+    "korean": "비자를 신청했습니다.",
+    "romanization": "bijareul sincheonghaetseumnida.",
+    "en": "I applied for a visa.",
+    "ur": "میں نے ویزے کی درخواست دی۔",
+    "hi": "मैंने वीज़े के लिए आवेदन किया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.oegugin_deungnokjeung",
+   "korean": "외국인등록증",
+   "romanization": "oegugin deungnokjeung",
+   "pos": "noun",
+   "level": 4,
+   "category": "immigration",
+   "meaning": {
+    "en": "alien registration card",
+    "ur": "غیر ملکی رجسٹریشن کارڈ",
+    "hi": "विदेशी पंजीकरण कार्ड"
+   },
+   "example": {
+    "korean": "외국인등록증을 가지고 다닙니다.",
+    "romanization": "oegugin deungnokjeung-eul gajigo danimnida.",
+    "en": "I carry my alien registration card.",
+    "ur": "میں غیر ملکی رجسٹریشن کارڈ ساتھ رکھتا ہوں۔",
+    "hi": "मैं विदेशी पंजीकरण कार्ड साथ रखता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.churipguk",
+   "korean": "출입국",
+   "romanization": "churipguk",
+   "pos": "noun",
+   "level": 4,
+   "category": "immigration",
+   "meaning": {
+    "en": "immigration (entry and exit)",
+    "ur": "امیگریشن",
+    "hi": "आव्रजन"
+   },
+   "example": {
+    "korean": "출입국 사무소에 갔습니다.",
+    "romanization": "churipguk samuso-e gatseumnida.",
+    "en": "I went to the immigration office.",
+    "ur": "میں امیگریشن دفتر گیا۔",
+    "hi": "मैं आव्रजन कार्यालय गया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.seoryu",
+   "korean": "서류",
+   "romanization": "seoryu",
+   "pos": "noun",
+   "level": 3,
+   "category": "immigration",
+   "meaning": {
+    "en": "document, paperwork",
+    "ur": "کاغذات / دستاویزات",
+    "hi": "दस्तावेज़"
+   },
+   "example": {
+    "korean": "서류를 준비했습니다.",
+    "romanization": "seoryureul junbihaetseumnida.",
+    "en": "I prepared the documents.",
+    "ur": "میں نے کاغذات تیار کیے۔",
+    "hi": "मैंने दस्तावेज़ तैयार किए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.immigration.sincheong",
+   "korean": "신청",
+   "romanization": "sincheong",
+   "pos": "noun",
+   "level": 3,
+   "category": "immigration",
+   "meaning": {
+    "en": "application",
+    "ur": "درخواست",
+    "hi": "आवेदन"
+   },
+   "example": {
+    "korean": "연장 신청을 하겠습니다.",
+    "romanization": "yeonjang sincheong-eul hagetseumnida.",
+    "en": "I will apply for an extension.",
+    "ur": "میں توسیع کی درخواست دوں گا۔",
+    "hi": "मैं विस्तार के लिए आवेदन करूँगा।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.meori",
+   "korean": "머리",
+   "romanization": "meori",
+   "pos": "noun",
+   "level": 1,
+   "category": "body",
+   "meaning": {
+    "en": "head",
+    "ur": "سر",
+    "hi": "सिर"
+   },
+   "example": {
+    "korean": "머리가 아픕니다.",
+    "romanization": "meoriga apeumnida.",
+    "en": "My head hurts.",
+    "ur": "میرا سر درد کر رہا ہے۔",
+    "hi": "मेरा सिर दर्द कर रहा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.son",
+   "korean": "손",
+   "romanization": "son",
+   "pos": "noun",
+   "level": 1,
+   "category": "body",
+   "meaning": {
+    "en": "hand",
+    "ur": "ہاتھ",
+    "hi": "हाथ"
+   },
+   "example": {
+    "korean": "손을 씻으세요.",
+    "romanization": "soneul ssiseuseyo.",
+    "en": "Please wash your hands.",
+    "ur": "اپنے ہاتھ دھو لیں۔",
+    "hi": "अपने हाथ धो लीजिए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.bal",
+   "korean": "발",
+   "romanization": "bal",
+   "pos": "noun",
+   "level": 1,
+   "category": "body",
+   "meaning": {
+    "en": "foot",
+    "ur": "پاؤں",
+    "hi": "पैर"
+   },
+   "example": {
+    "korean": "발이 아픕니다.",
+    "romanization": "bari apeumnida.",
+    "en": "My foot hurts.",
+    "ur": "میرا پاؤں درد کر رہا ہے۔",
+    "hi": "मेरा पैर दर्द कर रहा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.heori",
+   "korean": "허리",
+   "romanization": "heori",
+   "pos": "noun",
+   "level": 2,
+   "category": "body",
+   "meaning": {
+    "en": "waist, lower back",
+    "ur": "کمر",
+    "hi": "कमर"
+   },
+   "example": {
+    "korean": "허리를 다쳤습니다.",
+    "romanization": "heorireul dachyeotseumnida.",
+    "en": "I hurt my back.",
+    "ur": "میری کمر پر چوٹ لگی ہے۔",
+    "hi": "मेरी कमर में चोट लगी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.nun",
+   "korean": "눈",
+   "romanization": "nun",
+   "pos": "noun",
+   "level": 1,
+   "category": "body",
+   "meaning": {
+    "en": "eye",
+    "ur": "آنکھ",
+    "hi": "आँख"
+   },
+   "example": {
+    "korean": "눈에 뭐가 들어갔습니다.",
+    "romanization": "nun-e mwoga deureogatseumnida.",
+    "en": "Something got into my eye.",
+    "ur": "میری آنکھ میں کچھ چلا گیا ہے۔",
+    "hi": "मेरी आँख में कुछ चला गया है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.body.pal",
+   "korean": "팔",
+   "romanization": "pal",
+   "pos": "noun",
+   "level": 1,
+   "category": "body",
+   "meaning": {
+    "en": "arm",
+    "ur": "بازو",
+    "hi": "बाँह"
+   },
+   "example": {
+    "korean": "팔을 다쳤습니다.",
+    "romanization": "pareul dachyeotseumnida.",
+    "en": "I hurt my arm.",
+    "ur": "میرے بازو پر چوٹ لگی ہے۔",
+    "hi": "मेरी बाँह में चोट लगी है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.jip",
+   "korean": "집",
+   "romanization": "jip",
+   "pos": "noun",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "house, home",
+    "ur": "گھر",
+    "hi": "घर"
+   },
+   "example": {
+    "korean": "집에 갑니다.",
+    "romanization": "jib-e gamnida.",
+    "en": "I go home.",
+    "ur": "میں گھر جاتا ہوں۔",
+    "hi": "मैं घर जाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.gada",
+   "korean": "가다",
+   "romanization": "gada",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to go",
+    "ur": "جانا",
+    "hi": "जाना"
+   },
+   "example": {
+    "korean": "학교에 갑니다.",
+    "romanization": "hakgyo-e gamnida.",
+    "en": "I go to school.",
+    "ur": "میں اسکول جاتا ہوں۔",
+    "hi": "मैं स्कूल जाता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.oda",
+   "korean": "오다",
+   "romanization": "oda",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to come",
+    "ur": "آنا",
+    "hi": "आना"
+   },
+   "example": {
+    "korean": "친구가 왔습니다.",
+    "romanization": "chinguga watseumnida.",
+    "en": "My friend came.",
+    "ur": "میرا دوست آیا۔",
+    "hi": "मेरा दोस्त आया।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.meokda",
+   "korean": "먹다",
+   "romanization": "meokda",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to eat",
+    "ur": "کھانا",
+    "hi": "खाना"
+   },
+   "example": {
+    "korean": "점심을 먹습니다.",
+    "romanization": "jeomsimeul meokseumnida.",
+    "en": "I eat lunch.",
+    "ur": "میں دوپہر کا کھانا کھاتا ہوں۔",
+    "hi": "मैं दोपहर का भोजन करता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.masida",
+   "korean": "마시다",
+   "romanization": "masida",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to drink",
+    "ur": "پینا",
+    "hi": "पीना"
+   },
+   "example": {
+    "korean": "물을 마십니다.",
+    "romanization": "mureul masimnida.",
+    "en": "I drink water.",
+    "ur": "میں پانی پیتا ہوں۔",
+    "hi": "मैं पानी पीता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.boda",
+   "korean": "보다",
+   "romanization": "boda",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to see, to watch",
+    "ur": "دیکھنا",
+    "hi": "देखना"
+   },
+   "example": {
+    "korean": "텔레비전을 봅니다.",
+    "romanization": "tellebijeoneul bomnida.",
+    "en": "I watch television.",
+    "ur": "میں ٹیلی ویژن دیکھتا ہوں۔",
+    "hi": "मैं टेलीविज़न देखता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.jada",
+   "korean": "자다",
+   "romanization": "jada",
+   "pos": "verb",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to sleep",
+    "ur": "سونا",
+    "hi": "सोना"
+   },
+   "example": {
+    "korean": "열한 시에 잡니다.",
+    "romanization": "yeolhan si-e jamnida.",
+    "en": "I sleep at eleven o'clock.",
+    "ur": "میں گیارہ بجے سوتا ہوں۔",
+    "hi": "मैं ग्यारह बजे सोता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.chingu",
+   "korean": "친구",
+   "romanization": "chingu",
+   "pos": "noun",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "friend",
+    "ur": "دوست",
+    "hi": "दोस्त"
+   },
+   "example": {
+    "korean": "친구를 만납니다.",
+    "romanization": "chingureul mannamnida.",
+    "en": "I meet my friend.",
+    "ur": "میں اپنے دوست سے ملتا ہوں۔",
+    "hi": "मैं अपने दोस्त से मिलता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.jota",
+   "korean": "좋다",
+   "romanization": "jota",
+   "pos": "adjective",
+   "level": 1,
+   "category": "daily",
+   "meaning": {
+    "en": "to be good",
+    "ur": "اچھا ہونا",
+    "hi": "अच्छा होना"
+   },
+   "example": {
+    "korean": "날씨가 좋습니다.",
+    "romanization": "nalssiga joseumnida.",
+    "en": "The weather is good.",
+    "ur": "موسم اچھا ہے۔",
+    "hi": "मौसम अच्छा है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.daily.manta",
+   "korean": "많다",
+   "romanization": "manta",
+   "pos": "adjective",
+   "level": 2,
+   "category": "daily",
+   "meaning": {
+    "en": "to be many, a lot",
+    "ur": "زیادہ ہونا",
+    "hi": "अधिक होना"
+   },
+   "example": {
+    "korean": "일이 많습니다.",
+    "romanization": "iri manseumnida.",
+    "en": "There is a lot of work.",
+    "ur": "کام بہت ہے۔",
+    "hi": "काम बहुत है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.eodi",
+   "korean": "어디",
+   "romanization": "eodi",
+   "pos": "noun",
+   "level": 1,
+   "category": "places",
+   "meaning": {
+    "en": "where",
+    "ur": "کہاں",
+    "hi": "कहाँ"
+   },
+   "example": {
+    "korean": "화장실이 어디입니까?",
+    "romanization": "hwajangsiri eodi-imnikka?",
+    "en": "Where is the toilet?",
+    "ur": "بیت الخلا کہاں ہے؟",
+    "hi": "शौचालय कहाँ है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.hwajangsil",
+   "korean": "화장실",
+   "romanization": "hwajangsil",
+   "pos": "noun",
+   "level": 1,
+   "category": "places",
+   "meaning": {
+    "en": "toilet, restroom",
+    "ur": "بیت الخلا",
+    "hi": "शौचालय"
+   },
+   "example": {
+    "korean": "화장실은 이 층에 있습니다.",
+    "romanization": "hwajangsireun i cheung-e itseumnida.",
+    "en": "The toilet is on the second floor.",
+    "ur": "بیت الخلا دوسری منزل پر ہے۔",
+    "hi": "शौचालय दूसरी मंज़िल पर है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.gisuksa",
+   "korean": "기숙사",
+   "romanization": "gisuksa",
+   "pos": "noun",
+   "level": 3,
+   "category": "places",
+   "meaning": {
+    "en": "dormitory",
+    "ur": "ہاسٹل / رہائش گاہ",
+    "hi": "छात्रावास / निवास"
+   },
+   "example": {
+    "korean": "회사 기숙사에서 삽니다.",
+    "romanization": "hoesa gisuksa-eseo samnida.",
+    "en": "I live in the company dormitory.",
+    "ur": "میں کمپنی کی رہائش گاہ میں رہتا ہوں۔",
+    "hi": "मैं कंपनी के निवास में रहता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.sijang",
+   "korean": "시장",
+   "romanization": "sijang",
+   "pos": "noun",
+   "level": 2,
+   "category": "places",
+   "meaning": {
+    "en": "market",
+    "ur": "بازار",
+    "hi": "बाज़ार"
+   },
+   "example": {
+    "korean": "시장에서 채소를 삽니다.",
+    "romanization": "sijang-eseo chaesoreul samnida.",
+    "en": "I buy vegetables at the market.",
+    "ur": "میں بازار سے سبزی خریدتا ہوں۔",
+    "hi": "मैं बाज़ार से सब्ज़ी खरीदता हूँ।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.gage",
+   "korean": "가게",
+   "romanization": "gage",
+   "pos": "noun",
+   "level": 2,
+   "category": "places",
+   "meaning": {
+    "en": "shop, store",
+    "ur": "دکان",
+    "hi": "दुकान"
+   },
+   "example": {
+    "korean": "가게가 문을 닫았습니다.",
+    "romanization": "gagega muneul dadatseumnida.",
+    "en": "The shop has closed.",
+    "ur": "دکان بند ہو گئی ہے۔",
+    "hi": "दुकान बंद हो गई है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.oenjjok",
+   "korean": "왼쪽",
+   "romanization": "oenjjok",
+   "pos": "noun",
+   "level": 2,
+   "category": "places",
+   "meaning": {
+    "en": "left side",
+    "ur": "بائیں طرف",
+    "hi": "बाईं ओर"
+   },
+   "example": {
+    "korean": "왼쪽으로 가세요.",
+    "romanization": "oenjjogeuro gaseyo.",
+    "en": "Please go to the left.",
+    "ur": "بائیں طرف جائیں۔",
+    "hi": "बाईं ओर जाइए।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.places.oreunjjok",
+   "korean": "오른쪽",
+   "romanization": "oreunjjok",
+   "pos": "noun",
+   "level": 2,
+   "category": "places",
+   "meaning": {
+    "en": "right side",
+    "ur": "دائیں طرف",
+    "hi": "दाईं ओर"
+   },
+   "example": {
+    "korean": "오른쪽에 있습니다.",
+    "romanization": "oreunjjog-e itseumnida.",
+    "en": "It is on the right.",
+    "ur": "یہ دائیں طرف ہے۔",
+    "hi": "यह दाईं ओर है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.weather.nalssi",
+   "korean": "날씨",
+   "romanization": "nalssi",
+   "pos": "noun",
+   "level": 1,
+   "category": "weather",
+   "meaning": {
+    "en": "weather",
+    "ur": "موسم",
+    "hi": "मौसम"
+   },
+   "example": {
+    "korean": "오늘 날씨가 어떻습니까?",
+    "romanization": "oneul nalssiga eotteoseumnikka?",
+    "en": "How is the weather today?",
+    "ur": "آج موسم کیسا ہے؟",
+    "hi": "आज मौसम कैसा है?"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.weather.deopda",
+   "korean": "덥다",
+   "romanization": "deopda",
+   "pos": "adjective",
+   "level": 1,
+   "category": "weather",
+   "meaning": {
+    "en": "to be hot",
+    "ur": "گرم ہونا",
+    "hi": "गर्म होना"
+   },
+   "example": {
+    "korean": "여름에는 아주 덥습니다.",
+    "romanization": "yeoreumeneun aju deopseumnida.",
+    "en": "It is very hot in summer.",
+    "ur": "گرمیوں میں بہت گرمی ہوتی ہے۔",
+    "hi": "गर्मियों में बहुत गर्मी होती है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.weather.chupda",
+   "korean": "춥다",
+   "romanization": "chupda",
+   "pos": "adjective",
+   "level": 1,
+   "category": "weather",
+   "meaning": {
+    "en": "to be cold",
+    "ur": "سرد ہونا",
+    "hi": "ठंडा होना"
+   },
+   "example": {
+    "korean": "한국 겨울은 춥습니다.",
+    "romanization": "hanguk gyeoureun chupseumnida.",
+    "en": "Korean winters are cold.",
+    "ur": "کوریا کی سردیاں سرد ہوتی ہیں۔",
+    "hi": "कोरिया की सर्दियाँ ठंडी होती हैं।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.weather.bi",
+   "korean": "비",
+   "romanization": "bi",
+   "pos": "noun",
+   "level": 1,
+   "category": "weather",
+   "meaning": {
+    "en": "rain",
+    "ur": "بارش",
+    "hi": "बारिश"
+   },
+   "example": {
+    "korean": "비가 옵니다.",
+    "romanization": "biga omnida.",
+    "en": "It is raining.",
+    "ur": "بارش ہو رہی ہے۔",
+    "hi": "बारिश हो रही है।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "vocab.weather.nun",
+   "korean": "눈",
+   "romanization": "nun",
+   "pos": "noun",
+   "level": 1,
+   "category": "weather",
+   "meaning": {
+    "en": "snow",
+    "ur": "برف",
+    "hi": "बर्फ़"
+   },
+   "example": {
+    "korean": "눈이 많이 왔습니다.",
+    "romanization": "nuni mani watseumnida.",
+    "en": "It snowed a lot.",
+    "ur": "بہت برف پڑی۔",
+    "hi": "बहुत बर्फ़ पड़ी।"
+   },
+   "source_ref": "src.krdict",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}

@@ -1,0 +1,893 @@
+{
+ "content_version": 1,
+ "grammar": [
+  {
+   "id": "grammar.be_formal",
+   "order": 1,
+   "pattern": "입니다 / 입니까?",
+   "title_en": "'to be' — formal polite",
+   "level": 1,
+   "formality": "formal",
+   "structure": "Noun + 입니다 (statement) · Noun + 입니까? (question)",
+   "explanation": {
+    "en": "The formal polite form of 'to be'. Attach 입니다 directly to a noun for a statement, 입니까? for a question. This is the register used in workplaces, interviews and announcements — it is the safest form for a new worker in Korea.",
+    "ur": "‘ہونا’ کی رسمی بااحترام شکل۔ اسم کے ساتھ براہِ راست 입니다 لگائیں، سوال کے لیے 입니까؟۔ یہ وہ لہجہ ہے جو دفتر، انٹرویو اور اعلانات میں استعمال ہوتا ہے — کوریا میں نئے کارکن کے لیے سب سے محفوظ شکل یہی ہے۔",
+    "hi": "‘होना’ का औपचारिक आदरसूचक रूप। संज्ञा के साथ सीधे 입니다 लगाएँ, प्रश्न के लिए 입니까?। यही वह शैली है जो कार्यस्थल, साक्षात्कार और घोषणाओं में प्रयोग होती है — कोरिया में नए कर्मचारी के लिए सबसे सुरक्षित रूप यही है।"
+   },
+   "examples": [
+    {
+     "korean": "저는 학생입니다.",
+     "romanization": "jeoneun haksaeng-imnida.",
+     "en": "I am a student.",
+     "ur": "میں طالب علم ہوں۔",
+     "hi": "मैं छात्र हूँ।"
+    },
+    {
+     "korean": "이것은 무엇입니까?",
+     "romanization": "igeoseun mueos-imnikka?",
+     "en": "What is this?",
+     "ur": "یہ کیا ہے؟",
+     "hi": "यह क्या है?"
+    }
+   ],
+   "common_mistake": {
+    "en": "Do not add 이에요/예요 as well. 학생입니다 is correct; 학생이에요입니다 is not a word.",
+    "ur": "이에요/예요 ساتھ نہ لگائیں۔ 학생입니다 درست ہے؛ 학생이에요입니다 کوئی لفظ نہیں۔",
+    "hi": "이에요/예요 साथ में न लगाएँ। 학생입니다 सही है; 학생이에요입니다 कोई शब्द नहीं है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.be_polite",
+   "order": 2,
+   "pattern": "이에요 / 예요",
+   "title_en": "'to be' — everyday polite",
+   "level": 1,
+   "formality": "polite",
+   "structure": "Noun ending in consonant + 이에요 · Noun ending in vowel + 예요",
+   "explanation": {
+    "en": "The everyday polite form of 'to be'. Use 이에요 after a consonant and 예요 after a vowel. Softer and friendlier than 입니다 — used with colleagues and in shops, but not in a formal interview.",
+    "ur": "‘ہونا’ کی روزمرہ بااحترام شکل۔ حرفِ صحیح کے بعد 이에요 اور حرفِ علت کے بعد 예요۔ 입니다 سے زیادہ نرم اور دوستانہ — ساتھی کارکنوں اور دکانوں میں، مگر رسمی انٹرویو میں نہیں۔",
+    "hi": "‘होना’ का रोज़मर्रा आदरसूचक रूप। व्यंजन के बाद 이에요 और स्वर के बाद 예요। 입니다 से नरम और मित्रवत — सहकर्मियों और दुकानों में, पर औपचारिक साक्षात्कार में नहीं।"
+   },
+   "examples": [
+    {
+     "korean": "저는 빌랄이에요.",
+     "romanization": "jeoneun billar-ieyo.",
+     "en": "I am Bilal.",
+     "ur": "میں بلال ہوں۔",
+     "hi": "मैं बिलाल हूँ।"
+    },
+    {
+     "korean": "이건 제 가방이에요.",
+     "romanization": "igeon je gabang-ieyo.",
+     "en": "This is my bag.",
+     "ur": "یہ میرا بیگ ہے۔",
+     "hi": "यह मेरा बैग है।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Choosing 예요 after a consonant is the most common error. 학생 ends in ㅇ, so it is 학생이에요, never 학생예요.",
+    "ur": "سب سے عام غلطی حرفِ صحیح کے بعد 예요 لگانا ہے۔ 학생 کے آخر میں ㅇ ہے، اس لیے 학생이에요 درست ہے، 학생예요 نہیں۔",
+    "hi": "सबसे आम गलती व्यंजन के बाद 예요 लगाना है। 학생 के अंत में ㅇ है, इसलिए 학생이에요 सही है, 학생예요 नहीं।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.topic",
+   "order": 3,
+   "pattern": "은 / 는",
+   "title_en": "topic particle",
+   "level": 1,
+   "formality": "neutral",
+   "structure": "Noun ending in consonant + 은 · Noun ending in vowel + 는",
+   "explanation": {
+    "en": "Marks the topic — what the sentence is about — and often adds a sense of contrast. Use 은 after a consonant, 는 after a vowel.",
+    "ur": "جملے کا موضوع ظاہر کرتا ہے — بات کس بارے میں ہے — اور اکثر تقابل کا مفہوم دیتا ہے۔ حرفِ صحیح کے بعد 은، حرفِ علت کے بعد 는۔",
+    "hi": "वाक्य का विषय दर्शाता है — बात किस बारे में है — और अक्सर तुलना का भाव देता है। व्यंजन के बाद 은, स्वर के बाद 는।"
+   },
+   "examples": [
+    {
+     "korean": "저는 파키스탄 사람입니다.",
+     "romanization": "jeoneun pakiseutan saram-imnida.",
+     "en": "I am Pakistani.",
+     "ur": "میں پاکستانی ہوں۔",
+     "hi": "मैं पाकिस्तानी हूँ।"
+    },
+    {
+     "korean": "오늘은 일이 많습니다.",
+     "romanization": "oneureun iri manseumnida.",
+     "en": "Today there is a lot of work.",
+     "ur": "آج کام بہت ہے۔",
+     "hi": "आज काम बहुत है।"
+    }
+   ],
+   "common_mistake": {
+    "en": "은/는 and 이/가 are not interchangeable. 은/는 introduces or contrasts a topic; 이/가 points out the specific subject doing something.",
+    "ur": "은/는 اور 이/가 ایک دوسرے کی جگہ استعمال نہیں ہوتے۔ 은/는 موضوع متعارف کراتا یا اس کا تقابل کرتا ہے؛ 이/가 اس مخصوص فاعل کی نشاندہی کرتا ہے جو کام کر رہا ہے۔",
+    "hi": "은/는 और 이/가 एक-दूसरे की जगह प्रयोग नहीं होते। 은/는 विषय का परिचय या तुलना करता है; 이/가 उस विशिष्ट कर्ता को इंगित करता है जो काम कर रहा है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.subject",
+   "order": 4,
+   "pattern": "이 / 가",
+   "title_en": "subject particle",
+   "level": 1,
+   "formality": "neutral",
+   "structure": "Noun ending in consonant + 이 · Noun ending in vowel + 가",
+   "explanation": {
+    "en": "Marks the grammatical subject — who or what performs the action or has the quality. Use 이 after a consonant, 가 after a vowel.",
+    "ur": "گرامری فاعل ظاہر کرتا ہے — کون یا کیا کام کر رہا ہے یا کوئی صفت رکھتا ہے۔ حرفِ صحیح کے بعد 이، حرفِ علت کے بعد 가۔",
+    "hi": "व्याकरणिक कर्ता दर्शाता है — कौन या क्या काम कर रहा है या कोई गुण रखता है। व्यंजन के बाद 이, स्वर के बाद 가।"
+   },
+   "examples": [
+    {
+     "korean": "기계가 고장 났습니다.",
+     "romanization": "gigyega gojang natseumnida.",
+     "en": "The machine has broken down.",
+     "ur": "مشین خراب ہو گئی ہے۔",
+     "hi": "मशीन खराब हो गई है।"
+    },
+    {
+     "korean": "시간이 없습니다.",
+     "romanization": "sigani eopseumnida.",
+     "en": "There is no time.",
+     "ur": "وقت نہیں ہے۔",
+     "hi": "समय नहीं है।"
+    }
+   ],
+   "common_mistake": {
+    "en": "With 있다/없다 and with descriptive adjectives, Korean strongly prefers 이/가, not 을/를.",
+    "ur": "있다/없다 اور صفات کے ساتھ کوریائی زبان 을/를 نہیں بلکہ 이/가 کو ترجیح دیتی ہے۔",
+    "hi": "있다/없다 और विशेषणों के साथ कोरियाई भाषा 을/를 नहीं बल्कि 이/가 पसंद करती है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.object",
+   "order": 5,
+   "pattern": "을 / 를",
+   "title_en": "object particle",
+   "level": 1,
+   "formality": "neutral",
+   "structure": "Noun ending in consonant + 을 · Noun ending in vowel + 를",
+   "explanation": {
+    "en": "Marks the object that the verb acts upon. Use 을 after a consonant, 를 after a vowel.",
+    "ur": "اس مفعول کی نشاندہی کرتا ہے جس پر فعل اثر ڈالتا ہے۔ حرفِ صحیح کے بعد 을، حرفِ علت کے بعد 를۔",
+    "hi": "उस कर्म को दर्शाता है जिस पर क्रिया प्रभाव डालती है। व्यंजन के बाद 을, स्वर के बाद 를।"
+   },
+   "examples": [
+    {
+     "korean": "밥을 먹습니다.",
+     "romanization": "babeul meokseumnida.",
+     "en": "I eat rice.",
+     "ur": "میں کھانا کھاتا ہوں۔",
+     "hi": "मैं भोजन करता हूँ।"
+    },
+    {
+     "korean": "한국어를 배웁니다.",
+     "romanization": "hangugeoreul baeumnida.",
+     "en": "I learn Korean.",
+     "ur": "میں کوریائی سیکھتا ہوں۔",
+     "hi": "मैं कोरियाई सीखता हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "In casual speech the object particle is often dropped, but keep it in writing and in exams.",
+    "ur": "بول چال میں یہ اکثر گرا دیا جاتا ہے، مگر تحریر اور امتحان میں اسے برقرار رکھیں۔",
+    "hi": "बोलचाल में यह अक्सर छोड़ दिया जाता है, पर लेखन और परीक्षा में इसे बनाए रखें।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.loc_e",
+   "order": 6,
+   "pattern": "에",
+   "title_en": "at / to (place, time)",
+   "level": 1,
+   "formality": "neutral",
+   "structure": "Place or time noun + 에",
+   "explanation": {
+    "en": "Marks a destination, a static location (with 있다/없다), or a point in time. It does not mark where an action is performed — that is 에서.",
+    "ur": "منزل، جامد مقام (있다/없다 کے ساتھ) یا وقت کا نقطہ ظاہر کرتا ہے۔ یہ اس جگہ کو ظاہر نہیں کرتا جہاں کام کیا جا رہا ہو — اس کے لیے 에서 ہے۔",
+    "hi": "गंतव्य, स्थिर स्थान (있다/없다 के साथ) या समय बिंदु दर्शाता है। यह वह स्थान नहीं दर्शाता जहाँ क्रिया की जा रही हो — उसके लिए 에서 है।"
+   },
+   "examples": [
+    {
+     "korean": "회사에 갑니다.",
+     "romanization": "hoesa-e gamnida.",
+     "en": "I go to the company.",
+     "ur": "میں کمپنی جاتا ہوں۔",
+     "hi": "मैं कंपनी जाता हूँ।"
+    },
+    {
+     "korean": "여덟 시에 출근합니다.",
+     "romanization": "yeodeol si-e chulgeunhamnida.",
+     "en": "I go to work at eight.",
+     "ur": "میں آٹھ بجے کام پر جاتا ہوں۔",
+     "hi": "मैं आठ बजे काम पर जाता हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "지금, 오늘, 내일, 어제 never take 에. Say 오늘 갑니다, not 오늘에 갑니다.",
+    "ur": "지금، 오늘، 내일، 어제 کے ساتھ 에 کبھی نہیں لگتا۔ 오늘 갑니다 کہیں، 오늘에 갑니다 نہیں۔",
+    "hi": "지금, 오늘, 내일, 어제 के साथ 에 कभी नहीं लगता। 오늘 갑니다 कहें, 오늘에 갑니다 नहीं।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.loc_eseo",
+   "order": 7,
+   "pattern": "에서",
+   "title_en": "at / from (action location)",
+   "level": 1,
+   "formality": "neutral",
+   "structure": "Place noun + 에서",
+   "explanation": {
+    "en": "Marks where an action takes place, or a starting point ('from'). Contrast with 에, which marks a destination or static location.",
+    "ur": "ظاہر کرتا ہے کہ کام کہاں ہو رہا ہے، یا نقطۂ آغاز (‘سے’)۔ 에 کے برعکس، جو منزل یا جامد مقام ظاہر کرتا ہے۔",
+    "hi": "दर्शाता है कि क्रिया कहाँ हो रही है, या आरंभ बिंदु (‘से’)। 에 के विपरीत, जो गंतव्य या स्थिर स्थान दर्शाता है।"
+   },
+   "examples": [
+    {
+     "korean": "공장에서 일합니다.",
+     "romanization": "gongjang-eseo ilhamnida.",
+     "en": "I work at the factory.",
+     "ur": "میں فیکٹری میں کام کرتا ہوں۔",
+     "hi": "मैं फ़ैक्ट्री में काम करता हूँ।"
+    },
+    {
+     "korean": "파키스탄에서 왔습니다.",
+     "romanization": "pakiseutan-eseo watseumnida.",
+     "en": "I came from Pakistan.",
+     "ur": "میں پاکستان سے آیا ہوں۔",
+     "hi": "मैं पाकिस्तान से आया हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "'I am at the factory' uses 에 (공장에 있습니다) because 있다 is static; 'I work at the factory' uses 에서 because working is an action.",
+    "ur": "‘میں فیکٹری میں ہوں’ کے لیے 에 (공장에 있습니다) کیونکہ 있다 جامد ہے؛ ‘میں فیکٹری میں کام کرتا ہوں’ کے لیے 에서 کیونکہ کام کرنا ایک فعل ہے۔",
+    "hi": "‘मैं फ़ैक्ट्री में हूँ’ के लिए 에 (공장에 있습니다) क्योंकि 있다 स्थिर है; ‘मैं फ़ैक्ट्री में काम करता हूँ’ के लिए 에서 क्योंकि काम करना क्रिया है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.formal_present",
+   "order": 8,
+   "pattern": "ㅂ니다 / 습니다",
+   "title_en": "formal polite present",
+   "level": 1,
+   "formality": "formal",
+   "structure": "Verb stem ending in vowel + ㅂ니다 · stem ending in consonant + 습니다",
+   "explanation": {
+    "en": "The formal polite sentence ending. Remove 다 from the dictionary form to get the stem: 가다 → 가 → 갑니다; 먹다 → 먹 → 먹습니다. Questions use 습니까?/ㅂ니까?.",
+    "ur": "رسمی بااحترام اختتام۔ لغوی شکل سے 다 ہٹا کر جڑ نکالیں: 가다 ← 가 ← 갑니다؛ 먹다 ← 먹 ← 먹습니다۔ سوال کے لیے 습니까؟/ㅂ니까؟۔",
+    "hi": "औपचारिक आदरसूचक अंत। शब्दकोश रूप से 다 हटाकर धातु बनाएँ: 가다 → 가 → 갑니다; 먹다 → 먹 → 먹습니다। प्रश्न के लिए 습니까?/ㅂ니까?।"
+   },
+   "examples": [
+    {
+     "korean": "저는 매일 일합니다.",
+     "romanization": "jeoneun maeil ilhamnida.",
+     "en": "I work every day.",
+     "ur": "میں روزانہ کام کرتا ہوں۔",
+     "hi": "मैं रोज़ काम करता हूँ।"
+    },
+    {
+     "korean": "어디에 삽니까?",
+     "romanization": "eodie samnikka?",
+     "en": "Where do you live?",
+     "ur": "آپ کہاں رہتے ہیں؟",
+     "hi": "आप कहाँ रहते हैं?"
+    }
+   ],
+   "common_mistake": {
+    "en": "For stems ending in ㄹ, the ㄹ drops: 살다 → 삽니다, not 살습니다.",
+    "ur": "ㄹ پر ختم ہونے والی جڑوں میں ㄹ گر جاتا ہے: 살다 ← 삽니다، نہ کہ 살습니다۔",
+    "hi": "ㄹ पर समाप्त होने वाली धातुओं में ㄹ गिर जाता है: 살다 → 삽니다, न कि 살습니다।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.polite_present",
+   "order": 9,
+   "pattern": "아요 / 어요",
+   "title_en": "everyday polite present",
+   "level": 2,
+   "formality": "polite",
+   "structure": "Stem with final vowel ㅏ or ㅗ + 아요 · other stems + 어요 · 하다 → 해요",
+   "explanation": {
+    "en": "The everyday polite ending, used far more than 습니다 in ordinary conversation. Same form serves as statement and question — only the intonation changes.",
+    "ur": "روزمرہ بااحترام اختتام، عام گفتگو میں 습니다 سے کہیں زیادہ استعمال ہوتا ہے۔ یہی شکل بیان اور سوال دونوں کے لیے — صرف لہجہ بدلتا ہے۔",
+    "hi": "रोज़मर्रा आदरसूचक अंत, सामान्य बातचीत में 습니다 से कहीं अधिक प्रयुक्त। यही रूप कथन और प्रश्न दोनों के लिए — केवल स्वर बदलता है।"
+   },
+   "examples": [
+    {
+     "korean": "어디에 가요?",
+     "romanization": "eodie gayo?",
+     "en": "Where are you going?",
+     "ur": "آپ کہاں جا رہے ہیں؟",
+     "hi": "आप कहाँ जा रहे हैं?"
+    },
+    {
+     "korean": "한국어를 공부해요.",
+     "romanization": "hangugeoreul gongbuhaeyo.",
+     "en": "I study Korean.",
+     "ur": "میں کوریائی پڑھتا ہوں۔",
+     "hi": "मैं कोरियाई पढ़ता हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "하다 verbs always become 해요, never 하아요. This covers hundreds of verbs such as 일하다 → 일해요.",
+    "ur": "하다 والے افعال ہمیشہ 해요 بنتے ہیں، 하아요 کبھی نہیں۔ اس میں سیکڑوں افعال آتے ہیں جیسے 일하다 ← 일해요۔",
+    "hi": "하다 वाली क्रियाएँ हमेशा 해요 बनती हैं, 하아요 कभी नहीं। इसमें सैकड़ों क्रियाएँ आती हैं जैसे 일하다 → 일해요।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.past",
+   "order": 10,
+   "pattern": "았 / 었 + 습니다",
+   "title_en": "past tense",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Stem with ㅏ/ㅗ + 았 · other stems + 었 · 하다 → 했 · then add 습니다 or 어요",
+   "explanation": {
+    "en": "Forms the past tense. 가다 → 갔습니다, 먹다 → 먹었습니다, 하다 → 했습니다.",
+    "ur": "ماضی بناتا ہے۔ 가다 ← 갔습니다، 먹다 ← 먹었습니다، 하다 ← 했습니다۔",
+    "hi": "भूतकाल बनाता है। 가다 → 갔습니다, 먹다 → 먹었습니다, 하다 → 했습니다।"
+   },
+   "examples": [
+    {
+     "korean": "어제 병원에 갔습니다.",
+     "romanization": "eoje byeongwon-e gatseumnida.",
+     "en": "I went to the hospital yesterday.",
+     "ur": "میں کل ہسپتال گیا تھا۔",
+     "hi": "मैं कल अस्पताल गया था।"
+    },
+    {
+     "korean": "점심을 먹었어요.",
+     "romanization": "jeomsimeul meogeosseoyo.",
+     "en": "I ate lunch.",
+     "ur": "میں نے دوپہر کا کھانا کھا لیا۔",
+     "hi": "मैंने दोपहर का भोजन कर लिया।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Korean marks tense once, on the final verb. Do not also add a past-time word thinking the tense is incomplete.",
+    "ur": "کوریائی میں زمانہ صرف ایک بار، آخری فعل پر ظاہر ہوتا ہے۔ یہ سمجھ کر کہ زمانہ ادھورا ہے، اضافی الفاظ نہ لگائیں۔",
+    "hi": "कोरियाई में काल केवल एक बार, अंतिम क्रिया पर दर्शाया जाता है। यह समझकर कि काल अधूरा है, अतिरिक्त शब्द न जोड़ें।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.neg_an",
+   "order": 11,
+   "pattern": "안",
+   "title_en": "negation — 'not'",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "안 + verb/adjective",
+   "explanation": {
+    "en": "The short negative. Place 안 directly before the verb. For 하다 compounds, 안 goes between the noun and 하다: 일 안 해요.",
+    "ur": "مختصر نفی۔ 안 کو فعل سے فوراً پہلے رکھیں۔ 하다 والے مرکب افعال میں 안 اسم اور 하다 کے درمیان آتا ہے: 일 안 해요۔",
+    "hi": "संक्षिप्त निषेध। 안 को क्रिया से ठीक पहले रखें। 하다 वाली मिश्रित क्रियाओं में 안 संज्ञा और 하다 के बीच आता है: 일 안 해요।"
+   },
+   "examples": [
+    {
+     "korean": "저는 고기를 안 먹습니다.",
+     "romanization": "jeoneun gogireul an meokseumnida.",
+     "en": "I do not eat meat.",
+     "ur": "میں گوشت نہیں کھاتا۔",
+     "hi": "मैं माँस नहीं खाता।"
+    },
+    {
+     "korean": "오늘은 일 안 해요.",
+     "romanization": "oneureun il an haeyo.",
+     "en": "I am not working today.",
+     "ur": "آج میں کام نہیں کر رہا۔",
+     "hi": "आज मैं काम नहीं कर रहा।"
+    }
+   ],
+   "common_mistake": {
+    "en": "안 하다 is two words with the 안 inside the compound; writing 안일해요 is wrong.",
+    "ur": "안 하다 میں 안 مرکب کے اندر آتا ہے؛ 안일해요 لکھنا غلط ہے۔",
+    "hi": "안 하다 में 안 मिश्रित शब्द के भीतर आता है; 안일해요 लिखना गलत है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.neg_ji_anta",
+   "order": 12,
+   "pattern": "지 않다",
+   "title_en": "negation — formal 'do not'",
+   "level": 2,
+   "formality": "formal",
+   "structure": "Stem + 지 않다",
+   "explanation": {
+    "en": "The long negative, slightly more formal and common in writing and exams. 가다 → 가지 않습니다.",
+    "ur": "طویل نفی، قدرے زیادہ رسمی اور تحریر و امتحان میں عام۔ 가다 ← 가지 않습니다۔",
+    "hi": "दीर्घ निषेध, कुछ अधिक औपचारिक और लेखन व परीक्षा में सामान्य। 가다 → 가지 않습니다।"
+   },
+   "examples": [
+    {
+     "korean": "그것은 어렵지 않습니다.",
+     "romanization": "geugeoseun eoryeopji anseumnida.",
+     "en": "That is not difficult.",
+     "ur": "وہ مشکل نہیں ہے۔",
+     "hi": "वह कठिन नहीं है।"
+    },
+    {
+     "korean": "저는 담배를 피우지 않습니다.",
+     "romanization": "jeoneun dambaereul piuji anseumnida.",
+     "en": "I do not smoke.",
+     "ur": "میں سگریٹ نہیں پیتا۔",
+     "hi": "मैं धूम्रपान नहीं करता।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Do not use 안 and 지 않다 together — 안 가지 않습니다 is a double negative and wrong.",
+    "ur": "안 اور 지 않다 ایک ساتھ استعمال نہ کریں — 안 가지 않습니다 دوہری نفی ہے اور غلط ہے۔",
+    "hi": "안 और 지 않다 एक साथ प्रयोग न करें — 안 가지 않습니다 दोहरा निषेध है और गलत है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.want",
+   "order": 13,
+   "pattern": "고 싶다",
+   "title_en": "want to",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Verb stem + 고 싶다",
+   "explanation": {
+    "en": "Expresses the speaker's own desire. In the third person Korean uses 고 싶어하다 instead.",
+    "ur": "بولنے والے کی اپنی خواہش ظاہر کرتا ہے۔ تیسرے شخص کے لیے کوریائی میں 고 싶어하다 استعمال ہوتا ہے۔",
+    "hi": "वक्ता की अपनी इच्छा दर्शाता है। तीसरे पुरुष के लिए कोरियाई में 고 싶어하다 प्रयुक्त होता है।"
+   },
+   "examples": [
+    {
+     "korean": "한국에서 일하고 싶습니다.",
+     "romanization": "hangug-eseo ilhago sipseumnida.",
+     "en": "I want to work in Korea.",
+     "ur": "میں کوریا میں کام کرنا چاہتا ہوں۔",
+     "hi": "मैं कोरिया में काम करना चाहता हूँ।"
+    },
+    {
+     "korean": "휴가를 신청하고 싶어요.",
+     "romanization": "hyugareul sincheonghago sipeoyo.",
+     "en": "I want to apply for leave.",
+     "ur": "میں چھٹی کی درخواست دینا چاہتا ہوں۔",
+     "hi": "मैं छुट्टी के लिए आवेदन करना चाहता हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "고 싶다 attaches to verbs only, never to nouns. For a noun use 을/를 원하다 or rephrase.",
+    "ur": "고 싶다 صرف افعال کے ساتھ لگتا ہے، اسم کے ساتھ کبھی نہیں۔ اسم کے لیے 을/를 원하다 استعمال کریں یا جملہ بدلیں۔",
+    "hi": "고 싶다 केवल क्रियाओं के साथ लगता है, संज्ञा के साथ कभी नहीं। संज्ञा के लिए 을/를 원하다 प्रयोग करें या वाक्य बदलें।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.can",
+   "order": 14,
+   "pattern": "ㄹ / 을 수 있다",
+   "title_en": "can, to be able to",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Stem ending in vowel + ㄹ 수 있다 · stem ending in consonant + 을 수 있다 · negative: 수 없다",
+   "explanation": {
+    "en": "Expresses ability or possibility. The negative 수 없다 means 'cannot'.",
+    "ur": "صلاحیت یا امکان ظاہر کرتا ہے۔ منفی شکل 수 없다 کا مطلب ‘نہیں کر سکتا’ ہے۔",
+    "hi": "क्षमता या संभावना दर्शाता है। नकारात्मक रूप 수 없다 का अर्थ ‘नहीं कर सकता’ है।"
+   },
+   "examples": [
+    {
+     "korean": "한국어를 조금 할 수 있습니다.",
+     "romanization": "hangugeoreul jogeum hal su itseumnida.",
+     "en": "I can speak a little Korean.",
+     "ur": "میں تھوڑی کوریائی بول سکتا ہوں۔",
+     "hi": "मैं थोड़ी कोरियाई बोल सकता हूँ।"
+    },
+    {
+     "korean": "오늘은 잔업을 할 수 없습니다.",
+     "romanization": "oneureun janeobeul hal su eopseumnida.",
+     "en": "I cannot do overtime today.",
+     "ur": "آج میں اوور ٹائم نہیں کر سکتا۔",
+     "hi": "आज मैं ओवरटाइम नहीं कर सकता।"
+    }
+   ],
+   "common_mistake": {
+    "en": "수 is a separate word and takes a space on both sides: 할 수 있다, not 할수있다.",
+    "ur": "수 الگ لفظ ہے اور دونوں طرف وقفہ لیتا ہے: 할 수 있다، نہ کہ 할수있다۔",
+    "hi": "수 अलग शब्द है और दोनों ओर स्थान लेता है: 할 수 있다, न कि 할수있다।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.must",
+   "order": 15,
+   "pattern": "아야 / 어야 하다",
+   "title_en": "must, have to",
+   "level": 3,
+   "formality": "neutral",
+   "structure": "Stem with ㅏ/ㅗ + 아야 하다 · other stems + 어야 하다 · 하다 → 해야 하다",
+   "explanation": {
+    "en": "Expresses obligation or necessity. Very common in workplace instructions and safety notices.",
+    "ur": "لازمیت یا ضرورت ظاہر کرتا ہے۔ کام کی جگہ کی ہدایات اور حفاظتی نوٹسوں میں بہت عام۔",
+    "hi": "बाध्यता या आवश्यकता दर्शाता है। कार्यस्थल के निर्देशों और सुरक्षा सूचनाओं में बहुत सामान्य।"
+   },
+   "examples": [
+    {
+     "korean": "안전모를 써야 합니다.",
+     "romanization": "anjeonmoreul sseoya hamnida.",
+     "en": "You must wear a safety helmet.",
+     "ur": "حفاظتی ہیلمٹ پہننا ضروری ہے۔",
+     "hi": "सुरक्षा हेलमेट पहनना ज़रूरी है।"
+    },
+    {
+     "korean": "여덟 시까지 와야 해요.",
+     "romanization": "yeodeol sikkaji waya haeyo.",
+     "en": "You have to come by eight.",
+     "ur": "آٹھ بجے تک آنا ہوگا۔",
+     "hi": "आठ बजे तक आना होगा।"
+    }
+   ],
+   "common_mistake": {
+    "en": "하다 can be replaced by 되다 with almost the same meaning: 써야 됩니다 is equally natural in speech.",
+    "ur": "하다 کی جگہ 되다 تقریباً اسی معنی میں آ سکتا ہے: بول چال میں 써야 됩니다 بھی اتنا ہی فطری ہے۔",
+    "hi": "하다 की जगह 되다 लगभग उसी अर्थ में आ सकता है: बोलचाल में 써야 됩니다 भी उतना ही स्वाभाविक है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.request",
+   "order": 16,
+   "pattern": "아 / 어 주세요",
+   "title_en": "please do (request)",
+   "level": 2,
+   "formality": "polite",
+   "structure": "Stem with ㅏ/ㅗ + 아 주세요 · other stems + 어 주세요 · 하다 → 해 주세요",
+   "explanation": {
+    "en": "A polite request asking someone to do something for you. Essential for daily life and for asking for help at work.",
+    "ur": "کسی سے اپنے لیے کچھ کرنے کی بااحترام درخواست۔ روزمرہ زندگی اور کام پر مدد مانگنے کے لیے ناگزیر۔",
+    "hi": "किसी से अपने लिए कुछ करने का विनम्र अनुरोध। रोज़मर्रा जीवन और काम पर मदद माँगने के लिए आवश्यक।"
+   },
+   "examples": [
+    {
+     "korean": "다시 말해 주세요.",
+     "romanization": "dasi malhae juseyo.",
+     "en": "Please say that again.",
+     "ur": "براہِ کرم دوبارہ کہیے۔",
+     "hi": "कृपया फिर से कहिए।"
+    },
+    {
+     "korean": "조금만 도와주세요.",
+     "romanization": "jogeumman dowajuseyo.",
+     "en": "Please help me a little.",
+     "ur": "براہِ کرم تھوڑی مدد کیجیے۔",
+     "hi": "कृपया थोड़ी मदद कीजिए।"
+    }
+   ],
+   "common_mistake": {
+    "en": "주세요 asks for a favour to the speaker; plain 으세요 is an instruction. A supervisor says 쓰세요, a worker asks 써 주세요.",
+    "ur": "주세요 اپنے فائدے کے لیے درخواست ہے؛ سادہ 으세요 ہدایت ہے۔ نگران کہے گا 쓰세요، کارکن کہے گا 써 주세요۔",
+    "hi": "주세요 अपने लिए अनुरोध है; सादा 으세요 निर्देश है। पर्यवेक्षक कहेगा 쓰세요, कर्मचारी कहेगा 써 주세요।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.dont",
+   "order": 17,
+   "pattern": "지 마세요",
+   "title_en": "please do not",
+   "level": 2,
+   "formality": "polite",
+   "structure": "Verb stem + 지 마세요",
+   "explanation": {
+    "en": "A polite negative command. Extremely common on safety signage in Korean workplaces.",
+    "ur": "بااحترام منفی حکم۔ کوریائی کام کی جگہوں پر حفاظتی بورڈز پر انتہائی عام۔",
+    "hi": "विनम्र नकारात्मक आदेश। कोरियाई कार्यस्थलों पर सुरक्षा सूचनाओं में अत्यंत सामान्य।"
+   },
+   "examples": [
+    {
+     "korean": "여기에 들어가지 마세요.",
+     "romanization": "yeogie deureogaji maseyo.",
+     "en": "Please do not enter here.",
+     "ur": "براہِ کرم یہاں داخل نہ ہوں۔",
+     "hi": "कृपया यहाँ प्रवेश न करें।"
+    },
+    {
+     "korean": "기계를 만지지 마세요.",
+     "romanization": "gigyereul manjiji maseyo.",
+     "en": "Please do not touch the machine.",
+     "ur": "براہِ کرم مشین کو نہ چھوئیں۔",
+     "hi": "कृपया मशीन को न छुएँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "지 마세요 attaches to verbs only. You cannot say 위험하지 마세요 for an adjective.",
+    "ur": "지 마세요 صرف افعال کے ساتھ لگتا ہے۔ صفت کے لیے 위험하지 마세요 نہیں کہہ سکتے۔",
+    "hi": "지 마세요 केवल क्रियाओं के साथ लगता है। विशेषण के लिए 위험하지 마세요 नहीं कह सकते।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.because_aseo",
+   "order": 18,
+   "pattern": "아서 / 어서",
+   "title_en": "because; and then",
+   "level": 3,
+   "formality": "neutral",
+   "structure": "Stem with ㅏ/ㅗ + 아서 · other stems + 어서 · 하다 → 해서",
+   "explanation": {
+    "en": "Links a reason to a result, or two actions in sequence. The tense is marked only on the final verb.",
+    "ur": "سبب کو نتیجے سے جوڑتا ہے، یا دو کاموں کو ترتیب سے۔ زمانہ صرف آخری فعل پر ظاہر ہوتا ہے۔",
+    "hi": "कारण को परिणाम से जोड़ता है, या दो क्रियाओं को क्रम में। काल केवल अंतिम क्रिया पर दर्शाया जाता है।"
+   },
+   "examples": [
+    {
+     "korean": "늦어서 죄송합니다.",
+     "romanization": "neujeoseo joesonghamnida.",
+     "en": "I am sorry for being late.",
+     "ur": "دیر ہونے پر معذرت۔",
+     "hi": "देर होने के लिए क्षमा कीजिए।"
+    },
+    {
+     "korean": "아파서 병원에 갔습니다.",
+     "romanization": "apaseo byeongwon-e gatseumnida.",
+     "en": "I was ill, so I went to the hospital.",
+     "ur": "میں بیمار تھا اس لیے ہسپتال گیا۔",
+     "hi": "मैं बीमार था इसलिए अस्पताल गया।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Never put a past marker before 아서/어서. 갔어서 is wrong; use 가서.",
+    "ur": "아서/어서 سے پہلے ماضی کا نشان کبھی نہ لگائیں۔ 갔어서 غلط ہے؛ 가서 استعمال کریں۔",
+    "hi": "아서/어서 से पहले भूतकाल का चिह्न कभी न लगाएँ। 갔어서 गलत है; 가서 प्रयोग करें।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.because_nikka",
+   "order": 19,
+   "pattern": "니까 / 으니까",
+   "title_en": "because (reason)",
+   "level": 3,
+   "formality": "neutral",
+   "structure": "Stem ending in vowel + 니까 · stem ending in consonant + 으니까",
+   "explanation": {
+    "en": "Gives a reason. Unlike 아서/어서, it can be followed by a command or suggestion, which makes it the right choice for instructions.",
+    "ur": "سبب بتاتا ہے۔ 아서/어서 کے برعکس، اس کے بعد حکم یا تجویز آ سکتی ہے، اسی لیے ہدایات کے لیے یہی درست ہے۔",
+    "hi": "कारण बताता है। 아서/어서 के विपरीत, इसके बाद आदेश या सुझाव आ सकता है, इसीलिए निर्देशों के लिए यही सही है।"
+   },
+   "examples": [
+    {
+     "korean": "위험하니까 조심하세요.",
+     "romanization": "wiheomhanikka josimhaseyo.",
+     "en": "It is dangerous, so be careful.",
+     "ur": "خطرناک ہے، اس لیے احتیاط کریں۔",
+     "hi": "खतरनाक है, इसलिए सावधान रहें।"
+    },
+    {
+     "korean": "비가 오니까 우산을 가져가세요.",
+     "romanization": "biga onikka usaneul gajyeogaseyo.",
+     "en": "It is raining, so take an umbrella.",
+     "ur": "بارش ہو رہی ہے، چھتری لے جائیں۔",
+     "hi": "बारिश हो रही है, छाता ले जाइए।"
+    }
+   ],
+   "common_mistake": {
+    "en": "For apologies and thanks Korean prefers 아서/어서: 늦어서 죄송합니다, not 늦으니까 죄송합니다.",
+    "ur": "معذرت اور شکریے کے لیے کوریائی 아서/어서 کو ترجیح دیتی ہے: 늦어서 죄송합니다، نہ کہ 늦으니까 죄송합니다۔",
+    "hi": "क्षमा और धन्यवाद के लिए कोरियाई 아서/어서 पसंद करती है: 늦어서 죄송합니다, न कि 늦으니까 죄송합니다।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.if",
+   "order": 20,
+   "pattern": "면 / 으면",
+   "title_en": "if, when",
+   "level": 3,
+   "formality": "neutral",
+   "structure": "Stem ending in vowel + 면 · stem ending in consonant + 으면",
+   "explanation": {
+    "en": "Introduces a condition. Common in safety instructions and workplace rules.",
+    "ur": "شرط متعارف کراتا ہے۔ حفاظتی ہدایات اور کام کے قواعد میں عام۔",
+    "hi": "शर्त प्रस्तुत करता है। सुरक्षा निर्देशों और कार्यस्थल के नियमों में सामान्य।"
+   },
+   "examples": [
+    {
+     "korean": "아프면 말하세요.",
+     "romanization": "apeumyeon malhaseyo.",
+     "en": "If you are ill, tell someone.",
+     "ur": "اگر آپ بیمار ہوں تو بتائیں۔",
+     "hi": "अगर आप बीमार हों तो बताइए।"
+    },
+    {
+     "korean": "시간이 있으면 도와주세요.",
+     "romanization": "sigani isseumyeon dowajuseyo.",
+     "en": "If you have time, please help.",
+     "ur": "اگر وقت ہو تو مدد کیجیے۔",
+     "hi": "अगर समय हो तो मदद कीजिए।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Do not confuse with 만 ('only'). 있으면 means 'if there is'; 있지만 means 'there is, but'.",
+    "ur": "만 (‘صرف’) سے نہ الجھیں۔ 있으면 کا مطلب ‘اگر ہو’؛ 있지만 کا مطلب ‘ہے، مگر’۔",
+    "hi": "만 (‘केवल’) से भ्रमित न हों। 있으면 का अर्थ ‘अगर हो’; 있지만 का अर्थ ‘है, लेकिन’।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.but",
+   "order": 21,
+   "pattern": "지만",
+   "title_en": "but, however",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Stem + 지만",
+   "explanation": {
+    "en": "Joins two contrasting clauses within one sentence.",
+    "ur": "ایک ہی جملے میں دو متضاد حصوں کو جوڑتا ہے۔",
+    "hi": "एक ही वाक्य में दो विरोधी उपवाक्यों को जोड़ता है।"
+   },
+   "examples": [
+    {
+     "korean": "일은 힘들지만 재미있습니다.",
+     "romanization": "ireun himdeuljiman jaemiitseumnida.",
+     "en": "The work is hard but interesting.",
+     "ur": "کام مشکل ہے مگر دلچسپ ہے۔",
+     "hi": "काम कठिन है पर दिलचस्प है।"
+    },
+    {
+     "korean": "한국어를 배우지만 아직 어렵습니다.",
+     "romanization": "hangugeoreul baeujiman ajik eoryeopseumnida.",
+     "en": "I am learning Korean, but it is still difficult.",
+     "ur": "میں کوریائی سیکھ رہا ہوں مگر ابھی مشکل ہے۔",
+     "hi": "मैं कोरियाई सीख रहा हूँ पर अभी कठिन है।"
+    }
+   ],
+   "common_mistake": {
+    "en": "지만 attaches straight to the stem. Past tense goes before it: 갔지만.",
+    "ur": "지만 براہِ راست جڑ کے ساتھ لگتا ہے۔ ماضی اس سے پہلے آتا ہے: 갔지만۔",
+    "hi": "지만 सीधे धातु के साथ लगता है। भूतकाल इससे पहले आता है: 갔지만।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.and_go",
+   "order": 22,
+   "pattern": "고",
+   "title_en": "and (linking actions)",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Stem + 고",
+   "explanation": {
+    "en": "Links two verbs or clauses — 'and'. It can mean simple listing or sequence.",
+    "ur": "دو افعال یا فقروں کو جوڑتا ہے — ‘اور’۔ یہ محض فہرست یا ترتیب دونوں ظاہر کر سکتا ہے۔",
+    "hi": "दो क्रियाओं या उपवाक्यों को जोड़ता है — ‘और’। यह सूची या क्रम दोनों दर्शा सकता है।"
+   },
+   "examples": [
+    {
+     "korean": "밥을 먹고 일합니다.",
+     "romanization": "babeul meokgo ilhamnida.",
+     "en": "I eat and then work.",
+     "ur": "میں کھانا کھا کر کام کرتا ہوں۔",
+     "hi": "मैं भोजन करके काम करता हूँ।"
+    },
+    {
+     "korean": "장갑을 끼고 일하세요.",
+     "romanization": "janggabeul kkigo ilhaseyo.",
+     "en": "Work wearing gloves.",
+     "ur": "دستانے پہن کر کام کریں۔",
+     "hi": "दस्ताने पहनकर काम कीजिए।"
+    }
+   ],
+   "common_mistake": {
+    "en": "고 does not carry tense. Mark tense on the final verb only: 먹고 일했습니다.",
+    "ur": "고 زمانہ نہیں رکھتا۔ زمانہ صرف آخری فعل پر: 먹고 일했습니다۔",
+    "hi": "고 काल नहीं रखता। काल केवल अंतिम क्रिया पर: 먹고 일했습니다।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.honorific_si",
+   "order": 23,
+   "pattern": "시 / 으시",
+   "title_en": "honorific marker",
+   "level": 3,
+   "formality": "honorific",
+   "structure": "Stem ending in vowel + 시 · stem ending in consonant + 으시",
+   "explanation": {
+    "en": "Raises the subject of the sentence out of respect. Used for a boss, an elder, a customer — never for yourself.",
+    "ur": "احترام کے طور پر جملے کے فاعل کا درجہ بلند کرتا ہے۔ مالک، بزرگ یا گاہک کے لیے — اپنے لیے کبھی نہیں۔",
+    "hi": "आदर के कारण वाक्य के कर्ता का स्तर ऊँचा करता है। मालिक, बुज़ुर्ग या ग्राहक के लिए — स्वयं के लिए कभी नहीं।"
+   },
+   "examples": [
+    {
+     "korean": "사장님이 오십니다.",
+     "romanization": "sajangnimi osimnida.",
+     "en": "The boss is coming.",
+     "ur": "مالک صاحب آ رہے ہیں۔",
+     "hi": "मालिक आ रहे हैं।"
+    },
+    {
+     "korean": "어디에 가세요?",
+     "romanization": "eodie gaseyo?",
+     "en": "Where are you going?",
+     "ur": "آپ کہاں جا رہے ہیں؟",
+     "hi": "आप कहाँ जा रहे हैं?"
+    }
+   ],
+   "common_mistake": {
+    "en": "Never apply 시 to yourself. Saying 저는 가십니다 about yourself is a serious politeness error.",
+    "ur": "시 اپنے لیے کبھی استعمال نہ کریں۔ اپنے بارے میں 저는 가십니다 کہنا شائستگی کی سنگین غلطی ہے۔",
+    "hi": "시 का प्रयोग स्वयं के लिए कभी न करें। अपने बारे में 저는 가십니다 कहना शिष्टाचार की गंभीर भूल है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  },
+  {
+   "id": "grammar.also_do",
+   "order": 24,
+   "pattern": "도",
+   "title_en": "also, too",
+   "level": 2,
+   "formality": "neutral",
+   "structure": "Noun + 도 (replaces 은/는, 이/가, 을/를)",
+   "explanation": {
+    "en": "Means 'also' or 'too'. It replaces the topic, subject and object particles rather than stacking with them.",
+    "ur": "‘بھی’ کا مطلب۔ یہ موضوع، فاعل اور مفعول کے نشانات کی جگہ لیتا ہے، ان کے ساتھ نہیں لگتا۔",
+    "hi": "‘भी’ का अर्थ। यह विषय, कर्ता और कर्म चिह्नों की जगह लेता है, उनके साथ नहीं लगता।"
+   },
+   "examples": [
+    {
+     "korean": "저도 갑니다.",
+     "romanization": "jeodo gamnida.",
+     "en": "I am going too.",
+     "ur": "میں بھی جا رہا ہوں۔",
+     "hi": "मैं भी जा रहा हूँ।"
+    },
+    {
+     "korean": "토요일에도 일합니다.",
+     "romanization": "toyoiredo ilhamnida.",
+     "en": "I work on Saturdays too.",
+     "ur": "میں ہفتے کو بھی کام کرتا ہوں۔",
+     "hi": "मैं शनिवार को भी काम करता हूँ।"
+    }
+   ],
+   "common_mistake": {
+    "en": "Never write 저는도 or 저를도. Say 저도. With 에, however, 에도 is correct.",
+    "ur": "저는도 یا 저를도 کبھی نہ لکھیں۔ 저도 کہیں۔ البتہ 에 کے ساتھ 에도 درست ہے۔",
+    "hi": "저는도 या 저를도 कभी न लिखें। 저도 कहें। परंतु 에 के साथ 에도 सही है।"
+   },
+   "source_ref": "src.original",
+   "review_status": "reviewed_ko"
+  }
+ ]
+}
