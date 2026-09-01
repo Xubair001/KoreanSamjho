@@ -147,6 +147,42 @@ Stated plainly rather than implied:
 - `keystore.properties` and the `.jks` are git-ignored; the build degrades to
   unsigned if they are absent, so a fresh clone still builds
 
+### Continuous integration
+
+`.github/workflows/android.yml` runs on every push and pull request to `main`,
+and can be triggered manually. Four jobs, gated in order:
+
+| Job | Does | Artefact |
+|---|---|---|
+| `content` | Runs the content validator on its own, so bad educational data fails in seconds before any Gradle work | — |
+| `lint` | `:app:lintDebug` | lint HTML + XML report |
+| `test` | `:app:testDebugUnitTest` | JUnit HTML + XML results |
+| `build` | Needs lint **and** test green, then builds debug and release APKs, asserts both exist, and dumps the release package name, label and permissions | both APKs, 30-day retention |
+
+Two things worth noting:
+
+- **The content gate cannot be bypassed.** `preBuild` depends on `buildContentDb`,
+  which regenerates `content.db` from `content/src/` and aborts on any validation
+  failure. `content.db` is therefore a build artefact and is **not** committed —
+  CI builds the database from source on every run.
+- **Signing is optional.** Signing material is never committed. If the repository
+  secrets `KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`, `KEY_ALIAS` and `KEY_PASSWORD`
+  are set, the release APK is signed; otherwise the build still succeeds and
+  produces `app-release-unsigned.apk`, so forks and pull requests are not blocked.
+
+To enable signed release builds:
+
+```bash
+base64 -w0 koreansamjho-release.jks   # paste as the KEYSTORE_BASE64 secret
+```
+
+then add `KEYSTORE_PASSWORD`, `KEY_ALIAS` and `KEY_PASSWORD` alongside it.
+
+**Verified by a clean-clone dry run** of every workflow step — fresh `git clone`,
+no keystore, no `local.properties`, no build cache: content validation passed, lint
+passed, 20/20 tests passed, and both APKs were produced
+(`app-debug.apk` 21 MB, `app-release-unsigned.apk` 3.9 MB).
+
 ### Building
 
 ```bash
